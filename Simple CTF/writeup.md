@@ -38,6 +38,10 @@ secret
 * ```pip install termcolor```
 * ```python exploit.py -u http://10.10.25.90/simple```
 * ```hashcat -m 0 -a 0 hash.txt /usr/share/wordlists/rockyou.txt```
+<p align="center">
+  <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/aaf19fa4-91ed-4bf3-894a-5acb78182eb4" />
+</p>
+
 
 ### Where can you login with the details obtained?
 ```
@@ -49,6 +53,10 @@ ssh
 G00d j0b, keep up!
 ```
 * ```cat user.txt```
+<p align="center">
+  <img width="940" height="378" alt="image" src="https://github.com/user-attachments/assets/6e26a3bd-9f21-465a-bb9c-b06919a5136b" />
+</p>
+
 ### Is there any other user in the home directory? What's its name?
 ```
 sunbath
@@ -65,5 +73,8 @@ vim
 W3ll d0n3. You made it!
 ```
 * ```cat /root/root.txt```
+<p align="center">
+  <img width="940" height="851" alt="image" src="https://github.com/user-attachments/assets/4bd7dba5-54f3-4aa8-913d-aee8f121adcc" />
+</p>
 
 Completed Room
