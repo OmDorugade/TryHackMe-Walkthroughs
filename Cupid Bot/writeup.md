@@ -21,7 +21,7 @@
 
 ## 3.What's the final flag?
 <p align="center">
-
+  <img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/f670aca8-d65a-4bdd-803c-fdcb4f807158" />
 </p>
 
 `THM{arrow_3c8f1d5a9e2b6f4c7d1a8e5b9f3c6d2a}`
