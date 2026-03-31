@@ -11,7 +11,7 @@
 ## 2. What the system flag?
 `THM{cupid_a7f3e89c4b2d6f1a5e8c9d3b7f4a2e6c}`
 
-## What's the final flag?
+## 3.What's the final flag?
 `THM{arrow_3c8f1d5a9e2b6f4c7d1a8e5b9f3c6d2a}`
 
 Completed Room
