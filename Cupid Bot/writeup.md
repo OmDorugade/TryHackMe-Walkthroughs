@@ -14,7 +14,7 @@
 
 ## 2. What the system flag?
 <p align="center">
-  
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f261c185-d716-4392-85d3-fb2e889e81e5" />
 </p>
 
 `THM{cupid_a7f3e89c4b2d6f1a5e8c9d3b7f4a2e6c}`
