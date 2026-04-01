@@ -32,9 +32,9 @@ lin
 ```
 
 ##4. What service can you bruteforce with the text file found?  
-
-<img width="913" height="163" alt="image" src="https://github.com/user-attachments/assets/d6a8c936-3847-4f16-b649-5145a2bc46f2" />
-
+<p align="center">
+  <img width="913" height="163" alt="image" src="https://github.com/user-attachments/assets/d6a8c936-3847-4f16-b649-5145a2bc46f2" />
+</p>
 
 ```
 SSH  
