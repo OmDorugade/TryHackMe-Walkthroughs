@@ -85,8 +85,12 @@ THM{y0u_g0t_a_sh3ll}
 No answer needed
 ```
 
+## 10. Root.txt
+<p align="center">
+  <img width="443" height="127" alt="image" src="https://github.com/user-attachments/assets/89cfba0f-135f-4726-a704-918dea32c903" />
+</p>
 
-
-
-
+```
+THM{pr1v1l3g3_3sc4l4t10n}
+```
 
