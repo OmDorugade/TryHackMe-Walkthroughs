@@ -34,10 +34,18 @@ ssh
 ```
 
 ## 5. Find directories on the web server using the GoBuster tool.
+<p align="center">
+  <img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/bea84bb9-a683-47c5-9165-c6f727f25879" />
+</p>
+
 ```
 No answer needed
 ```
 
+## 6. What is the hidden directory?
+```
+/panel
+```
 
 
 
