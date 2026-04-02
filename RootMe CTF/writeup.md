@@ -50,7 +50,8 @@ No answer needed
 ## 7. Find a form to upload and get a reverse shell, and find the flag.
 We can upload phtml files on `/uploads` directory.
 
-1.Upload phtml file with a reverse shell.
+1.Upload phtml file with a reverse shell. To get reverse_shell file goto  
+[PHP Reverse Shell](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
 2.Set up a listner on our machine.
 
