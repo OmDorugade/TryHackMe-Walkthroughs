@@ -22,3 +22,32 @@ No answer needed
 ```
 2
 ```
+
+## 3.What version of Apache is running?
+```
+2.4.41
+```
+
+## 4. What service is running on port 22?
+```
+ssh
+```
+
+## 5. Find directories on the web server using the GoBuster tool.
+```
+No answer needed
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
