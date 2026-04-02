@@ -76,6 +76,14 @@ THM{y0u_g0t_a_sh3ll}
 /usr/bin/python
 ```
 
+## 9. Find a form to escalate your privileges.
+<p align="center">
+  <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/03370ccf-ec84-4308-92c4-b9f666b3abe9" />
+</p>
+
+```
+No answer needed
+```
 
 
 
