@@ -48,6 +48,16 @@ No answer needed
 ```
 
 ## 7. Find a form to upload and get a reverse shell, and find the flag.
+We can upload phtml files on `/uploads` directory.
+
+1.Upload phtml file with a reverse shell.
+
+2.Set up a listner on our machine.
+
+3.Click on the file that we uploaded i.e `phtml`.
+
+4.We will get a reverse shell.
+
 user.txt
 <p align="center">
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/efbd499f-1a8c-49ed-a82c-3c0b49b70c17" />
@@ -56,6 +66,8 @@ user.txt
 ```
 THM{y0u_g0t_a_sh3ll}
 ```
+
+
 
 
 
