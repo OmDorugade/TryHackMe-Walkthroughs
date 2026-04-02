@@ -47,10 +47,15 @@ No answer needed
 /panel
 ```
 
+## 7. Find a form to upload and get a reverse shell, and find the flag.
+user.txt
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/efbd499f-1a8c-49ed-a82c-3c0b49b70c17" />
+</p>
 
-
-
-
+```
+THM{y0u_g0t_a_sh3ll}
+```
 
 
 
