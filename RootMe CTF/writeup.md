@@ -67,8 +67,14 @@ user.txt
 THM{y0u_g0t_a_sh3ll}
 ```
 
+## 8. Search for files with SUID permission, which file is weird?
+<p align="center">
+  <img width="288" height="166" alt="image" src="https://github.com/user-attachments/assets/9f17ceab-d17a-4626-ac07-29c0e50e17f1" />
+</p>
 
-
+```
+/usr/bin/python
+```
 
 
 
