@@ -7,7 +7,7 @@
 
 This Rick and Morty-themed challenge requires you to exploit a web server and find three ingredients to help Rick make his potion and transform himself back into a human from a pickle.
 
-Deploy the virtual machine on this task and explore the web application
+Deploy the virtual machine on this task and explore the web application.
 
 ## 1. What is the first ingredient that Rick needs?
 
@@ -22,12 +22,26 @@ Checking the `robots.txt` file we found this !
   <img width="238" height="50" alt="image" src="https://github.com/user-attachments/assets/14f6fce9-f3df-4aaf-8c87-68a32d0ea0ce" />
 </p>
 
-Used `gobuster` for directory traversal 
+Used `gobuster` for directory traversal.
 <p align="center">
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/9d7793cb-4f13-427b-9b3d-7100cbe0fbb7" />
 </p>
 
-Now if we look again at the files under `/assets`, we see a `portal.jpg`
+Now if we look again at the files under `/assets`, we see a `portal.jpg`.
+
+Found a login page `portal.php` and using the username as `R1ckRul3s` and password as `Wubbalubbadubdub` we were logged in.
+<p align="center">
+  <img width="1457" height="616" alt="image" src="https://github.com/user-attachments/assets/2748e442-0021-4931-8407-6ec516a6716e" />
+</p>
+
+Used `ls` in the command panel we found a text file but we cannot use `cat` command so searched another command for `cat` and found `less` command.
+<p align="center">
+  <img width="1447" height="446" alt="image" src="https://github.com/user-attachments/assets/41d83377-9a58-4063-b5ca-bf11bc9705e6" />
+</p>
+
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/2b4c1a17-8d4d-441f-9b91-4b6a282699ea" />
+</p>
 
 ```
 mr. meeseek hair
