@@ -68,7 +68,14 @@ We are able to run `sudo -l` command so we did that and went to this directory `
 1 jerry tear
 ```
 
+## 3. What is the last and final ingredient?
 
+We Found the third ingredient in the `/root/3rd.txt` and got the final flag:
+<p align="center">
+  <img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/3625522d-e411-47bb-b906-91499d7ad75f" />
+</p>
 
-
+```
+fleeb juice
+```
 
