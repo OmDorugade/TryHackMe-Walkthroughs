@@ -27,6 +27,8 @@ Used `gobuster` for directory traversal
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/9d7793cb-4f13-427b-9b3d-7100cbe0fbb7" />
 </p>
 
+Now if we look again at the files under `/assets`, we see a `portal.jpg`
+
 ```
 mr. meeseek hair
 ```
