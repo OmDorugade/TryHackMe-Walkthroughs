@@ -52,7 +52,10 @@ Now we try to get the source PHP code to get a list of all the blacklisted comma
   <img width="1122" height="891" alt="image" src="https://github.com/user-attachments/assets/f7a845f0-31d5-485e-a08e-360ea2dfaedb" />
 </p>
 
-
+Inspecting the source, we get the list of the blacklisted command as follows :
+<p align="center">
+  <img width="1628" height="292" alt="image" src="https://github.com/user-attachments/assets/472bc138-2dd1-4701-a425-6df3a447d371" />
+</p>
 
 
 
