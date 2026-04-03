@@ -57,9 +57,16 @@ Inspecting the source, we get the list of the blacklisted command as follows :
   <img width="1628" height="292" alt="image" src="https://github.com/user-attachments/assets/472bc138-2dd1-4701-a425-6df3a447d371" />
 </p>
 
+## 2. What is the second ingredient in Rick’s potion?
 
+We are able to run `sudo -l` command so we did that and went to this directory `/home/rick/second ingredients` to get second flag and got this:
+<p align="center"> 
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5574d254-fb63-4617-90a0-4791acf8d329" />
+</p>
 
-
+```
+1 jerry tear
+```
 
 
 
