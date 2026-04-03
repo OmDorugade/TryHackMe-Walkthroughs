@@ -47,6 +47,10 @@ Used `ls` in the command panel we found a text file but we cannot use `cat` comm
 mr. meeseek hair
 ```
 
+Now we try to get the source PHP code to get a list of all the blacklisted commands. We put in `grep -R " "` in the command box and get the following page as output :
+<p align="center">
+  <img width="1122" height="891" alt="image" src="https://github.com/user-attachments/assets/f7a845f0-31d5-485e-a08e-360ea2dfaedb" />
+</p>
 
 
 
