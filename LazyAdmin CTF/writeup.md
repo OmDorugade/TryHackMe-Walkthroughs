@@ -61,13 +61,26 @@ For privilege escalation we used `sudo -l` and found this file:
    <img width="940" height="133" alt="image" src="https://github.com/user-attachments/assets/2ee5aff9-7215-476f-aa46-c51fe46bba66" />
 </p>
 
+We used `cat` to look what insisde the file and found another `copy.sh` file :
+<p align="center">
+   <img width="940" height="134" alt="image" src="https://github.com/user-attachments/assets/a5f65e30-438d-4043-8808-8fc5a41ab7dc" />
+</p>
 
+We read the file and uploaded another reverse shell to get `root`:
+<p align="center">
+   <img width="940" height="76" alt="image" src="https://github.com/user-attachments/assets/460f29fe-d088-4785-bcdd-2cb542601297" />
+</p>
 
+Then set up a listener on our machine and run `sudo /usr/bin/perl /home/itguy/backup.pl` and got our `root.txt` flag :
+<p align="center">
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/013a7c4e-6dd6-431b-a696-925332cfec2a" />
+</p>
 
+```
+THM{6637f41d0177b6f37cb20d775124699f}
+```
 
-
-
-
+Room Completed 
 
 
 
