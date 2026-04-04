@@ -31,7 +31,10 @@ In that directory found a `mysql_backup/` directory and in that found backup:
    <img width="578" height="317" alt="image" src="https://github.com/user-attachments/assets/83810b74-ef88-48fa-a99e-6f7ad0d65984" />
 </p>
 
-
+We used `cat mysql_backup.sql` file and found this:
+<p align="center">
+   <img width="832" height="232" alt="image" src="https://github.com/user-attachments/assets/e6a90afd-5bdd-437d-975c-a74f1bf20ca7" />
+</p>
 
 
 
