@@ -36,6 +36,12 @@ We used `cat mysql_backup.sql` file and found this:
    <img width="832" height="232" alt="image" src="https://github.com/user-attachments/assets/e6a90afd-5bdd-437d-975c-a74f1bf20ca7" />
 </p>
 
+Used `crackstation.net` to crack the hash:
+<p align="center">
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6711de2c-ed26-4435-9ba3-67aa9688a963" />
+</p>
+
+
 
 
 
