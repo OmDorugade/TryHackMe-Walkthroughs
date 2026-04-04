@@ -21,7 +21,10 @@ Searched in `exploit.db` and found this:
    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/716374cf-86ca-41c3-b399-6df956b0f46a" />
 </p>
 
-
+After this again run `gobuster` on `http://ip/content/` and found this :
+<p align="center">
+   <img width="776" height="241" alt="image" src="https://github.com/user-attachments/assets/e51009dd-ca8f-448e-9be4-0a1d9b80183b" />
+</p>
 
 
 
