@@ -6,9 +6,20 @@
 </div>
 
 ## 1. What is the user flag?
-Enumerate the machine using `gobuster` and `nmap`
+Enumerate the machine using `gobuster` and `nmap` we found this:
+<p align="center">
+   <img width="847" height="216" alt="image" src="https://github.com/user-attachments/assets/3027bf27-fa8a-4d40-902d-a30616e2fc48" />
+</p>
 
+Looking at the website we found it is using `SweetRice` as website management system.
+<p align="center">
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ab6d8b8e-a1a8-4118-9f4e-5a99435e5cb7" />
+</p>
 
+Searched in `exploit.db` and found this:
+<p align="center">
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/716374cf-86ca-41c3-b399-6df956b0f46a" />
+</p>
 
 
 
