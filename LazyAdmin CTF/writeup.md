@@ -26,8 +26,10 @@ After this again run `gobuster` on `http://ip/content/` and found this :
    <img width="776" height="241" alt="image" src="https://github.com/user-attachments/assets/e51009dd-ca8f-448e-9be4-0a1d9b80183b" />
 </p>
 
-
-
+In that directory found a `mysql_backup/` directory and in that found backup:
+<p align="center">
+   <img width="578" height="317" alt="image" src="https://github.com/user-attachments/assets/83810b74-ef88-48fa-a99e-6f7ad0d65984" />
+</p>
 
 
 
