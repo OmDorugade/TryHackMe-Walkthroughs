@@ -36,17 +36,30 @@ We used `cat mysql_backup.sql` file and found this:
    <img width="832" height="232" alt="image" src="https://github.com/user-attachments/assets/e6a90afd-5bdd-437d-975c-a74f1bf20ca7" />
 </p>
 
-Used `crackstation.net` to crack the hash:
+Used `crackstation.net` to crack the hash and logged in as manager :
 <p align="center">
    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6711de2c-ed26-4435-9ba3-67aa9688a963" />
 </p>
 
+Looked at different pages and found this page where we can upload a file , we uploaded `reverse shell` file to gain access:
+<p align="center">
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/305db8e8-6497-4d01-9e56-074ab2f910c2" />
+</p>
 
+Set up a listener on our machine and clicked on the uploaded file, and got our first `user.txt` flag :
+<p align="center">
+   <img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/dbf074de-024b-4511-a4b4-598263260496" />
+</p>
 
+```
+THM{63e5bce9271952aad1113b6f1ac28a07}
+```
 
-
-
-
+## 2. What is the root flag?
+For privilege escalation we used `sudo -l` and found this file:
+<p align="center">
+   <img width="940" height="133" alt="image" src="https://github.com/user-attachments/assets/2ee5aff9-7215-476f-aa46-c51fe46bba66" />
+</p>
 
 
 
