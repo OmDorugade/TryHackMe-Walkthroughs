@@ -127,14 +127,10 @@ while (1) {
 	}
 }
 
+fclose($sock);
+fclose($pipes[0]);
+fclose($pipes[1]);
+fclose($pipes[2]);
+proc_close($process);
 
 
-// Like print, but does nothing if we've daemonised ourself
-// (I can't figure out how to redirect STDOUT like a proper daemon)
-function printit ($string) {
-	if (!$daemon) {
-		print "$string\n";
-	}
-}
-
-?> 
