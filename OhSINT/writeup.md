@@ -41,11 +41,12 @@ London
 ```
 
 ## 4. What is the SSID of the WAP he connected to?
+In the above snapshot we can check the `SSID` as :
+```
+UnileverWiFi
+```
 
-
-
-
-
+## 5.
 
 
 
