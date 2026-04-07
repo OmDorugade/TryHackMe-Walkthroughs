@@ -36,6 +36,10 @@ We will get a link ,In that link we can see `map` open it  :
   <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/1e0e3113-23e4-4374-89ea-e755ee7fe43a" />
 </p>
 
+```
+London
+```
+
 ## 4. What is the SSID of the WAP he connected to?
 
 
