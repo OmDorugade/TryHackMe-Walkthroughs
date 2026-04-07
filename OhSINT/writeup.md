@@ -79,8 +79,3 @@ pennYDr0pper.!
 ```
 
 Room Completed !
-
-
-
-
-
