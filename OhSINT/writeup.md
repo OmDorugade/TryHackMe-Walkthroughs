@@ -68,6 +68,8 @@ If we look at github info we found his wordpress site :
 New York
 ```
 
+## 8. What is the person's password?
+
 
 
 
