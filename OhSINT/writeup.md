@@ -47,7 +47,7 @@ UnileverWiFi
 ```
 
 ## 5.What is his personal email address?
-
+His Personal email address is in the Q2 snapshot.
 ```
 OWoodflint@gmail.com
 ```
