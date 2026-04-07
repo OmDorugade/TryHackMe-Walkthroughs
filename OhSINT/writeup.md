@@ -32,9 +32,9 @@ Looking at the above snapshot we can look at the `BSSID` goto the below website 
 </p>
 
 We will get a link ,In that link we can see `map` open it  :
-
-<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/1e0e3113-23e4-4374-89ea-e755ee7fe43a" />
-
+<p align="center">
+  <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/1e0e3113-23e4-4374-89ea-e755ee7fe43a" />
+</p>
 
 
 
