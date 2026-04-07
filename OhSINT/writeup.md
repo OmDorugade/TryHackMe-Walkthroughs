@@ -64,6 +64,11 @@ If we look at github info we found his wordpress site :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3b7a4c6e-429b-408e-b697-b077ef59182a" />
 </p>
 
+```
+New York
+```
+
+
 
 
 
