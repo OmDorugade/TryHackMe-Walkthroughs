@@ -69,6 +69,7 @@ New York
 ```
 
 ## 8. What is the person's password?
+Check the source code of the wordpress webiste and found this:
 
 
 
