@@ -26,11 +26,14 @@ cat
 ```
 
 ## 3. What city is this person in?
-Looking at the above snapshot we can look at the `BSSID` goto the below website:
+Looking at the above snapshot we can look at the `BSSID` goto the below website and enter the `BSSID`:
 <p align="center">
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/fc3b4b0e-8ac4-45a3-8ee5-1c6c9535c6db" />
 </p>
 
+We will get a link ,In that link we can see `map` open it  :
+
+<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/1e0e3113-23e4-4374-89ea-e755ee7fe43a" />
 
 
 
