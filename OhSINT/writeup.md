@@ -25,6 +25,30 @@ Then goto to the twitter account where we can find user avatar:
 cat
 ```
 
+## 3. What city is this person in?
+Looking at the above snapshot we can look at the `BSSID` goto the below website:
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/fc3b4b0e-8ac4-45a3-8ee5-1c6c9535c6db" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
