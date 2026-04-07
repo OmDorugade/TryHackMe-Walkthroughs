@@ -69,9 +69,10 @@ New York
 ```
 
 ## 8. What is the person's password?
-Check the source code of the wordpress webiste and found this:
-
-
+Check the source code of the wordpress webiste and found this :
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/815a189f-8c25-4665-962f-a5a5a9fbe1e1" />
+</p>
 
 
 
