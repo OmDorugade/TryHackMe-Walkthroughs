@@ -8,11 +8,13 @@
 ## 1. user.txt
 Perform `nmap` and `gobuster` on the machine ip:
 <p align="center">
-  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/85c7959c-f806-4659-932f-d33ee5a33bff" />
+  <img width="1582" height="488" alt="image" src="https://github.com/user-attachments/assets/fd3d12dd-13d1-4725-922d-a9482c86e60b" />
 </p>
 
-
-
+We found a name on the webiste i.e `meliodas` and used `hydra` for cracking the password :
+<p align="center">
+  <img width="1432" height="432" alt="image" src="https://github.com/user-attachments/assets/1281e4f1-1e3c-4929-a0fb-2b575506ff06" />
+</p>
 
 
 
