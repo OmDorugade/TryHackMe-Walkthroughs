@@ -5,6 +5,11 @@
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/61ac4c9e-c159-4b34-9415-6292f4392bdd" />
 </div>
 
+## 1. user.txt
+Perform `nmap` and `gobuster` on the machine ip:
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/85c7959c-f806-4659-932f-d33ee5a33bff" />
+</p>
 
 
 
