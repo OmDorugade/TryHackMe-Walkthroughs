@@ -21,7 +21,12 @@ Now we used `ssh` to login :
   <img width="1322" height="548" alt="image" src="https://github.com/user-attachments/assets/0d51b099-d0c8-4763-bc4a-0e0d6dd49c2c" />
 </p>
 
+```
+6d488cbb3f111d135722c33cb635f4ec
+```
 
+## 2. root.txt
+We saw a python script and used `cat` and found that we can get a reverse shell as root, did some changes like added my `machine ip` and `port` :  
 
 
 
