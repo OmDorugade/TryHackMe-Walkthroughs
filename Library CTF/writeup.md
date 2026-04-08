@@ -13,7 +13,7 @@ Perform `nmap` and `gobuster` on the machine ip:
 
 We found a name on the webiste i.e `meliodas` and used `hydra` for cracking the password :
 <p align="center">
-  
+<img width="696" height="180" alt="image" src="https://github.com/user-attachments/assets/ed9517dd-9c68-45e1-ac83-e7f5e2137925" />
 </p>
 
 Now we used `ssh` to login :
