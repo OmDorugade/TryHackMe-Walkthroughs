@@ -16,7 +16,10 @@ We found a name on the webiste i.e `meliodas` and used `hydra` for cracking the 
   <img width="1432" height="432" alt="image" src="https://github.com/user-attachments/assets/1281e4f1-1e3c-4929-a0fb-2b575506ff06" />
 </p>
 
-
+Now we used `ssh` to login :
+<p align="center">
+  <img width="1322" height="548" alt="image" src="https://github.com/user-attachments/assets/0d51b099-d0c8-4763-bc4a-0e0d6dd49c2c" />
+</p>
 
 
 
