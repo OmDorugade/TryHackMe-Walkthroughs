@@ -31,6 +31,9 @@ We saw a python script and used `cat` and found that we can get a reverse shell 
   <img width="1282" height="623" alt="image" src="https://github.com/user-attachments/assets/c52272c5-e812-49ea-b6b6-91431d864f21" />
 </p>
 
+Then used this command :
+
+<img width="883" height="390" alt="image" src="https://github.com/user-attachments/assets/84b8c083-c60b-4e8a-8392-ff091d99315e" />
 
 
 
