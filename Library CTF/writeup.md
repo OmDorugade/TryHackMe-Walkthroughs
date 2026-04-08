@@ -36,7 +36,7 @@ Then used this command :
   <img width="883" height="390" alt="image" src="https://github.com/user-attachments/assets/84b8c083-c60b-4e8a-8392-ff091d99315e" />
 </p>
 
-
+Set up a listener on our machine and got the root:
 
 
 
