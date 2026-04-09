@@ -7,9 +7,9 @@
 
 ## 1. What is the user flag?
 Use `gobuster` to find directories : 
-
-
-
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/fea68f06-88aa-47be-b455-a02b8d0c0138" />
+</p>
 
 
 
