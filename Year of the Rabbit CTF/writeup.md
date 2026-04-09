@@ -16,6 +16,8 @@ Check the `style.css` file :
   <img width="695" height="755" alt="image" src="https://github.com/user-attachments/assets/8c42a039-243d-4c9f-86b9-28a82c8da6d4" />
 </p>
 
+Lets take look at the `/sup3r_s3cret_fl4g/` :
+
 
 
 
