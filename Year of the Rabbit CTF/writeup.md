@@ -86,7 +86,10 @@ THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
 ```
 
 ## 2. What is the root flag?
-
+We did `sudo -V` and found this :
+<p align="center">
+  <img width="478" height="99" alt="image" src="https://github.com/user-attachments/assets/6f7f6ef5-dbc5-4522-ba31-6f969cca0f9b" />
+</p>
 
 
 
