@@ -81,6 +81,9 @@ Used `su gwendoline` and enter the password and find the user.txt :
   <img width="700" height="133" alt="image" src="https://github.com/user-attachments/assets/004873d9-7959-4b84-8854-5eadb3e0ae30" />
 </p>
 
+```
+THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
+```
 
 
 
