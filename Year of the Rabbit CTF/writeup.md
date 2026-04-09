@@ -91,7 +91,10 @@ We did `sudo -V` and found this :
   <img width="478" height="99" alt="image" src="https://github.com/user-attachments/assets/6f7f6ef5-dbc5-4522-ba31-6f969cca0f9b" />
 </p>
 
-
+Searched online about this and found this in `exploit.db` :
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7701e10b-9873-4c4c-97a4-5ff0541c5789" />
+</p>
 
 
 
