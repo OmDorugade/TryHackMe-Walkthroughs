@@ -72,9 +72,9 @@ Use `ssh` for login and found this message :
 </p>
 
 We used `locate` for finding the s3cr3t and found the file used `cat` and got `gwendoline` password :
-
-<img width="682" height="147" alt="image" src="https://github.com/user-attachments/assets/6b02c39d-6443-431b-a3d3-7ea93bf4978f" />
-
+<p align="center">
+  <img width="682" height="147" alt="image" src="https://github.com/user-attachments/assets/6b02c39d-6443-431b-a3d3-7ea93bf4978f" />
+</p>
 
 
 
