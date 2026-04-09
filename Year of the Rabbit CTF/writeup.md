@@ -42,6 +42,7 @@ Visit the directory we got a new file , Just use `cat` and the file name :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b9e6c5bc-829a-4a5e-a019-92e218810745" />
 </p>
 
+Then we used `hydra` to get `ftp` login credentials :
 
 
 
