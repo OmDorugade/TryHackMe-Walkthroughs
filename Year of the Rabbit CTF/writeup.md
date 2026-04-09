@@ -32,10 +32,21 @@ Searched online about this and followed this steps :
   <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/893ddf31-7713-4e90-91f4-413fff572f44" />
 </p>
 
-4.Reload the page and use `Burpsuite` to capture the response for a new folder :
+4.Reload the page and use `Burpsuite` to capture the response for a new directory :
 <p align="center">
   <img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/07451231-576f-4688-ac93-8c9d88287700" />
 </p>
+
+Visit the directory we got a new file , Just use `cat` and the file name :
+
+
+
+
+
+
+
+
+
 
 
 
