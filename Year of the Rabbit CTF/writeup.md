@@ -47,6 +47,9 @@ Then we used `hydra` to get `ftp` login credentials :
   <img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/69385f48-fc35-4180-b320-cd33c3dd2b36" />
 </p>
 
+We logged in `ftp` and found a file `eli's_Creds.txt` :
+
+<img width="940" height="709" alt="image" src="https://github.com/user-attachments/assets/fc0b6bc2-01e5-4093-a45f-925a246f4744" />
 
 
 
