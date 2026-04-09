@@ -11,8 +11,10 @@ Use `gobuster` to find directories :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/fea68f06-88aa-47be-b455-a02b8d0c0138" />
 </p>
 
-
-
+Check the `style.css` file :
+<p align="center">
+  <img width="695" height="755" alt="image" src="https://github.com/user-attachments/assets/8c42a039-243d-4c9f-86b9-28a82c8da6d4" />
+</p>
 
 
 
