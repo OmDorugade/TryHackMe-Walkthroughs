@@ -61,7 +61,10 @@ Then we used Chatgpt for identifying what is in that file :
   <img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/61d09550-8689-42d7-9dd2-32b1b4261141" />
 </p>
 
-
+To decode it we used `dcode.fr` :
+<p align="center">
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1f1c3ce0-c886-4ced-8f18-1ec67433ee79" />
+</p>
 
 
 
