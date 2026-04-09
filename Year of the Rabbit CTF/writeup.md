@@ -28,9 +28,9 @@ Searched online about this and followed this steps :
 2.Search about `javascript.enabled`
 
 3.Make it `false`
-
+<p align="center">
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/893ddf31-7713-4e90-91f4-413fff572f44" />
-
+</p>
 
 4.Reload the page we got :
 
