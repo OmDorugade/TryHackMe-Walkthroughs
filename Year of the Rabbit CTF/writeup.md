@@ -85,6 +85,8 @@ Used `su gwendoline` and enter the password and find the user.txt :
 THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
 ```
 
+## 2. What is the root flag?
+
 
 
 
