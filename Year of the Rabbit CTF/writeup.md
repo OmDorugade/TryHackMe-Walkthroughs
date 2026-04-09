@@ -66,9 +66,10 @@ To decode it we used `dcode.fr` and we found `eli's password` :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1f1c3ce0-c886-4ced-8f18-1ec67433ee79" />
 </p>
 
-Use `ssh` for login and found the first flag :
-
-
+Use `ssh` for login and found this message :
+<p align="center">
+  <img width="817" height="263" alt="image" src="https://github.com/user-attachments/assets/88018df2-5e32-4280-865e-1993b55d0d0e" />
+</p>
 
 
 
