@@ -21,7 +21,15 @@ Lets take look at the `/sup3r_s3cret_fl4g/` :
   <img width="940" height="875" alt="image" src="https://github.com/user-attachments/assets/9d8b05bb-903f-4aeb-ba88-9e6eb4e84c22" />
 </p>
 
+Searched online about this and followed this steps :
 
+1.I am using `firefox` browser we need to type `about:config` 
+
+2.Search about `javascript.enabled`
+
+3.Make it `false`
+
+4.Reload the page we got :
 
 
 
