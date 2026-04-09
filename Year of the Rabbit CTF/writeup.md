@@ -97,9 +97,9 @@ Searched online about this and found this in `exploit.db` :
 </p>
 
 Finally got the root.txt :
-
-<img width="805" height="190" alt="image" src="https://github.com/user-attachments/assets/a74d99df-8c14-43f6-9560-a70403898deb" />
-
+<p align="center">
+  <img width="805" height="190" alt="image" src="https://github.com/user-attachments/assets/a74d99df-8c14-43f6-9560-a70403898deb" />
+</p>
 
 
 
