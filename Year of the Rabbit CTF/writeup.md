@@ -33,9 +33,9 @@ Searched online about this and followed this steps :
 </p>
 
 4.Reload the page and use `Burpsuite` to capture the response for a new folder :
-
-<img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/07451231-576f-4688-ac93-8c9d88287700" />
-
+<p align="center">
+  <img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/07451231-576f-4688-ac93-8c9d88287700" />
+</p>
 
 
 
