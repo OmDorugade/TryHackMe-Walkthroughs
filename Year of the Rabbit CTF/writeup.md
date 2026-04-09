@@ -76,6 +76,10 @@ We used `locate` for finding the s3cr3t and found the file used `cat` and got `g
   <img width="682" height="147" alt="image" src="https://github.com/user-attachments/assets/6b02c39d-6443-431b-a3d3-7ea93bf4978f" />
 </p>
 
+Used `su gwendoline` and enter the password and find the user.txt :
+<p align="center">
+  <img width="700" height="133" alt="image" src="https://github.com/user-attachments/assets/004873d9-7959-4b84-8854-5eadb3e0ae30" />
+</p>
 
 
 
