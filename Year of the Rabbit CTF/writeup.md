@@ -44,6 +44,7 @@ Visit the directory we got a new file , Just use `cat` and the file name :
 
 Then we used `hydra` to get `ftp` login credentials :
 
+<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/69385f48-fc35-4180-b320-cd33c3dd2b36" />
 
 
 
