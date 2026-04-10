@@ -32,7 +32,11 @@ bolt
 boltadmin123
 ```
 
-
+## 4. What version of the CMS is installed on the server? (Ex: Name 1.1.1)
+Look at the above image in Q2
+```
+Bolt 3.7.1
+```
 
 
 
