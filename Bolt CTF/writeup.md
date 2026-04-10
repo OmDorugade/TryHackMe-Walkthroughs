@@ -57,14 +57,14 @@ Steps :
 3.Look at the below image : 
 
 <p align="center">
-  <img width="881" height="538" alt="image" src="https://github.com/user-attachments/assets/9fccbee8-7473-4e5c-bdb3-afdbc8ee4634" />
+  <img width="903" height="361" alt="image" src="https://github.com/user-attachments/assets/e6a22dd0-9c30-4a22-b1d5-811591444805" />
 </p>
 
 ```
 exploit/unix/webapp/bolt_authenticated_rce
 ```
 
-## 7. 
+## 7. Set the LHOST, LPORT, RHOST, USERNAME, PASSWORD in msfconsole before running the exploit
 
   <img width="827" height="413" alt="image" src="https://github.com/user-attachments/assets/1c495b42-2562-4687-bfd8-2753130c347b" />
 
