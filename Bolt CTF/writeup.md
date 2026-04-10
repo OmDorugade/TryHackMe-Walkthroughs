@@ -7,7 +7,7 @@
 
 ## 1. What port number has a web server with a CMS running?
 <p align="center">
-  
+  <img width="756" height="662" alt="image" src="https://github.com/user-attachments/assets/ede79db9-47d0-4654-93f5-630db2fd0476" />
 </p>
 
 
