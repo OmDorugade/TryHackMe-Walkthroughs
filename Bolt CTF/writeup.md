@@ -64,6 +64,27 @@ Steps :
 exploit/unix/webapp/bolt_authenticated_rce
 ```
 
+## 7. 
+
+  <img width="827" height="413" alt="image" src="https://github.com/user-attachments/assets/1c495b42-2562-4687-bfd8-2753130c347b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
