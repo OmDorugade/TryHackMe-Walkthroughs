@@ -39,9 +39,9 @@ Bolt 3.7.1
 ```
 
 ## 5. There's an exploit for a previous version of this CMS, which allows authenticated RCE. Find it on Exploit DB. What's its EDB-ID?
-
+<p align="center">
   <img width="877" height="631" alt="image" src="https://github.com/user-attachments/assets/943e5080-92e4-4c5d-868d-00d1c531e623" />
-
+</p>
 
 
 
