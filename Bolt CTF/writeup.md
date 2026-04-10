@@ -72,8 +72,7 @@ Follow the steps shown in the images but change it according to your `machine ip
 
 Then type `exploit` or `run` to start the exploit.
 
-## 8.
-
+## 8.Look for flag.txt inside the machine.
 
 
   <img width="827" height="413" alt="image" src="https://github.com/user-attachments/assets/1c495b42-2562-4687-bfd8-2753130c347b" />
