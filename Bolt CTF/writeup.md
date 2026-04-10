@@ -60,7 +60,9 @@ Steps :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7c21c642-a986-4a8a-a1e8-8a6e4294aa6a" />
 </p>
 
-
+```
+exploit/unix/webapp/bolt_authenticated_rce
+```
 
 
 
