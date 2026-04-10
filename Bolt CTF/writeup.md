@@ -38,6 +38,8 @@ Look at the above image in Q2
 Bolt 3.7.1
 ```
 
+## 5. There's an exploit for a previous version of this CMS, which allows authenticated RCE. Find it on Exploit DB. What's its EDB-ID?
+
 
 
 
