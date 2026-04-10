@@ -14,6 +14,9 @@
 8000
 ```
 
+## 2. What is the username we can find in the CMS?
+
+<img width="825" height="765" alt="image" src="https://github.com/user-attachments/assets/a494d3fe-e95f-447b-b79a-89857605c2f5" />
 
 
 
