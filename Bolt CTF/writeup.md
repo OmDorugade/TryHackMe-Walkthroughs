@@ -77,7 +77,9 @@ Then type `exploit` or `run` to start the exploit.
   <img width="827" height="413" alt="image" src="https://github.com/user-attachments/assets/1c495b42-2562-4687-bfd8-2753130c347b" />
 </p>
 
-
+```
+THM{wh0_d035nt_l0ve5_b0l7_r1gh7?}
+```
 
 
 
