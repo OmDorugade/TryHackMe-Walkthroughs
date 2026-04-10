@@ -24,9 +24,9 @@ bolt
 ```
 
 ## 3. What is the password we can find for the username?
-
+<p align="center">
   <img width="653" height="612" alt="image" src="https://github.com/user-attachments/assets/7d28cd41-e78b-4a65-94ef-78fe64532c07" />
-
+</p>
 
 
 
