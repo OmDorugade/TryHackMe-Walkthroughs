@@ -28,7 +28,9 @@ bolt
   <img width="653" height="612" alt="image" src="https://github.com/user-attachments/assets/7d28cd41-e78b-4a65-94ef-78fe64532c07" />
 </p>
 
-
+```
+boltadmin123
+```
 
 
 
