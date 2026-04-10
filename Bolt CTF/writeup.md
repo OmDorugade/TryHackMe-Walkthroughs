@@ -66,6 +66,13 @@ exploit/unix/webapp/bolt_authenticated_rce
 
 ## 7. Set the LHOST, LPORT, RHOST, USERNAME, PASSWORD in msfconsole before running the exploit
 
+  <img width="903" height="361" alt="image" src="https://github.com/user-attachments/assets/6186e62c-f188-4867-a07d-8825b8d9b24f" />
+
+
+
+
+
+
   <img width="827" height="413" alt="image" src="https://github.com/user-attachments/assets/1c495b42-2562-4687-bfd8-2753130c347b" />
 
 
