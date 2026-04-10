@@ -47,6 +47,16 @@ Bolt 3.7.1
 48296
 ```
 
+## 6. Metasploit recently added an exploit module for this vulnerability. What's the full path for this exploit? (Ex: exploit/....)
+Steps : 
+
+1.Type `msfconsole` and press enter.
+
+2.Use `search` function to find exploit.
+
+3.Look at the below image : 
+
+
 
 
 
