@@ -6,7 +6,7 @@
 </div>
 
 ## 1. User flag
-Performed `nmap` and `gobuster` :
+Performed `nmap` for port-scanning and `gobuster` to find hidden diretories :
 
 <img width="827" height="660" alt="image" src="https://github.com/user-attachments/assets/94bb1419-312d-4a65-87b8-8636c9a6747f" />
 
