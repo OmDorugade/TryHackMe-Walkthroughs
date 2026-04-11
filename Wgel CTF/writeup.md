@@ -11,7 +11,7 @@ Performed `nmap` for port-scanning and `gobuster` to find hidden diretories :
   <img width="827" height="660" alt="image" src="https://github.com/user-attachments/assets/94bb1419-312d-4a65-87b8-8636c9a6747f" />
 </p>
 
-Then visit the `sitemap` and found this :
+Then visit the `source code` of the website and found this :
 <p align="center">
   <img width="965" height="611" alt="image" src="https://github.com/user-attachments/assets/f5745900-0928-4f1e-85ca-926a0f5f1e55" />
 </p>
