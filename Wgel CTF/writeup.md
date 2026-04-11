@@ -22,9 +22,9 @@ Lets visit the `sitemap` and further enumerated this page :
 </p>
 
 We know that in `.ssh` folder we may found someones `RSA Private Key` :
-
+<p align="center">
   <img width="626" height="781" alt="image" src="https://github.com/user-attachments/assets/938299c1-328e-4b0e-ad45-eeb48d59b390" />
-
+</p>
 
 
 
