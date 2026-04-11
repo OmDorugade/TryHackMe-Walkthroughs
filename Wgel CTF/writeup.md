@@ -16,6 +16,8 @@ Then visit the `source code` of the website and found this :
   <img width="965" height="611" alt="image" src="https://github.com/user-attachments/assets/f5745900-0928-4f1e-85ca-926a0f5f1e55" />
 </p>
 
+Lets visit the `sitemap` and further enumerated this page :
+
 
 
 
