@@ -46,5 +46,7 @@ We used `sudo -l` and found this :
   <img width="737" height="121" alt="image" src="https://github.com/user-attachments/assets/9e459671-f800-464b-b99c-35e359373da9" />
 </p>
 
+Use `gftobin` to find more about how we can exploit this :
+
 
 
