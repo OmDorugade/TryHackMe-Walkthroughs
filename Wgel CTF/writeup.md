@@ -32,9 +32,9 @@ Copy paste the `id_rsa` and give permissions and log in using `ssh` :
 </p>
 
 Finally found the `user flag` : 
-
+<p align="center">
   <img width="757" height="123" alt="image" src="https://github.com/user-attachments/assets/f9968f83-b1e7-4564-a34b-38aded5c2ba1" />
-
+</p>
 
 
 
