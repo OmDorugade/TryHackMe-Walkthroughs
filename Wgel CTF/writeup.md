@@ -27,9 +27,9 @@ We know that in `.ssh` folder we may found someones `RSA Private Key` :
 </p>
 
 Copy paste the `id_rsa` and give permissions and log in using `ssh` :
-
+<p align="center">
   <img width="868" height="620" alt="image" src="https://github.com/user-attachments/assets/5ff66b2b-df88-4926-ac36-a7c92c901673" />
-
+</p>
 
 
 
