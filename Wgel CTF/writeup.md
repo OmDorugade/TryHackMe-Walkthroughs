@@ -1,4 +1,4 @@
-<img width="757" height="123" alt="image" src="https://github.com/user-attachments/assets/436d5fdf-0bfb-474d-ad2c-d1ef233db990" /># <div align="center">[Wgel CTF](https://tryhackme.com/room/wgelctf)</div>
+# <div align="center">[Wgel CTF](https://tryhackme.com/room/wgelctf)</div>
 <div align="center">Can you exfiltrate the root flag?</div>
 <br>
 <div align="center">
