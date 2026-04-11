@@ -56,6 +56,8 @@ Use the command but before using it set up a listener on our machine :
   <img width="851" height="87" alt="image" src="https://github.com/user-attachments/assets/d8b6f5b1-6d9d-4928-bc1e-a4eaa13f38fe" />
 </p>
 
+Set up the listener and type the above command shown in image and we got our `root flag` :
+
 
 
 
