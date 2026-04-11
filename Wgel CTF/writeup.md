@@ -21,6 +21,8 @@ Lets visit the `sitemap` and further enumerated this page :
   <img width="1242" height="583" alt="image" src="https://github.com/user-attachments/assets/10b8156e-e792-406d-a46b-9b2662a8fa65" />
 </p>
 
+We know that in `.ssh` folder we may found someones `RSA Private Key` :
+
 
 
 
