@@ -40,7 +40,7 @@ Finally found the `user flag` :
 057c67131c3d5e42dd5cd3075b198ff6
 ```
 
-## 2. 
+## 2. Root flag
 
   <img width="737" height="121" alt="image" src="https://github.com/user-attachments/assets/9e459671-f800-464b-b99c-35e359373da9" />
 
