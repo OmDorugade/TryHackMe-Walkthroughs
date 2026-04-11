@@ -51,10 +51,10 @@ Use `gftobin` to find more about how we can exploit this :
   <img width="1068" height="542" alt="image" src="https://github.com/user-attachments/assets/b25bc4f2-7519-4b31-8b99-4945cb1e32bd" />
 </p>
 
-Use the command and set up a listener on our machine :
-
+Use the command but before using it set up a listener on our machine :
+<p align="center">
   <img width="851" height="87" alt="image" src="https://github.com/user-attachments/assets/d8b6f5b1-6d9d-4928-bc1e-a4eaa13f38fe" />
-
+</p>
 
 
 
