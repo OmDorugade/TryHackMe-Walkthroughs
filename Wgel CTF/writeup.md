@@ -36,7 +36,9 @@ Finally found the `user flag` :
   <img width="757" height="123" alt="image" src="https://github.com/user-attachments/assets/f9968f83-b1e7-4564-a34b-38aded5c2ba1" />
 </p>
 
-
+```
+057c67131c3d5e42dd5cd3075b198ff6
+```
 
 
 
