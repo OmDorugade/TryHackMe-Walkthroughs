@@ -36,5 +36,7 @@ We used the reverse shell payload and set up listener on our local machine and g
 6470e394cbf6dab6a91682cc8585059b
 ```
 
+## 2.Root.txt
+
 
 
