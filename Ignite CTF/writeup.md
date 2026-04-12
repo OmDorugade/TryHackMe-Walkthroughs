@@ -42,6 +42,7 @@ There were some steps on the website on the default page we looked at it and sta
   <img width="1322" height="710" alt="image" src="https://github.com/user-attachments/assets/d5924bf1-38f5-46d3-99a3-aa508f266705" />
 </p>
 
+Read the file using `cat` and found the credentials of `root` :
 
 
 
