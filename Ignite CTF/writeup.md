@@ -28,8 +28,9 @@ So did online search for this and got this online :
 </p>
 
 We used the reverse shell payload and set up listener on our local machine and got our first flag:
-
+<p align="center">
   <img width="1465" height="492" alt="image" src="https://github.com/user-attachments/assets/1afc80ab-5dbd-4ce2-b9e8-d6fb2ef364cc" />
+</p>
 
 
 
