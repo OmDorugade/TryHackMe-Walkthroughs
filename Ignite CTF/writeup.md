@@ -29,6 +29,7 @@ So did online search for this and got this online :
 
 We used the reverse shell payload and set up listener on our local machine and got our first flag:
 
+  <img width="1465" height="492" alt="image" src="https://github.com/user-attachments/assets/1afc80ab-5dbd-4ce2-b9e8-d6fb2ef364cc" />
 
 
 
