@@ -39,6 +39,7 @@ We used the reverse shell payload and set up listener on our local machine and g
 ## 2.Root.txt
 There were some steps on the website on the default page we looked at it and started to find `database.php` file :
 
+  <img width="1322" height="710" alt="image" src="https://github.com/user-attachments/assets/d5924bf1-38f5-46d3-99a3-aa508f266705" />
 
 
 
