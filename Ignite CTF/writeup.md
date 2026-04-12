@@ -23,10 +23,9 @@ Download the python script and execute it and we found that we can enter some co
 </p>
 
 So did online search for this and got this online :
-  
+<p align="center">
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d5601e0e-fd99-4057-8e91-a2cfdb355056" />
-
-
+</p>
 
 
 
