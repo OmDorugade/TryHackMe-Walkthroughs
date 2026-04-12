@@ -27,6 +27,8 @@ So did online search for this and got this online :
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d5601e0e-fd99-4057-8e91-a2cfdb355056" />
 </p>
 
+We used the reverse shell payload and set up listener on our local machine and:
+
 
 
 
