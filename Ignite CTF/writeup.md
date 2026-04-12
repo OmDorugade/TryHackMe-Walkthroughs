@@ -48,10 +48,9 @@ Read the file using `cat` and found the credentials of `root` :
 </p>
 
 Using `python` we made an interactive terminal and using the credentials of `root` we found our final flag :
+<p align="center">
 
-
-
-
+</p>
 
 
 
