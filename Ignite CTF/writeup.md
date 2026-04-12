@@ -44,6 +44,7 @@ There were some steps on the website on the default page we looked at it and sta
 
 Read the file using `cat` and found the credentials of `root` :
 
+  <img width="602" height="591" alt="image" src="https://github.com/user-attachments/assets/3b8c972d-dae2-44f3-b7cf-2525e37a7643" />
 
 
 
