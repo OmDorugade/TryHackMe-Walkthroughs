@@ -49,7 +49,7 @@ Read the file using `cat` and found the credentials of `root` :
 
 Using `python` we made an interactive terminal and using the credentials of `root` we found our final flag :
 <p align="center">
-
+  <img width="532" height="303" alt="image" src="https://github.com/user-attachments/assets/e1682bb2-0c69-4b77-8706-a039c3c9aa14" />
 </p>
 
 
