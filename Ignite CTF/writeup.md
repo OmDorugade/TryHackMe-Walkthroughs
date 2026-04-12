@@ -37,6 +37,20 @@ We used the reverse shell payload and set up listener on our local machine and g
 ```
 
 ## 2.Root.txt
+There were some steps on the website on the default page we looked at it and started to find `database.php` file :
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
