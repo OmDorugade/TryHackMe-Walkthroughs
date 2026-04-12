@@ -13,9 +13,9 @@ Start the machine and perform `nmap` for port scanning and `gobuster` for findin
 </p>
 
 After looking at the webiste we found that it is using `Fuel CMS` we goto `exploit.db` and found this :
-
+<p align="center">
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bbbc53da-c2bc-4731-b70c-8d54aed2290b" />
-
+</p>
 
 
 
