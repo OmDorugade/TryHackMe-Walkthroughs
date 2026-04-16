@@ -54,9 +54,9 @@ We use the `username` and `password` we found above , Got some new files on ftp 
 </p>
 
 Using the tool `steegseek` we extracted some files and found some files :
-
+<p align="center">
   <img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/612c5861-f3e6-4f5a-acb1-290d1c6a0621" />
-
+</p>
 
 
 
