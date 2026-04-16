@@ -62,8 +62,10 @@ Using the tool `steegseek` we extracted some files and found some files :
 shado
 ```
 
-5. user.txt
-In that `shado` we found a word `M3tahuman`
+## 5. user.txt
+We used `cat shado` and found a word `M3tahuman` used this as password for slade using `ssh` :
+
+  <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/db76fc7a-d9ef-4b5e-9105-731a830b65ff" />
 
 
 
