@@ -21,3 +21,5 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 14 | Simple | Web | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Simple%20CTF/writeup.md) |
 | 15 | Wgel | Linux | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Wgel%20CTF/writeup.md) |
 | 16 | Year of the Rabbit | Linux / Web | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Year%20of%20the%20Rabbit%20CTF/writeup.md) |
+| 17 | Lian_Yu | Linux / Web | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Lian_Yu%20CTF/writeup.md) |
+
