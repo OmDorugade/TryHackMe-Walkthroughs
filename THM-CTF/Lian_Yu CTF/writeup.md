@@ -29,9 +29,9 @@ Checked the `source code` and found this :
 </p>
 
 Then used `FUFF` to enumerate :
-
+<p align="center">
   <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/46cf3d39-096d-4542-b872-55e4b02fc7f8" />
-
+</p>
 
 
 
