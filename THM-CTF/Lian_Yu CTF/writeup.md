@@ -38,6 +38,9 @@ Searched online about the random string and found that it is `BASE58` then used 
   <img width="821" height="391" alt="image" src="https://github.com/user-attachments/assets/6772abf4-793b-4d59-9c3b-280c3d084f91" />
 </p>
 
+```
+green_arrow.ticket
+```
 
 
 
