@@ -1,4 +1,4 @@
-# <div align="center">[LIAN_YU CTF](https://tryhackme.com/room/lianyu)</div>
+# <div align="center">[Lian_Yu CTF](https://tryhackme.com/room/lianyu)</div>
 <div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
 </div>
 <br>
