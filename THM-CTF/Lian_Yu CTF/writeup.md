@@ -53,6 +53,10 @@ We use the `username` and `password` we found above , Got some new files on ftp 
   <img width="586" height="466" alt="image" src="https://github.com/user-attachments/assets/8436c8c7-e2c5-4aeb-8b0d-839b6ebd0373" />
 </p>
 
+Using the tool `steegseek` we extracted some files and found some files :
+
+  <img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/612c5861-f3e6-4f5a-acb1-290d1c6a0621" />
+
 
 
 
