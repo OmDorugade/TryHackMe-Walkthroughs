@@ -10,7 +10,7 @@
 First did `gobuster` scan found this directory `/island` :
 
 <p align="center">
-  <img width="940" height="1022" alt="image" src="https://github.com/user-attachments/assets/1ff70403-65e1-46d3-af31-9c7b1f84205e" />
+  <img width="1067" height="523" alt="image" src="https://github.com/user-attachments/assets/506ccba5-7452-4dbc-8c9b-bdcc2803c69d" />
 </p>
 
 Further did scan with `gobuster` on `http://ip/island/` and found this :
