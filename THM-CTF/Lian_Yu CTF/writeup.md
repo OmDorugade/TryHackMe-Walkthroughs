@@ -14,9 +14,9 @@ First did `gobuster` scan found this directory `/island` :
 </p>
 
 Further did scan with `gobuster` on `http://ip/island/` and found this :
-
+<p align="center">
   <img width="911" height="412" alt="image" src="https://github.com/user-attachments/assets/216526d5-e80c-43b3-b620-166da5568cff" />
-
+</p>
 
 
 
