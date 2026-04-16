@@ -7,10 +7,10 @@
 </div>
 
 ## 1. What is the Web Directory you found?
-First did `gobuster` scan found this directory `/island` :
+First did `gobuster` scan found this directory `/island`,where we found username :
 
 <p align="center">
-  <img width="1067" height="523" alt="image" src="https://github.com/user-attachments/assets/506ccba5-7452-4dbc-8c9b-bdcc2803c69d" />
+  <img width="1177" height="543" alt="image" src="https://github.com/user-attachments/assets/4fca1d79-23f8-4744-9d96-411b6e8549ac" />
 </p>
 
 Further did scan with `gobuster` on `http://ip/island/` and found this :
