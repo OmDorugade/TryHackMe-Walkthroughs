@@ -33,6 +33,9 @@ Then used `FUFF` to enumerate :
   <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/46cf3d39-096d-4542-b872-55e4b02fc7f8" />
 </p>
 
+Searched online about the random string and found that it is `BASE58` then used `CYBERCHEF` to decode it :
+
+  <img width="821" height="391" alt="image" src="https://github.com/user-attachments/assets/6772abf4-793b-4d59-9c3b-280c3d084f91" />
 
 
 
