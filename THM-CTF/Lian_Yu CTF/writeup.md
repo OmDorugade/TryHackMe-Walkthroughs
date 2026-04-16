@@ -33,16 +33,20 @@ Then used `FUFF` to enumerate :
   <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/46cf3d39-096d-4542-b872-55e4b02fc7f8" />
 </p>
 
+```
+green_arrow.ticket
+```
+
+## 3. what is the FTP Password?
 Searched online about the random string and found that it is `BASE58` then used `CYBERCHEF` to decode it :
 <p align="center">
   <img width="821" height="391" alt="image" src="https://github.com/user-attachments/assets/6772abf4-793b-4d59-9c3b-280c3d084f91" />
 </p>
 
 ```
-green_arrow.ticket
+!#th3h00d
 ```
 
-## 3. what is the FTP Password?
 We use the `username` and `password` we found above , Got some new files on ftp :
 <p align="center">
   <img width="586" height="466" alt="image" src="https://github.com/user-attachments/assets/8436c8c7-e2c5-4aeb-8b0d-839b6ebd0373" />
