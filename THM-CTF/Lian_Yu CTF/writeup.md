@@ -78,6 +78,9 @@ Using `sudo -l` and `gftobins` for we exploited further  :
   <img width="1078" height="447" alt="image" src="https://github.com/user-attachments/assets/285bc329-4df8-463e-bd65-0c6669a47454" />
 </p>
 
+```
+THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_YOUR_CONTRACT_THEN_IT_WILL_BE_COMPL3TED_OR_I'LL_BE_D34D}
+```
 
 
 
