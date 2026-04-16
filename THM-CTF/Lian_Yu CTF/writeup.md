@@ -68,4 +68,17 @@ We used `cat shado` and found a word `M3tahuman` used this as password for slade
   <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/db76fc7a-d9ef-4b5e-9105-731a830b65ff" />
 </p>
 
+```
+THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}
+```
+
+## 6. root.txt
+Using `sudo -l` and `gftobins` for we exploited further  :
+
+  <img width="1078" height="447" alt="image" src="https://github.com/user-attachments/assets/285bc329-4df8-463e-bd65-0c6669a47454" />
+
+
+
+
+
 
