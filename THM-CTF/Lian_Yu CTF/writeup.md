@@ -42,6 +42,11 @@ Searched online about the random string and found that it is `BASE58` then used 
 green_arrow.ticket
 ```
 
+## 3. what is the FTP Password?
+We use the `username` and `password` we found above , Got some new files on ftp :
+
+  <img width="586" height="466" alt="image" src="https://github.com/user-attachments/assets/8436c8c7-e2c5-4aeb-8b0d-839b6ebd0373" />
+
 
 
 
