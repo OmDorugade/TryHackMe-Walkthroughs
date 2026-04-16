@@ -62,5 +62,8 @@ Using the tool `steegseek` we extracted some files and found some files :
 shado
 ```
 
+5. user.txt
+In that `shado` we found a word `M3tahuman`
+
 
 
