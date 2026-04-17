@@ -27,13 +27,14 @@ Searched tool to upload file on `webdav` found a tool name `cadaver` :
   <img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/0599f79c-7fbe-4f8c-a855-3e1254c31a81" />
 </p>
 
-Not able to crack the hash :
+Not able to crack the hash but we are able to upload php code :
 <p align="center">
   <img width="1357" height="448" alt="image" src="https://github.com/user-attachments/assets/99c924f9-484a-4b2f-a5f6-9be10aedbe16" />
 </p>
 
+We set up a listener on our machine and clicked on the `reverse.phtml` file and got reverse shell and found user.txt :
 
-
+  <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/fdbdea3c-d905-455b-91de-c33e41b2e3fa" />
 
 
 
