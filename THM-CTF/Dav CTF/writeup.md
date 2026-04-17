@@ -47,6 +47,7 @@ We did `sudo -l` and found this :
   <img width="1337" height="162" alt="image" src="https://github.com/user-attachments/assets/a888b8a4-7ef4-48ca-af73-bce6fd2f7c60" />
 
 
+Using gftobins we used the command :
 
-
+  <img width="1115" height="665" alt="image" src="https://github.com/user-attachments/assets/65959deb-289b-4fd3-ad48-7b3d014f5e58" />
 
