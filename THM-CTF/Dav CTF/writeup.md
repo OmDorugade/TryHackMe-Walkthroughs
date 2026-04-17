@@ -23,11 +23,11 @@ Found a file named `/passwd.dav` open it and found this :
 </p>
 
 Searched tool to upload file on `webdav` found a tool name `cadaver` :
-
+<p align="center">
   <img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/0599f79c-7fbe-4f8c-a855-3e1254c31a81" />
 
 Not able to crack the hash :
-
+<p align="center">
   <img width="1357" height="448" alt="image" src="https://github.com/user-attachments/assets/99c924f9-484a-4b2f-a5f6-9be10aedbe16" />
 
 
