@@ -45,9 +45,28 @@ We set up a listener on our machine and clicked on the `reverse.phtml` file and 
 We did `sudo -l` and found this :
 <p align="center">
   <img width="1337" height="162" alt="image" src="https://github.com/user-attachments/assets/a888b8a4-7ef4-48ca-af73-bce6fd2f7c60" />
-
+</p>
 
 Using gftobins we used the command :
 <p align="center">
   <img width="1115" height="665" alt="image" src="https://github.com/user-attachments/assets/65959deb-289b-4fd3-ad48-7b3d014f5e58" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
