@@ -13,9 +13,9 @@ Enumerate the machine using `nmap` and use `gobuster` for diretory brute force :
 </p>
 
 When we goto the `/webdav` it ask us for username and password , search online about this and found a github repo :
-
+<p align="center">
   <img width="940" height="963" alt="image" src="https://github.com/user-attachments/assets/f54824ba-012e-470a-b64d-b5ac4fba6975" />
-
+</p>
 
 
 
