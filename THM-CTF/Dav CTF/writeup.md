@@ -33,8 +33,12 @@ Not able to crack the hash but we are able to upload php code :
 </p>
 
 We set up a listener on our machine and clicked on the `reverse.phtml` file and got reverse shell and found user.txt :
-
+<p align="center">
   <img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/fdbdea3c-d905-455b-91de-c33e41b2e3fa" />
+</p>
+
+
+
 
 
 
