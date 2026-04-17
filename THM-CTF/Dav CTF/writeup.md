@@ -41,6 +41,10 @@ We set up a listener on our machine and clicked on the `reverse.phtml` file and 
 449b40fe93f78a938523b7e4dcd66d2a
 ```
 
+## 2. root.txt
+We did `sudo -l` and found this :
+
+  <img width="1337" height="162" alt="image" src="https://github.com/user-attachments/assets/a888b8a4-7ef4-48ca-af73-bce6fd2f7c60" />
 
 
 
