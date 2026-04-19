@@ -90,4 +90,4 @@ Using `ssh` and `gftobins` we got our root flag :
 {ROOT-FLAG: w18gfpn9xehsgd3tovhk0hby4gdp89bg}
 ```
 
-Room Completed !
+Room Completed ! 
