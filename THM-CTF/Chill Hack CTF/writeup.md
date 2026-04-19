@@ -57,6 +57,9 @@ There was another file called `hacker.php` so download this on our machine using
   <img width="940" height="1046" alt="image" src="https://github.com/user-attachments/assets/f08bd97a-44e5-4b3c-a47e-578a563a802c" />
 </p>
 
+Then used `crackstation.net` to crack the hashes :
+
+  <img width="1185" height="617" alt="image" src="https://github.com/user-attachments/assets/7ce0d5e7-12cf-4230-a7ab-d79973c27578" />
 
 
 
