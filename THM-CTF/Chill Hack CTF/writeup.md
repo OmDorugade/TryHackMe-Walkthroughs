@@ -1,5 +1,5 @@
 # <div align="center">[Chill Hack CTF](https://tryhackme.com/room/chillhack)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation.
 </div>
 <br>
 <div align="center">
