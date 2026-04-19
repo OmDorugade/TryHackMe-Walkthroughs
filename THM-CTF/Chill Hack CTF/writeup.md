@@ -68,10 +68,9 @@ Using `wget` we got the `hacker.jpg` file and used different tools like `steghid
 </p>
 
 Found base64 enoded password in the file :
-
+<p align="center">
   <img width="940" height="872" alt="image" src="https://github.com/user-attachments/assets/18b78143-8a6d-479b-ac2c-cfef4003c030" />
-
-
+</p>
 
 
 
