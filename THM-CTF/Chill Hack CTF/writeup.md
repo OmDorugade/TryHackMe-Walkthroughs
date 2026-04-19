@@ -72,6 +72,9 @@ Found base64 enoded password in the file :
   <img width="940" height="872" alt="image" src="https://github.com/user-attachments/assets/18b78143-8a6d-479b-ac2c-cfef4003c030" />
 </p>
 
+Using `base64dfecode` we decoded the hash :
+
+  <img width="555" height="565" alt="image" src="https://github.com/user-attachments/assets/aba2d958-5188-4d06-8b9f-9f75216ea5d3" />
 
 
 
