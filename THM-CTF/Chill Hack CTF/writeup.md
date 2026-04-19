@@ -53,9 +53,9 @@ Used this credentials and logged in `mysql` and found this :
 </p>
 
 There was another file called `hacker.php` so download this on our machine using python :
-
+<p align="center">
   <img width="940" height="1046" alt="image" src="https://github.com/user-attachments/assets/f08bd97a-44e5-4b3c-a47e-578a563a802c" />
-
+</p>
 
 
 
