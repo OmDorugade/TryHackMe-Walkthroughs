@@ -81,8 +81,9 @@ Using `base64dfecode` we decoded the hash :
   <img width="555" height="565" alt="image" src="https://github.com/user-attachments/assets/aba2d958-5188-4d06-8b9f-9f75216ea5d3" />
 </p>
 
+Using `ssh` and `gftobins` we got our root flag :
 
-
+  <img width="1357" height="767" alt="image" src="https://github.com/user-attachments/assets/1ce6266c-27e5-4f55-be77-30c19cb42b8b" />
 
 
 
