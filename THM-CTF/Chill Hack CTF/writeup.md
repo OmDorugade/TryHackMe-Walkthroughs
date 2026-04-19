@@ -21,7 +21,10 @@ Using the information from `nmap` scan we logged in using `ftp` as `Anonymous` a
   <img width="846" height="328" alt="image" src="https://github.com/user-attachments/assets/b595b3ac-8727-4d0f-a6b8-ec81a0f0575b" />
 </p>
 
-
+Found this note :
+<p align="center">
+  <img width="1020" height="97" alt="image" src="https://github.com/user-attachments/assets/996123a5-ca5b-4949-bd31-2412c0cb4c9f" />
+</p>
 
 
 
