@@ -41,8 +41,10 @@ We used the python command for better terminal and also found the `./.helpline.s
   <img width="742" height="482" alt="image" src="https://github.com/user-attachments/assets/74275fbf-340b-4c82-9514-67e1f82225bd" />
 </p>
 
+## 2.Root Flag
+It took some time but found some credentials in `index.php` file of root for `mysql` : 
 
-
+  <img width="940" height="827" alt="image" src="https://github.com/user-attachments/assets/3e691e06-693e-4c50-8889-c04bea5a4a23" />
 
 
 
