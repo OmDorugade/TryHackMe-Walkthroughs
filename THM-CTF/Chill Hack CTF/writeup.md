@@ -37,9 +37,9 @@ We were logged in as `www-data` which does not have permissions :
 </p>
 
 We used the python command for better terminal and also found the `./.helpline.sh` file and got our first flag :
-
+<p align="center">
   <img width="742" height="482" alt="image" src="https://github.com/user-attachments/assets/74275fbf-340b-4c82-9514-67e1f82225bd" />
-
+</p>
 
 
 
