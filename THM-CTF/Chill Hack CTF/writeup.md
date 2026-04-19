@@ -32,9 +32,9 @@ Using the `gobuter`  we found a page `/secret` we went there and we saw we can e
 </p>
 
 We were logged in as `www-data` which does not have permissions :
-
+<p align="center">
   <img width="940" height="818" alt="image" src="https://github.com/user-attachments/assets/057928b6-13c8-4498-a1b6-ee16979b4d32" />
-
+</p>
 
 
 
