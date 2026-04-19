@@ -52,7 +52,7 @@ Used this credentials and logged in `mysql` and found this :
   <img width="940" height="953" alt="image" src="https://github.com/user-attachments/assets/2b72cef6-ea05-43a3-89de-2c7e45866979" />
 </p>
 
-
+There was another file called `hacker.php` so download this on our machine using python :
 
 
 
