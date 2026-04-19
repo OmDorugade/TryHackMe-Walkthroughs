@@ -8,9 +8,9 @@
 
 ## 1. User Flag
 Enumerate the machine using `nmap` for port scanning and with `gobuster` for finding more web pages.
-
+<p align="center">
   <img width="1465" height="677" alt="image" src="https://github.com/user-attachments/assets/b04752cd-0a73-4124-accf-ab2e3f8f70d2" />
-
+</p>
 
 
 
