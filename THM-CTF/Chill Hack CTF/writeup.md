@@ -26,6 +26,21 @@ Found this note :
   <img width="1020" height="97" alt="image" src="https://github.com/user-attachments/assets/996123a5-ca5b-4949-bd31-2412c0cb4c9f" />
 </p>
 
+Using the `gobuter`  we found a page `/secret` we went there and we saw we can execute some commands and got reverse shell:
+
+  <img width="1007" height="536" alt="image" src="https://github.com/user-attachments/assets/6ee90ab8-cbef-4b0d-9d24-45193df653f0" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
