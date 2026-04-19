@@ -12,9 +12,9 @@ Enumerate the machine using `nmap` for port scanning and with `gobuster` for fin
   <img width="1465" height="677" alt="image" src="https://github.com/user-attachments/assets/b04752cd-0a73-4124-accf-ab2e3f8f70d2" />
 </p>
 
-
+<p align="center">
   <img width="710" height="487" alt="image" src="https://github.com/user-attachments/assets/851fcf1b-8ec7-47d8-b01b-ed6067cadccf" />
-
+</p>
 
 
 
