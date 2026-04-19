@@ -31,6 +31,9 @@ Using the `gobuter`  we found a page `/secret` we went there and we saw we can e
   <img width="1007" height="536" alt="image" src="https://github.com/user-attachments/assets/6ee90ab8-cbef-4b0d-9d24-45193df653f0" />
 </p>
 
+We were logged in as `www-data` which does not have permissions :
+
+  <img width="940" height="818" alt="image" src="https://github.com/user-attachments/assets/057928b6-13c8-4498-a1b6-ee16979b4d32" />
 
 
 
