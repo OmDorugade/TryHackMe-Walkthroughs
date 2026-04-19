@@ -47,6 +47,23 @@ It took some time but found some credentials in `index.php` file of root for `my
   <img width="940" height="827" alt="image" src="https://github.com/user-attachments/assets/3e691e06-693e-4c50-8889-c04bea5a4a23" />
 </p>
 
+Used this credentials and logged in `mysql` and found this :
+<p align="center">
+  <img width="940" height="953" alt="image" src="https://github.com/user-attachments/assets/2b72cef6-ea05-43a3-89de-2c7e45866979" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
