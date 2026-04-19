@@ -27,9 +27,9 @@ Found this note :
 </p>
 
 Using the `gobuter`  we found a page `/secret` we went there and we saw we can execute some commands and got reverse shell:
-
+<p align="center">
   <img width="1007" height="536" alt="image" src="https://github.com/user-attachments/assets/6ee90ab8-cbef-4b0d-9d24-45193df653f0" />
-
+</p>
 
 
 
