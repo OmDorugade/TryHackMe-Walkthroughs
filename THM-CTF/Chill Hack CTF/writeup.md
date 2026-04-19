@@ -63,9 +63,9 @@ Then used `crackstation.net` to crack the hashes :
 </p>
 
 Using `wget` we got the `hacker.jpg` file and used different tools like `steghide` , `zip2john` and `john` to get something from image , we found a `backup.zip` :
-
+<p align="center">
   <img width="940" height="793" alt="image" src="https://github.com/user-attachments/assets/5ac27788-6716-4e2f-96ca-a503c32cab69" />
-
+</p>
 
 
 
