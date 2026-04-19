@@ -52,7 +52,7 @@ Used this credentials and logged in `mysql` and found this :
   <img width="940" height="953" alt="image" src="https://github.com/user-attachments/assets/2b72cef6-ea05-43a3-89de-2c7e45866979" />
 </p>
 
-There was another file called `hacker.php` so download this on our machine using python :
+There was another file called `hacker.jpg` so download this on our machine using python :
 <p align="center">
   <img width="940" height="1046" alt="image" src="https://github.com/user-attachments/assets/f08bd97a-44e5-4b3c-a47e-578a563a802c" />
 </p>
@@ -62,6 +62,9 @@ Then used `crackstation.net` to crack the hashes :
   <img width="1185" height="617" alt="image" src="https://github.com/user-attachments/assets/7ce0d5e7-12cf-4230-a7ab-d79973c27578" />
 </p>
 
+Using `wget` we got the `hacker.jpg` file and used different tools like `steghide` , `zip2john` and `john` to get something from image , we found a `backup.zip` :
+
+  <img width="940" height="793" alt="image" src="https://github.com/user-attachments/assets/5ac27788-6716-4e2f-96ca-a503c32cab69" />
 
 
 
