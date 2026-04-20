@@ -15,7 +15,10 @@
 3
 ```
 
-
+## 2. What is the version of nginx?
+```
+1.16.1
+```
 
 
 
