@@ -90,8 +90,10 @@ Found the Third flag :
 flag{9fdafbd64c47471a8f54cd3fc64cd312}
 ```
 
-
-
+## 7. What is the hidden directory?
+```
+n0th1ng3ls3m4tt3r
+```
 
 
 
