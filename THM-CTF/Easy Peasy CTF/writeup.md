@@ -45,6 +45,21 @@ Decoded it and got our first flag :
 flag{f1rs7_fl4g}
 ```
 
+## 5. Further enumerate the machine, what is flag 2?
+We have `robots.txt` file on `65524` port we checked that and got 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
