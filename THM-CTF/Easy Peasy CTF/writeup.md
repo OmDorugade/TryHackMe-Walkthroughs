@@ -6,3 +6,4 @@
   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/4346d12f-372e-42c6-9130-c617c8b8a43c" />
 </div>
 
+## 1. How many ports are open?
