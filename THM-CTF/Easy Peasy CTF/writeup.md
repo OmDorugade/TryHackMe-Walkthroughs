@@ -7,9 +7,9 @@
 </div>
 
 ## 1. How many ports are open?
-
+<p align="center">
   <img width="940" height="1017" alt="image" src="https://github.com/user-attachments/assets/bdd02275-8229-4818-b40e-2214e20c84c2" />
-
+</p>
 
 ```
 3
