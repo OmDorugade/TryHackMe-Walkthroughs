@@ -100,6 +100,12 @@ flag{9fdafbd64c47471a8f54cd3fc64cd312}
 mypasswordforthatjob
 ```
 
+## 9. What is the password to login to the machine via SSH?
+We have the jpg started looking online for tools and found how to use them :
+<p align="center">
+  <img width="833" height="207" alt="image" src="https://github.com/user-attachments/assets/be217c82-12f8-4a9d-b082-6709417b7530" />
+</p>
+
 
 
 
