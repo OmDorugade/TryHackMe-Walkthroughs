@@ -135,7 +135,7 @@ First searched online about this and found this is `ROT13` used it to decode it 
 flag{n0wits33msn0rm4l}
 ```
 
-## 11. Root.txt
+## 11. What is the root flag?
 Checked the `crontab` and found a script running :
 <p align="center">
   <img width="940" height="1037" alt="image" src="https://github.com/user-attachments/assets/4c03e6dc-0346-402a-bf84-b84d53dfc8f7" />
