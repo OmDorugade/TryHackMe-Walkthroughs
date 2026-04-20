@@ -52,9 +52,9 @@ We have `robots.txt` file on `65524` port we checked that and got
 </p>
 
 That is a MD5 hash after decoding it :
-
+<p align="center">
   <img width="940" height="225" alt="image" src="https://github.com/user-attachments/assets/8f96f27e-7abb-4a30-a5cf-43cca0d4aeb6" />
-
+</p>
 
 
 
