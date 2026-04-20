@@ -7,3 +7,24 @@
 </div>
 
 ## 1. How many ports are open?
+```
+3
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
