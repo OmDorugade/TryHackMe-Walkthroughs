@@ -60,6 +60,12 @@ That is a MD5 hash after decoding it :
 flag{1m_s3c0nd_fl4g}
 ```
 
+## 6.Crack the hash with easypeasy.txt, What is the flag 3?
+Checking the source code of the page we found :
+
+  <img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/def934da-3a68-429b-b3e2-5c0d23f56f00" />
+
+
 
 
 
