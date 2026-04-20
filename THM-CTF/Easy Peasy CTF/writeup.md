@@ -25,6 +25,9 @@
 Apache
 ```
 
+## 4. Using GoBuster, find flag 1.
+
+  <img width="1215" height="685" alt="image" src="https://github.com/user-attachments/assets/d8727dae-a027-4a40-a39e-6744d9b6faab" />
 
 
 
