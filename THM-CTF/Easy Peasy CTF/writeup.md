@@ -119,8 +119,7 @@ Used CyberChef to crack the binary code and found the password:
 iconvertedmypasswordtobinary
 ```
 
-## 10. User.txt
-
+## 10.What is the user flag?
 We know the username used to log in ssh and found the flag is rotated :
 <p align="center">
   <img width="940" height="569" alt="image" src="https://github.com/user-attachments/assets/2f6215a4-1420-4477-8489-5b070c0f0039" />
