@@ -110,13 +110,21 @@ We have the jpg started looking online for tools and found how to use them :
   <img width="1165" height="710" alt="image" src="https://github.com/user-attachments/assets/4a1ebbd2-93a7-4cbc-8783-3d39f9098376" />
 </p>
 
-Used CyberChef to crack the binary :
+Used CyberChef to crack the binary code and found the password:
 <p align="center">
   <img width="1020" height="390" alt="image" src="https://github.com/user-attachments/assets/e5e7533b-d2a0-4b4c-8dd1-ad0703c60593" />
 </p>
 
+```
+iconvertedmypasswordtobinary
+```
 
+## 10. User.txt
 
+We know the username used to log in ssh and found the flag is rotated :
+<p align="center">
+  <img width="940" height="569" alt="image" src="https://github.com/user-attachments/assets/2f6215a4-1420-4477-8489-5b070c0f0039" />
+</p>
 
 
 
