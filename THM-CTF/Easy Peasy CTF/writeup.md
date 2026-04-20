@@ -66,7 +66,10 @@ Checking the source code of the page we found :
   <img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/def934da-3a68-429b-b3e2-5c0d23f56f00" />
 </p>
 
-
+We Got a base62 hash we decode it :
+<p align="center">
+  <img width="1147" height="766" alt="image" src="https://github.com/user-attachments/assets/8424a0b2-36c3-4f9e-8083-c468a46ab4c6" />
+</p>
 
 
 
