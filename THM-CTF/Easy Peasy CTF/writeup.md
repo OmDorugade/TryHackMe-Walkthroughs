@@ -126,6 +126,16 @@ We know the username used to log in ssh and found the flag is rotated :
   <img width="940" height="569" alt="image" src="https://github.com/user-attachments/assets/2f6215a4-1420-4477-8489-5b070c0f0039" />
 </p>
 
+First searched online about this and found this is `ROT13` used it to decode it :
+<p align="center">
+  <img width="782" height="425" alt="image" src="https://github.com/user-attachments/assets/1d0f86b8-cb4c-4b08-b174-1a6d000ba988" />
+</p>
+
+
+
+
+
+
 
 
 
