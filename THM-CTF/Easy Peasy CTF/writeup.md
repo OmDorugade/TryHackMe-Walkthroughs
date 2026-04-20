@@ -131,7 +131,9 @@ First searched online about this and found this is `ROT13` used it to decode it 
   <img width="782" height="425" alt="image" src="https://github.com/user-attachments/assets/1d0f86b8-cb4c-4b08-b174-1a6d000ba988" />
 </p>
 
-
+```
+flag{n0wits33msn0rm4l}
+```
 
 
 
