@@ -36,6 +36,9 @@ Found a directory and a base64 hash :
   <img width="772" height="398" alt="image" src="https://github.com/user-attachments/assets/b7d8d5a6-e18c-4f1f-8ad7-f0355ffd183c" />
 </p>
 
+Decoded it and got our first flag :
+
+  <img width="402" height="642" alt="image" src="https://github.com/user-attachments/assets/e1212b4d-917b-404c-a14f-f185de2af700" />
 
 
 
