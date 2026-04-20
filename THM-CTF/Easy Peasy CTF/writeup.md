@@ -47,8 +47,9 @@ flag{f1rs7_fl4g}
 
 ## 5. Further enumerate the machine, what is flag 2?
 We have `robots.txt` file on `65524` port we checked that and got 
-
-
+<p align="center">
+  <img width="657" height="183" alt="image" src="https://github.com/user-attachments/assets/2255f94a-373a-4f3f-bfb4-15f0cae990a9" />
+</p>
 
 
 
