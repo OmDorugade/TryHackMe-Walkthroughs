@@ -146,7 +146,10 @@ We were able to edit the file and set up a reverse shell code :
   <img width="613" height="963" alt="image" src="https://github.com/user-attachments/assets/ca6a09e6-0088-43a2-98d7-70e7e5b0d947" />
 </p>
 
-
+Got the reverse shell and finally got our root.txt :
+<p align="center">
+  <img width="940" height="1035" alt="image" src="https://github.com/user-attachments/assets/da9c1247-08a6-4cbd-8092-5774f50c2cf7" />
+</p>
 
 
 
