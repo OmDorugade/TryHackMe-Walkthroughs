@@ -66,14 +66,20 @@ Checking the source code of the page we found :
   <img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/def934da-3a68-429b-b3e2-5c0d23f56f00" />
 </p>
 
-We Got a base62 hash we decode it :
+We Got a base62 hash we decode it and we got a new directory :
 <p align="center">
   <img width="1147" height="766" alt="image" src="https://github.com/user-attachments/assets/8424a0b2-36c3-4f9e-8083-c468a46ab4c6" />
 </p>
 
+Visit the page and checked the source code we got another hash :
+<p align="center">
+  <img width="925" height="391" alt="image" src="https://github.com/user-attachments/assets/54f76b34-854d-41f2-bee0-7b95cf368b8c" />
+</p>
 
-
-
+Crack the hash and found this :
+<p align="center">
+  <img width="940" height="256" alt="image" src="https://github.com/user-attachments/assets/ba676a13-a954-4280-ba95-69cea6687c67" />
+</p>
 
 
 
