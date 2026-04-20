@@ -71,7 +71,7 @@ We Got a base62 hash we decode it and we got a new directory :
   <img width="1147" height="766" alt="image" src="https://github.com/user-attachments/assets/8424a0b2-36c3-4f9e-8083-c468a46ab4c6" />
 </p>
 
-Visit the page and checked the source code we got another hash :
+Visit the page and checked the source code we got another hash and a jpg file to download :
 <p align="center">
   <img width="925" height="391" alt="image" src="https://github.com/user-attachments/assets/54f76b34-854d-41f2-bee0-7b95cf368b8c" />
 </p>
@@ -81,8 +81,10 @@ Crack the hash and found this :
   <img width="940" height="256" alt="image" src="https://github.com/user-attachments/assets/ba676a13-a954-4280-ba95-69cea6687c67" />
 </p>
 
-
-
+Found the Third flag :
+<p align="center">
+  <img width="1185" height="723" alt="image" src="https://github.com/user-attachments/assets/f665fc85-7970-4b4f-a056-13f094179292" />
+</p>
 
 
 
