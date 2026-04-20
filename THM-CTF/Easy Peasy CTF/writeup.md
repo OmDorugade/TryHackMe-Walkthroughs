@@ -37,10 +37,11 @@ Found a directory and a base64 hash :
 </p>
 
 Decoded it and got our first flag :
-
+<p align="center">
   <img width="402" height="642" alt="image" src="https://github.com/user-attachments/assets/e1212b4d-917b-404c-a14f-f185de2af700" />
+</p>
 
-
+```
 
 
 
