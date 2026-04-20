@@ -151,9 +151,9 @@ Got the reverse shell and finally got our root.txt :
   <img width="940" height="1035" alt="image" src="https://github.com/user-attachments/assets/da9c1247-08a6-4cbd-8092-5774f50c2cf7" />
 </p>
 
-
-
-
+```
+flag{63a9f0ea7bb98050796b649e85481845}
+```
 
 
 
