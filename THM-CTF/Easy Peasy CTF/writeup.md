@@ -26,10 +26,14 @@ Apache
 ```
 
 ## 4. Using GoBuster, find flag 1.
+Used `feroxbuster` :
 <p align="center">
   <img width="1215" height="685" alt="image" src="https://github.com/user-attachments/assets/d8727dae-a027-4a40-a39e-6744d9b6faab" />
 </p>
 
+Found a directory :
+
+  <img width="772" height="398" alt="image" src="https://github.com/user-attachments/assets/b7d8d5a6-e18c-4f1f-8ad7-f0355ffd183c" />
 
 
 
