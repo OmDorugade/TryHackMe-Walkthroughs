@@ -141,8 +141,10 @@ Checked the `crontab` and found a script running :
   <img width="940" height="1037" alt="image" src="https://github.com/user-attachments/assets/4c03e6dc-0346-402a-bf84-b84d53dfc8f7" />
 </p>
 
-
-
+We were able to edit the file and set up a reverse shell code :
+<p align="center">
+  <img width="613" height="963" alt="image" src="https://github.com/user-attachments/assets/ca6a09e6-0088-43a2-98d7-70e7e5b0d947" />
+</p>
 
 
 
