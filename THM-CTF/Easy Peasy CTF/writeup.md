@@ -42,8 +42,8 @@ Decoded it and got our first flag :
 </p>
 
 ```
-
-
+flag{f1rs7_fl4g}
+```
 
 
 
