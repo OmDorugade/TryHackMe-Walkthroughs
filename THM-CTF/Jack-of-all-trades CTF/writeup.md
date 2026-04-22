@@ -53,9 +53,9 @@ Just used `?cmd=` after the `index.php` and got this :
 </p>
 
 Now used reverse shell commands to get access :
-
+<p align="center">
   <img width="1110" height="178" alt="image" src="https://github.com/user-attachments/assets/41cb49a1-a6bc-48f9-aab2-1f55c861762a" />
-
+</p>
 
 
 
