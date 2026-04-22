@@ -57,8 +57,9 @@ Now used reverse shell commands to get access :
   <img width="1110" height="178" alt="image" src="https://github.com/user-attachments/assets/41cb49a1-a6bc-48f9-aab2-1f55c861762a" />
 </p>
 
+Got the reverse shell on our machine and found some password list :
 
-
+  <img width="562" height="691" alt="image" src="https://github.com/user-attachments/assets/e27ef411-c1d8-4e9b-a47a-aa4ec03f6224" />
 
 
 
