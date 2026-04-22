@@ -17,11 +17,14 @@ Nmap scan shows http running on port `22` so we have to configure our browser se
   <img width="940" height="904" alt="image" src="https://github.com/user-attachments/assets/657f11eb-9363-4582-9f69-58340ffc91ae" />
 </p>
 
-Further we used `feroxbuster` to scan the website for hidden directories :
+Further we used `feroxbuster` to scan the website for hidden directories and some files :
 <p align="center">
   <img width="1191" height="470" alt="image" src="https://github.com/user-attachments/assets/7ba0598f-c22e-483e-a3fb-8cc8de5a0e2f" />
 </p>
 
+Using `curl` we got this :
+  
+  <img width="797" height="426" alt="image" src="https://github.com/user-attachments/assets/7d49a36c-314f-4fb9-8270-94a9f4de94b3" />
 
 
 
