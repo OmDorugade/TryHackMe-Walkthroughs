@@ -1,5 +1,5 @@
 # <div align="center">[Jack-of-all-trades CTF](https://tryhackme.com/room/jackofalltrades)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Boot-to-root originally designed for Securi-Tay 2020
 </div>
 <br>
 <div align="center">
