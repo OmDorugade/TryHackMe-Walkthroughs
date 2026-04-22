@@ -52,6 +52,9 @@ Just used `?cmd=` after the `index.php` and got this :
   <img width="967" height="143" alt="image" src="https://github.com/user-attachments/assets/9f1ad1e9-41fe-47bf-be3c-684c01162e51" />
 </p>
 
+Now used reverse shell commands to get access :
+
+  <img width="1110" height="178" alt="image" src="https://github.com/user-attachments/assets/41cb49a1-a6bc-48f9-aab2-1f55c861762a" />
 
 
 
