@@ -37,7 +37,9 @@ Lets get back to the files we found on the target machine website and try to dec
   <img width="1016" height="578" alt="image" src="https://github.com/user-attachments/assets/fe3b812a-c6f7-40a1-8b5e-64a06dac8e6d" />
 </p>
 
+If we looked at the `curl` image above we also found `/recovery.php` page and we entered the username and password we found :
 
+  <img width="1037" height="271" alt="image" src="https://github.com/user-attachments/assets/2c139f4a-fde1-4a43-87cb-a0ef6b523e6a" />
 
 
 
