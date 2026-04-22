@@ -67,6 +67,9 @@ Using `hydra` we got the password for `ssh` and found an `user.jpg` file using `
   <img width="713" height="657" alt="image" src="https://github.com/user-attachments/assets/7660f6e8-97eb-4ef4-88a6-e896eeba2cb7" />
 </p>
 
+Finally we got our first flag : 
+
+  <img width="1012" height="686" alt="image" src="https://github.com/user-attachments/assets/ba99dd74-a462-4cdb-b657-a083f6362e9d" />
 
 
 
