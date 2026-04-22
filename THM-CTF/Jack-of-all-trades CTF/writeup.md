@@ -33,9 +33,9 @@ We decoded it using `base64decode.org` website and got a password :
 </p>
 
 Lets get back to the files we found on the target machine website and try to decode it using `steghide` :
-
+<p align="center">
   <img width="1016" height="578" alt="image" src="https://github.com/user-attachments/assets/fe3b812a-c6f7-40a1-8b5e-64a06dac8e6d" />
-
+</p>
 
 
 
