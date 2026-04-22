@@ -58,9 +58,9 @@ Now used reverse shell commands to get access :
 </p>
 
 Got the reverse shell on our machine and found some password list :
-
+<p align="center">
   <img width="562" height="691" alt="image" src="https://github.com/user-attachments/assets/e27ef411-c1d8-4e9b-a47a-aa4ec03f6224" />
-
+</p>
 
 
 
