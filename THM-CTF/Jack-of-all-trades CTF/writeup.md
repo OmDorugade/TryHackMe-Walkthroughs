@@ -48,9 +48,9 @@ After using the credentials we got this page saying :
 </p>
 
 Just used `?cmd=` after the `index.php` and got this :
-
+<p align="center">
   <img width="967" height="143" alt="image" src="https://github.com/user-attachments/assets/9f1ad1e9-41fe-47bf-be3c-684c01162e51" />
-
+</p>
 
 
 
