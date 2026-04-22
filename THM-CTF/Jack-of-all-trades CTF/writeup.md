@@ -12,7 +12,7 @@ Enumerate the machine using `nmap` for port scanning :
   <img width="1083" height="562" alt="image" src="https://github.com/user-attachments/assets/4c400d90-3576-48e8-865d-b86320b545da" />
 </p>
 
-
+After `nmap` scan we can look that the website is on port `22` which is not normal , we have to change settings of our browser so we can access it on port `22` : 
 
 
 
