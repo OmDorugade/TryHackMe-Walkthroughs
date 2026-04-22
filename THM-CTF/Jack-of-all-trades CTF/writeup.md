@@ -23,10 +23,9 @@ Further we used `feroxbuster` to scan the website for hidden directories and som
 </p>
 
 Using `curl` we got this :
-  
+<p align="center">
   <img width="797" height="426" alt="image" src="https://github.com/user-attachments/assets/7d49a36c-314f-4fb9-8270-94a9f4de94b3" />
-
-
+</p>
 
 
 
