@@ -86,7 +86,7 @@ Using `find` command we found `/usr/bin/strings` has root permissions :
 securi-tay2020_{6f125d32f38fb8ff9e720d2dbce2210a}
 ```
 
-
+Room Completed !
 
 
 
