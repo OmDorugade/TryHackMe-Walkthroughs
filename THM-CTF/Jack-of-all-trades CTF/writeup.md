@@ -77,7 +77,7 @@ securi-tay2020_{p3ngu1n-hunt3r-3xtr40rd1n41r3}
 ```
 
 ## 2. Root Flag
-Using `find` command we found binaries with SUID permissions :
+Using `find` command we found `/usr/bin/strings` has root permissions :
 <p align="center">
   <img width="1032" height="558" alt="image" src="https://github.com/user-attachments/assets/c400ac35-14c2-43f8-9623-32a1431ff6f2" />
 </p>
