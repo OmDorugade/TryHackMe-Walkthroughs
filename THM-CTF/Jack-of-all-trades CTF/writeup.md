@@ -63,8 +63,10 @@ Got the reverse shell on our machine and found some password list :
 </p>
 
 Using `hydra` we got the password for `ssh` and found an `user.jpg` file using `python` we took that file to our machine :
-
+<p align="center">
   <img width="713" height="657" alt="image" src="https://github.com/user-attachments/assets/7660f6e8-97eb-4ef4-88a6-e896eeba2cb7" />
+</p>
+
 
 
 
