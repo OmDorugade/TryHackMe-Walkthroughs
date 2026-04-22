@@ -72,9 +72,9 @@ Finally we got our first flag :
   <img width="1012" height="686" alt="image" src="https://github.com/user-attachments/assets/ba99dd74-a462-4cdb-b657-a083f6362e9d" />
 </p>
 
-
-
-
+```
+securi-tay2020_{p3ngu1n-hunt3r-3xtr40rd1n41r3}
+```
 
 
 
