@@ -18,9 +18,9 @@ Nmap scan shows http running on port `22` so we have to configure our browser se
 </p>
 
 Further we used `feroxbuster` to scan the website for hidden directories :
-
+<p align="center">
   <img width="1191" height="470" alt="image" src="https://github.com/user-attachments/assets/7ba0598f-c22e-483e-a3fb-8cc8de5a0e2f" />
-
+</p>
 
 
 
