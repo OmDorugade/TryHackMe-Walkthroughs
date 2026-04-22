@@ -47,6 +47,9 @@ After using the credentials we got this page saying :
   <img width="907" height="205" alt="image" src="https://github.com/user-attachments/assets/ee10cab4-5293-4988-a40c-d721375f24ff" />
 </p>
 
+Just used `?cmd=` after the `index.php` and got this :
+
+  <img width="967" height="143" alt="image" src="https://github.com/user-attachments/assets/9f1ad1e9-41fe-47bf-be3c-684c01162e51" />
 
 
 
