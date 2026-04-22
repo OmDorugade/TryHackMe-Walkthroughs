@@ -27,6 +27,25 @@ Using `curl` we got some `base64` hash :
   <img width="797" height="426" alt="image" src="https://github.com/user-attachments/assets/7d49a36c-314f-4fb9-8270-94a9f4de94b3" />
 </p>
 
+We decoded it using `base64decode.org` website and got a password :
+
+  <img width="1166" height="667" alt="image" src="https://github.com/user-attachments/assets/4e8ab8b3-f82f-4412-be54-1e965b374a3d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
