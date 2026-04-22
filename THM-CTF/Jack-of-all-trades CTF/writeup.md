@@ -13,8 +13,9 @@ Enumerate the machine using `nmap` for port scanning :
 </p>
 
 Nmap scan shows http running on port `22` so we have to configure our browser settings so we can access it  : 
-
-  
+<p align="center">
+  <img width="940" height="904" alt="image" src="https://github.com/user-attachments/assets/657f11eb-9363-4582-9f69-58340ffc91ae" />
+</p>
 
 
 
