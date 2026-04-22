@@ -42,6 +42,9 @@ If we looked at the `curl` image above we also found `/recovery.php` page and we
   <img width="1037" height="271" alt="image" src="https://github.com/user-attachments/assets/2c139f4a-fde1-4a43-87cb-a0ef6b523e6a" />
 </p>
 
+After using the credentials we got this page saying :
+
+  <img width="907" height="205" alt="image" src="https://github.com/user-attachments/assets/ee10cab4-5293-4988-a40c-d721375f24ff" />
 
 
 
