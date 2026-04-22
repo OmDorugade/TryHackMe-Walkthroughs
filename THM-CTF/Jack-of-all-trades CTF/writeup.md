@@ -8,9 +8,9 @@
 
 ## 1. User Flag
 Enumerate the machine using `nmap` for port scanning :
-
+<p align="center">
   <img width="1083" height="562" alt="image" src="https://github.com/user-attachments/assets/4c400d90-3576-48e8-865d-b86320b545da" />
-
+</p>
 
 
 
