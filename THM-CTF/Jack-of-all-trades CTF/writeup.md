@@ -28,9 +28,9 @@ Using `curl` we got some `base64` hash :
 </p>
 
 We decoded it using `base64decode.org` website and got a password :
-
+<p align="center">
   <img width="1166" height="667" alt="image" src="https://github.com/user-attachments/assets/4e8ab8b3-f82f-4412-be54-1e965b374a3d" />
-
+</p>
 
 
 
