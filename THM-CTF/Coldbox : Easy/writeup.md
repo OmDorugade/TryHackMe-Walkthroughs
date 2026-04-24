@@ -27,6 +27,11 @@ Logging using the credentials and now we visited each page and found this php pa
   <img width="981" height="776" alt="image" src="https://github.com/user-attachments/assets/77a82ece-3e45-4598-9160-93339b07faa3" />
 </p>
 
+Then we have to access that page using the page url so we can get reverse shell on our machine :
+
+  <img width="902" height="432" alt="image" src="https://github.com/user-attachments/assets/3676d4d7-20c5-4f71-8da9-3ac6f64aed7f" />
+
+  
 
 
 
