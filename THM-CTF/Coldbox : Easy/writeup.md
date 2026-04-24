@@ -12,6 +12,8 @@ Visit the machine ip and we get to kniow it is a wordpress site :
   <img width="763" height="592" alt="image" src="https://github.com/user-attachments/assets/05215ad8-5f0a-4945-bd76-6be82ad90222" />
 </p>
 
+Using the tool `wpscan` we enumerated the website also used user and password list to get any credentials :
+
 
 
 
