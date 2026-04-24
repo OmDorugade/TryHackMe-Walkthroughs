@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/72d55493-4ee7-47c9-bae9-bf1fa620526c" />
+  <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/72d55493-4ee7-47c9-bae9-bf1fa620526c" />
 </div>
 
 
