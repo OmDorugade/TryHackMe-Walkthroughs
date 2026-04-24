@@ -17,6 +17,9 @@ Using the tool `wpscan` we enumerated the website also used user and password li
   <img width="1240" height="673" alt="image" src="https://github.com/user-attachments/assets/c10f2029-430f-48ef-b1c9-db3762739cab" />
 </p>
 
+Found the credentials :
+
+  <img width="940" height="846" alt="image" src="https://github.com/user-attachments/assets/230a6b80-e0a5-4374-8d4b-76698ead914d" />
 
 
 
