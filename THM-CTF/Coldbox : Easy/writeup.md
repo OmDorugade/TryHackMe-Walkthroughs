@@ -37,6 +37,9 @@ Got the reverse shell on our machine but we cannot read the files beacuse we are
   <img width="923" height="702" alt="image" src="https://github.com/user-attachments/assets/23713584-d6d3-4f6d-9e64-ef42f57f8bcf" />
 </p>
 
+Enumerating further we found a file `wp-config.php` in `/var/html/www/` which had username `c0ldd` and password :
+
+  <img width="940" height="899" alt="image" src="https://github.com/user-attachments/assets/70bf686a-b756-42ab-b9e5-4273225927a7" />
 
 
 
