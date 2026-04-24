@@ -33,9 +33,9 @@ Then we have to access that page using the page url so we can get reverse shell 
 </p>
   
 Got the reverse shell on our machine but we cannot read the files beacuse we are `www-data` for now so we need to get a user session :
-
+<p align="center">
   <img width="923" height="702" alt="image" src="https://github.com/user-attachments/assets/23713584-d6d3-4f6d-9e64-ef42f57f8bcf" />
-
+</p>
 
 
 
