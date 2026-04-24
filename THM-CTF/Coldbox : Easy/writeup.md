@@ -32,7 +32,9 @@ Then we have to access that page using the page url so we can get reverse shell 
   <img width="902" height="432" alt="image" src="https://github.com/user-attachments/assets/3676d4d7-20c5-4f71-8da9-3ac6f64aed7f" />
 </p>
   
+Got the reverse shell on our machine but we cannot read the files beacuse we are `www-data` for now so we need to get a user session :
 
+  <img width="923" height="702" alt="image" src="https://github.com/user-attachments/assets/23713584-d6d3-4f6d-9e64-ef42f57f8bcf" />
 
 
 
