@@ -22,6 +22,9 @@ Found the credentials :
   <img width="940" height="846" alt="image" src="https://github.com/user-attachments/assets/230a6b80-e0a5-4374-8d4b-76698ead914d" />
 </p>
 
+Logging using the credentials and now we visited each page and found this php page where we can upload our reverse php shell code :
+
+  <img width="981" height="776" alt="image" src="https://github.com/user-attachments/assets/77a82ece-3e45-4598-9160-93339b07faa3" />
 
 
 
