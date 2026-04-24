@@ -43,9 +43,9 @@ Enumerating further we found a file `wp-config.php` in `/var/html/www/` which ha
 </p>
 
 With the credentials logged in using ssh and found our first flag :
-
+<p align="center">
   <img width="940" height="555" alt="image" src="https://github.com/user-attachments/assets/09439e65-0e73-4e3a-bf25-4b1427d76c34" />
-
+</p>
 
 
 
