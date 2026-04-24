@@ -8,9 +8,9 @@
 
 ## 1. user.txt
 Visit the machine ip and we get to kniow it is a wordpress site :
-<>
+<p align="center">
   <img width="763" height="592" alt="image" src="https://github.com/user-attachments/assets/05215ad8-5f0a-4945-bd76-6be82ad90222" />
-
+</p>
 
 
 
