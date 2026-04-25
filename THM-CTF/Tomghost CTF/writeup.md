@@ -27,8 +27,9 @@ Got our first flag :
   <img width="527" height="370" alt="image" src="https://github.com/user-attachments/assets/013ce85a-c3b1-4c3a-971e-c784c0e2b824" />
 </p>
 
-
-
+```
+THM{GhostCat_1s_so_cr4sy}
+```
 
 
 
