@@ -6,6 +6,7 @@
   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/55d7f57a-3973-4122-bc02-e37046111dda" />
 </div>
 
+## 1. Compromise this machine and obtain user.txt
 
 
 
