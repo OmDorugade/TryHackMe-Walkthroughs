@@ -52,7 +52,10 @@ Again logged in using the credentials and did `sudo -l` :
   <img width="940" height="921" alt="image" src="https://github.com/user-attachments/assets/b9edc207-b514-457b-a2db-ef68c5a4722e" />
 </p>
 
-
+We searched online about the `sudo -l` output and found this command :
+<p align="center">
+  <img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/4a37927a-120d-4900-8314-b3f7b955b7a2" />
+</p>
 
 
 
