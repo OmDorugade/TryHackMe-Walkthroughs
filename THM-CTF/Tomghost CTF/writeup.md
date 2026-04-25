@@ -47,9 +47,18 @@ Using `gpg2john` and `john` we cracked the hash :
   <img width="940" height="857" alt="image" src="https://github.com/user-attachments/assets/4b66574a-ac40-4bd2-b063-b7246da5a838" />
 </p>
  
-Again logged in using the credentials :
+Again logged in using the credentials and did `sudo -l` :
 <p align="center">
   <img width="940" height="921" alt="image" src="https://github.com/user-attachments/assets/b9edc207-b514-457b-a2db-ef68c5a4722e" />
 </p>
+
+
+
+
+
+
+
+
+
 
 
