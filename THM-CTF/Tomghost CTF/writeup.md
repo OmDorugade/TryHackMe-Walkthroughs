@@ -31,7 +31,10 @@ Got our first flag :
 THM{GhostCat_1s_so_cr4sy}
 ```
 
+## 2. Escalate privileges and obtain root.txt
+Than did `sudo -l ` but we cannot use it , there was another file :
 
+  <img width="687" height="211" alt="image" src="https://github.com/user-attachments/assets/51931a36-a94e-41af-9e86-14077eee1af1" />
 
 
 
