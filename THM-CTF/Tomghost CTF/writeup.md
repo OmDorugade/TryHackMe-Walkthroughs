@@ -13,9 +13,9 @@ Using `nmap` we performed port scanning :
 </p>
 
 Looked online for `tomcat_ghostcat` and found we can use metasploit to exploit the it :
-
+<p align="center">
   <img width="940" height="819" alt="image" src="https://github.com/user-attachments/assets/2dc9b971-13d0-4125-8cf9-e81bee7a46fd" />
-
+</p>
 
 
 
