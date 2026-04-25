@@ -7,6 +7,9 @@
 </div>
 
 ## 1. Compromise this machine and obtain user.txt
+Using `nmap` we performed port scanning :
+
+  <img width="567" height="332" alt="image" src="https://github.com/user-attachments/assets/a392fc72-18bf-4a9f-89bf-5f181c0b24e4" />
 
 
 
