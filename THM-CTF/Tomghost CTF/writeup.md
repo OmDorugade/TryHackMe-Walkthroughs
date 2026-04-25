@@ -57,6 +57,10 @@ We searched online about the `sudo -l` output and found this command :
   <img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/4a37927a-120d-4900-8314-b3f7b955b7a2" />
 </p>
 
+We got the root :
+<p align="center">
+  <img width="892" height="309" alt="image" src="https://github.com/user-attachments/assets/bc2e8b05-d60f-495d-9279-43a1fe4d847f" />
+</p>
 
 
 
