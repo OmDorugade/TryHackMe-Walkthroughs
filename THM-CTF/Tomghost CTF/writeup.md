@@ -17,6 +17,9 @@ Looked online for `tomcat_ghostcat` and found we can use metasploit to exploit t
   <img width="940" height="819" alt="image" src="https://github.com/user-attachments/assets/2dc9b971-13d0-4125-8cf9-e81bee7a46fd" />
 </p>
 
+Got some credentials from the exploit we ran used them and logged in using ssh :
+
+  <img width="940" height="652" alt="image" src="https://github.com/user-attachments/assets/89492d47-dda8-41df-a4e7-b3919fbd2068" />
 
 
 
