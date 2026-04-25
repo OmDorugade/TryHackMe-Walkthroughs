@@ -27,6 +27,12 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 20 | Easy Peasy CTF | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Easy%20Peasy%20CTF/writeup.md) |
 | 21 | Jack-of-all-Trades CTF | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Jack-of-all-trades%20CTF/writeup.md) |
 | 22 | ColddBox : Easy | Linux / Web(Wordpress) / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Coldbox%20:%20Easy/writeup.md) |
+| 23 | Tomghost | Linux / Metasploit / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Tomghost%20CTF/writeup.md) |
+
+
+
+
+
 
 
 
