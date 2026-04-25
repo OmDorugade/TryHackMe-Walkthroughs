@@ -43,9 +43,9 @@ We checked the file and we have pgp key :
 </p>
 
 Using `gpg2john` and `john` we cracked the hash :
-
+<p align="center">
   <img width="940" height="857" alt="image" src="https://github.com/user-attachments/assets/4b66574a-ac40-4bd2-b063-b7246da5a838" />
-
+</p>
  
 
 
