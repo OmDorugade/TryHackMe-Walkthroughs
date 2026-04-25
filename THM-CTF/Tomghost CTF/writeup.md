@@ -22,6 +22,9 @@ Got some credentials from the exploit we ran used them and logged in using ssh :
   <img width="940" height="652" alt="image" src="https://github.com/user-attachments/assets/89492d47-dda8-41df-a4e7-b3919fbd2068" />
 </p>
 
+Got our first flag :
+
+  <img width="527" height="370" alt="image" src="https://github.com/user-attachments/assets/013ce85a-c3b1-4c3a-971e-c784c0e2b824" />
 
 
 
