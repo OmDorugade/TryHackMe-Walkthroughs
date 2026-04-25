@@ -37,7 +37,10 @@ Than did `sudo -l ` but we cannot use it , there was another file :
   <img width="687" height="211" alt="image" src="https://github.com/user-attachments/assets/51931a36-a94e-41af-9e86-14077eee1af1" />
 </p>
 
-
+We checked the file and we have pgp key :
+<p align="center">
+  <img width="940" height="729" alt="image" src="https://github.com/user-attachments/assets/1fcd4976-942a-4af3-af0f-5e76e1d2ba0c" />
+</p>
 
 
 
