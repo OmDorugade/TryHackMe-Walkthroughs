@@ -57,9 +57,7 @@ Further we escalate this to gain root we used `sudo -l` and found we can gain ro
   <img width="1265" height="570" alt="image" src="https://github.com/user-attachments/assets/d38ea4d8-d414-448e-88c4-6f958d0eb290" />
 </p>
 
-```
-wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
-```
+
 
 Room Completed !
 
