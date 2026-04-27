@@ -62,7 +62,9 @@ We got the root :
   <img width="892" height="309" alt="image" src="https://github.com/user-attachments/assets/bc2e8b05-d60f-495d-9279-43a1fe4d847f" />
 </p>
 
-
+```
+THM{Z1P_1S_FAKE}
+```
 
 Room Completed !
 
