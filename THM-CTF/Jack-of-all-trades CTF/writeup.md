@@ -82,7 +82,9 @@ Using `find` command we found `/usr/bin/strings` has root permissions :
   <img width="1032" height="558" alt="image" src="https://github.com/user-attachments/assets/c400ac35-14c2-43f8-9623-32a1431ff6f2" />
 </p>
 
-
+```
+securi-tay2020_{6f125d32f38fb8ff9e720d2dbce2210a}
+```
 
 Room Completed !
 
