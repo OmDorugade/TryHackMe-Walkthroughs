@@ -101,6 +101,10 @@ Gain access using the credentials and used `gftobins` to gain access :
   <img width="1022" height="668" alt="image" src="https://github.com/user-attachments/assets/cbaeff4b-5e5d-4ed1-9d2a-353911d7a068" />
 </p>
 
+The last task was to find the SSH key :
+
+  <img width="878" height="1127" alt="image" src="https://github.com/user-attachments/assets/3fbe2959-72b7-4ae7-95f4-6ddf220c4ed2" />
+</p>
 
 
 
