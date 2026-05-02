@@ -12,9 +12,15 @@
   <img width="940" height="954" alt="image" src="https://github.com/user-attachments/assets/680be2a5-3c51-4fd6-a9ee-dc500bd3cc4c" />
 </p>
 
+```
+Node.js
+```
 
+## 2. Which other non-standard port is used?
 
-
+```
+31331
+```
 
 
 
