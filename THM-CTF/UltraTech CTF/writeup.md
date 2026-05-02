@@ -53,7 +53,7 @@ Visited the page and found more pages :
 Found login page :
 <p align="center">
   <img width="777" height="688" alt="image" src="https://github.com/user-attachments/assets/e8059a7d-a22a-4f88-9b98-f9e8973bba5d" />
-
+</p>
 
 ```
 ```
