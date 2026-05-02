@@ -46,9 +46,9 @@ Used `gobuster` for directory traversal and found `robots.txt` page :
 </>
 
 Visited the page and found more pages : 
-
+<p align="center">
   <img width="717" height="152" alt="image" src="https://github.com/user-attachments/assets/3ac2558d-c305-4c47-b5c1-6cf177d61d68" />
-
+</p>
 
 
 ```
