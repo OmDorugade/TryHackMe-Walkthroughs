@@ -37,6 +37,7 @@ Ubuntu
 ## 5. The software using the port 8081 is a REST api, how many of its routes are used by the web application?
 
 ```
+2
 ```
 
 
