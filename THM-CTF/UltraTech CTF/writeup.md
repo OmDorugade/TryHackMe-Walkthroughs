@@ -90,6 +90,11 @@ f357a0c52799563c7c7b76c1e7543a32
 n100906
 ```
 
+## 9. What are the first 9 characters of the root user's private SSH key?
+Using the information we found till now :
+
+  <img width="1042" height="557" alt="image" src="https://github.com/user-attachments/assets/bdb1e9e0-0261-4a12-b839-024b90555fb3" />
+
 
 
 
