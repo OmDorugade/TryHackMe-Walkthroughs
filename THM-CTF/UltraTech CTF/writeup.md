@@ -97,10 +97,9 @@ Using the information we found till now :
 </p>
 
 Gain access using the credentials and used `gftobins` to gain access :
-
+<p align="center">
   <img width="1022" height="668" alt="image" src="https://github.com/user-attachments/assets/cbaeff4b-5e5d-4ed1-9d2a-353911d7a068" />
-
-
+</p>
 
 
 
