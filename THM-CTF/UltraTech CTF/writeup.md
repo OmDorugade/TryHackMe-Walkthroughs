@@ -96,6 +96,9 @@ Using the information we found till now :
   <img width="1042" height="557" alt="image" src="https://github.com/user-attachments/assets/bdb1e9e0-0261-4a12-b839-024b90555fb3" />
 </p>
 
+Gain access using the credentials and used `gftobins` to gain access :
+
+  <img width="1022" height="668" alt="image" src="https://github.com/user-attachments/assets/cbaeff4b-5e5d-4ed1-9d2a-353911d7a068" />
 
 
 
