@@ -69,6 +69,11 @@ Read above code carefully and understand it we can run cmd using /ping?ip=`ls ` 
 utech.db.sqlite
 ```
 
+## 7. What is the first user's password hash?
+Look at the file using `cat` :
+
+  <img width="968" height="153" alt="image" src="https://github.com/user-attachments/assets/ebbe43e8-09a0-4a87-90ef-403e7f3430b0" />
+
 
 
 
