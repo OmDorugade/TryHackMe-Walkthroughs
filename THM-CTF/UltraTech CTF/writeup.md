@@ -56,9 +56,9 @@ Found login page :
 </p>
 
 Performed Enumeration on website by looking at different page source code and found this :
-
+<p align="center">
   <img width="715" height="692" alt="image" src="https://github.com/user-attachments/assets/16a9adc0-a6f5-4e79-bf50-388e80ba94ac" />
-
+</p>
 
 
 ```
