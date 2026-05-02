@@ -28,6 +28,7 @@ Node.js
 Apache
 ```
 
+## 4. Which GNU/Linux distribution seems to be used?
 
 
 
