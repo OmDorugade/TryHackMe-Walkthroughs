@@ -60,6 +60,10 @@ Performed Enumeration on website by looking at different page source code and fo
   <img width="715" height="692" alt="image" src="https://github.com/user-attachments/assets/16a9adc0-a6f5-4e79-bf50-388e80ba94ac" />
 </p>
 
+Read above code carefully and understand it we can run cmd using /ping?ip=`ls ` but on port 8081 also only ` ` this symbol can run commands 
+
+  <img width="573" height="92" alt="image" src="https://github.com/user-attachments/assets/4a8bfdd6-5aa0-4f8f-a907-8f36776419de" />
+
 
 ```
 ```
