@@ -7,7 +7,6 @@
 </div>
 
 ## 1. Which software is using the port 8081?
-
 <p align="center">
   <img width="940" height="954" alt="image" src="https://github.com/user-attachments/assets/680be2a5-3c51-4fd6-a9ee-dc500bd3cc4c" />
 </p>
@@ -40,6 +39,9 @@ Ubuntu
 2
 ```
 
+## 6. There is a database lying around, what is its filename?
+<p align="center">
+  <img width="673" height="146" alt="image" src="https://github.com/user-attachments/assets/3c40dd09-15b6-4ee2-a8c0-d492dad2d1b4" />
 
 
 
