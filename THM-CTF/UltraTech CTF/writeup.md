@@ -76,9 +76,9 @@ Look at the file using `cat` :
 </p>
 
 We found MD5 hash and cracked it :
-
+<p align="center">
   <img width="866" height="457" alt="image" src="https://github.com/user-attachments/assets/d43a918b-2843-46e4-bcab-01b417c49836" />
-
+</p>
 
 
 
