@@ -40,9 +40,18 @@ Ubuntu
 ```
 
 ## 6. There is a database lying around, what is its filename?
+Used `gobuster` for directory traversal and found `robots.txt` page :
 <p align="center">
   <img width="673" height="146" alt="image" src="https://github.com/user-attachments/assets/3c40dd09-15b6-4ee2-a8c0-d492dad2d1b4" />
 </>
+
+
+
+
+
+
+
+
 
 
 
