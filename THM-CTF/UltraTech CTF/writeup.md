@@ -1,5 +1,5 @@
 # <div align="center">[UltraTech CTF](https://tryhackme.com/room/ultratech1)</div>
-<div align="center">The basics of Penetration Testing, Enumeration, Privilege Escalation and WebApp testing
+<div align="center">The basics of Penetration Testing, Enumeration, Privilege Escalation and WebApp testing.
 </div>
 
 <div align="center">
