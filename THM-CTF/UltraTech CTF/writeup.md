@@ -55,6 +55,12 @@ Found login page :
   <img width="777" height="688" alt="image" src="https://github.com/user-attachments/assets/e8059a7d-a22a-4f88-9b98-f9e8973bba5d" />
 </p>
 
+Performed Enumeration on website by looking at different page source code and found this :
+
+  <img width="715" height="692" alt="image" src="https://github.com/user-attachments/assets/16a9adc0-a6f5-4e79-bf50-388e80ba94ac" />
+
+
+
 ```
 ```
 
