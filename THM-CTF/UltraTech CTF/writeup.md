@@ -107,6 +107,7 @@ The last task was to find the SSH key :
 </p>
 
 ```
+MIIEogIBA
 ```
 
 
