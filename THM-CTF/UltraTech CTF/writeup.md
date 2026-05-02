@@ -65,8 +65,8 @@ Read above code carefully and understand it we can run cmd using /ping?ip=`ls ` 
   <img width="573" height="92" alt="image" src="https://github.com/user-attachments/assets/4a8bfdd6-5aa0-4f8f-a907-8f36776419de" />
 </p>
 
-
 ```
+utech.db.sqlite
 ```
 
 
