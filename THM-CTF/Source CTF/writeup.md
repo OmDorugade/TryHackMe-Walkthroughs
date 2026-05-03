@@ -43,7 +43,7 @@ For interactive terminal used python library pty :
 </p>
 
 Got our user.txt :
-
+<p align="center">
   <img width="306" height="337" alt="image" src="https://github.com/user-attachments/assets/a7bfa887-d2d1-457b-95fd-2c2a3f6e504c" />
 
 
