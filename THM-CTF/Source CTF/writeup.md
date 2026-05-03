@@ -25,7 +25,7 @@ We were also not able to directory brute force using `gobuster` :
 Website is using webmin so search in `metasploit` :
 <p align="center">
   <img width="940" height="858" alt="image" src="https://github.com/user-attachments/assets/97108a3e-3d3f-4beb-bdde-f21b697745c9" />
-
+</p>
 
 
 
