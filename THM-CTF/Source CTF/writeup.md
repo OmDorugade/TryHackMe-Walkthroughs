@@ -61,7 +61,7 @@ Used `sudo -l` and got our root flag :
 THM{UPDATE_YOUR_INSTALL}
 ```
 
-Room 
+Room Completed !
 
 
 
