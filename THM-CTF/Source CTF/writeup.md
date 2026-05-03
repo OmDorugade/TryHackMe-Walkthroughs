@@ -48,6 +48,7 @@ Got our user.txt :
 </p>
 
 ```
+THM{SUPPLY_CHAIN_COMPROMISE}
 ```
 
 
