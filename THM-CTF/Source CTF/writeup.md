@@ -51,5 +51,8 @@ Got our user.txt :
 THM{SUPPLY_CHAIN_COMPROMISE}
 ```
 
+## 2. root.txt
+Used `sudo -l` and got our root flag :
 
+  
 
