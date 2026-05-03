@@ -57,3 +57,10 @@ Used `sudo -l` and got our root flag :
   <img width="867" height="295" alt="image" src="https://github.com/user-attachments/assets/95812019-6518-45c4-a750-1a85ef5fa516" />
 </p>
 
+```
+```
+
+
+
+
+
