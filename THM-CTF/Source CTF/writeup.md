@@ -58,6 +58,7 @@ Used `sudo -l` and got our root flag :
 </p>
 
 ```
+THM{UPDATE_YOUR_INSTALL}
 ```
 
 
