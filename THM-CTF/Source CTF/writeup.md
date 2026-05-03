@@ -13,9 +13,9 @@ Enumerating the machine using `nmap` for port scanning :
 </p>
 
 Looked at source code but found nothing :
-
+<p align="center">
   <img width="1338" height="615" alt="image" src="https://github.com/user-attachments/assets/450ef895-a681-440b-9efb-93b00588efc4" />
-
+</p>
 
 
 
