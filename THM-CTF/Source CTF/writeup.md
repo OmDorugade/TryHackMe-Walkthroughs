@@ -37,7 +37,9 @@ Using `exploit` command we got the access of the machine :
   <img width="940" height="863" alt="image" src="https://github.com/user-attachments/assets/67b344dc-a4a5-4a5a-b055-11f799daa329" />
 </p>
 
+For interactive terminal used python library pty : 
 
+  
 
 
 
