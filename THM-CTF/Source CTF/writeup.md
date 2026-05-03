@@ -8,9 +8,9 @@
 
 ## 1. user.txt
 Enumerating the machine using `nmap` for port scanning :
-
+<p align="center">
   <img width="1155" height="432" alt="image" src="https://github.com/user-attachments/assets/f1aa4741-5d45-4816-95c9-fd99de03b7e3" />
-
+</p>
 
 
 
