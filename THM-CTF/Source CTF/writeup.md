@@ -18,7 +18,7 @@ Looked at source code but found nothing :
 </p>
 
 We were also not able to directory brute force using `gobuster` :
-
+<p align="center">
   <img width="940" height="613" alt="image" src="https://github.com/user-attachments/assets/dd1ad157-7839-4fa1-b73b-7722a1d52206" />
 
 
