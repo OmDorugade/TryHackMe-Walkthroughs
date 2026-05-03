@@ -32,7 +32,9 @@ Using the 10th payload and setting the options :
   <img width="940" height="817" alt="image" src="https://github.com/user-attachments/assets/35fd16ea-0a6d-4f34-8b68-396b708d862e" />
 </p>
 
+Using `exploit` command we got the access of the machine :
 
+  
 
 
 
