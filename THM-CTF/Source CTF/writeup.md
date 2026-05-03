@@ -19,7 +19,8 @@ Looked at source code but found nothing :
 
 We were also not able to directory brute force using `gobuster` :
 
-  
+  <img width="940" height="613" alt="image" src="https://github.com/user-attachments/assets/dd1ad157-7839-4fa1-b73b-7722a1d52206" />
+
 
 
 
