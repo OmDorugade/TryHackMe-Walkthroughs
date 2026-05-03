@@ -53,7 +53,7 @@ THM{SUPPLY_CHAIN_COMPROMISE}
 
 ## 2. root.txt
 Used `sudo -l` and got our root flag :
-
+<p align="center">
   <img width="867" height="295" alt="image" src="https://github.com/user-attachments/assets/95812019-6518-45c4-a750-1a85ef5fa516" />
 
 
