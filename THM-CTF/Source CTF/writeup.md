@@ -42,7 +42,9 @@ For interactive terminal used python library pty :
   <img width="861" height="300" alt="image" src="https://github.com/user-attachments/assets/9720d775-dbfd-491a-ad6f-12a479edb15c" />
 </p>
 
+Got our user.txt :
 
+  
 
 
 
