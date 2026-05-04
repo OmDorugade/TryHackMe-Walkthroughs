@@ -16,6 +16,7 @@ Using `nmap` we performed port scanning :
 2
 ```
 
+## 2. What is the database management system installed on the server?
 
 
 
