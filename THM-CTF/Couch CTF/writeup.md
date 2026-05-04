@@ -75,7 +75,10 @@ With the help of credentials we found we used `ssh` for login and found our user
 THM{1ns3cure_couchdb}
 ```
 
+## 9. Escalate privileges and obtain root.txt
+We did `sudo -l` but we cannot run sudo :
 
+  
 
 
 
