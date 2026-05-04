@@ -77,9 +77,9 @@ THM{1ns3cure_couchdb}
 
 ## 9. Escalate privileges and obtain root.txt
 We did `sudo -l` but we cannot run sudo :
-
+<p align="center">
   <img width="487" height="332" alt="image" src="https://github.com/user-attachments/assets/eabb59d6-343a-43e2-b0ff-f66dbd333534" />
-
+</p>
 
 
 
