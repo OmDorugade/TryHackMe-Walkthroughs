@@ -96,5 +96,6 @@ We used that commands and got our root flag :
 </p>
 
 ```
+THM{RCE_us1ng_Docker_API}
 ```
 
