@@ -91,8 +91,9 @@ So we looked at the `bash_history` and found some usefull commands :
 </p>
 
 We used that commands and got our root flag :
-
-  
+<p align="center">
+  <img width="1187" height="537" alt="image" src="https://github.com/user-attachments/assets/f182fce2-be6e-4d54-bde8-9169df8fbe53" />
+</p>
 
 
 
