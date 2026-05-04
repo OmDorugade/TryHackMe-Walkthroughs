@@ -55,7 +55,10 @@ Look at the 2nd question image we have found the ans :
 _all_dbs
 ```
 
+## 7. What are the credentials found in the web administration tool?
+Looking at all files on the database server we found this page :
 
+  
 
 
 
