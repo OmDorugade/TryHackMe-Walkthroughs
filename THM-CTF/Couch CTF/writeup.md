@@ -81,7 +81,10 @@ We did `sudo -l` but we cannot run sudo :
   <img width="487" height="332" alt="image" src="https://github.com/user-attachments/assets/eabb59d6-343a-43e2-b0ff-f66dbd333534" />
 </p>
 
-
+So we looked at the `bash_history` and found some usefull commands :
+<p align="center">
+  <img width="617" height="450" alt="image" src="https://github.com/user-attachments/assets/279f045e-bc43-4bf3-b273-b824d2dd13d0" />
+</p>
 
 
 
