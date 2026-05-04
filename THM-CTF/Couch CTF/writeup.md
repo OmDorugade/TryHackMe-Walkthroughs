@@ -12,6 +12,13 @@ Using `nmap` we performed port scanning :
   <img width="1123" height="703" alt="image" src="https://github.com/user-attachments/assets/c3b30e38-9cf3-44be-9106-5a16474fae12" />
 </p>
 
+```
+```
+
+
+
+
+
 
 
 
