@@ -13,6 +13,7 @@ Using `nmap` we performed port scanning :
 </p>
 
 ```
+2
 ```
 
 
