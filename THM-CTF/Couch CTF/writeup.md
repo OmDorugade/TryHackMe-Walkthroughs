@@ -71,8 +71,8 @@ With the help of credentials we found we used `ssh` for login and found our user
   <img width="592" height="342" alt="image" src="https://github.com/user-attachments/assets/54084b7b-a0c7-4de0-8fff-3ed06e7d6a77" />
 </p>
 
-
-
+```
+```
 
 
 
