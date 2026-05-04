@@ -51,7 +51,8 @@ _utils
 ## 6. What is the path to list all databases in the web browser of the database management system?
 Look at the 2nd question image we have found the ans :
 
-  
+```
+```
 
 
 
