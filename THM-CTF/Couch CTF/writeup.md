@@ -1,5 +1,5 @@
 # <div align="center">[Couch CTF](https://tryhackme.com/room/couch)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Hack into a vulnerable database server that collects and stores data in JSON-based document formats, in this semi-guided challenge.
 </div>
 
 <div align="center">
