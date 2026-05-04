@@ -22,7 +22,8 @@ Searched online about `COUCHDB` and found this :
   <img width="1152" height="676" alt="image" src="https://github.com/user-attachments/assets/adba2f6a-fac7-4fc5-a9bb-a4aef6c6f089" />
 </p>
 
-
+```
+```
 
 
 
