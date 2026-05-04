@@ -65,6 +65,7 @@ Looking at all files on the database server we found this page :
 atena:t4qfzcc4qN##
 ```
 
+## 8. Compromise the machine and locate user.txt
 
 
 
