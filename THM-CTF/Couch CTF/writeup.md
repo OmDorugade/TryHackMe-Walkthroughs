@@ -41,7 +41,8 @@ couchdb
 ## 5. What is the path for the web administration tool for this database management system?
 Look at the 2nd question image we have found the ans :
 
-  
+  <img width="1047" height="345" alt="image" src="https://github.com/user-attachments/assets/db4cf53a-507a-4a9a-9da4-2821e7a5dfa2" />
+
 
 
 
