@@ -38,7 +38,10 @@ couchdb
 1.6.1
 ```
 
+## 5. What is the path for the web administration tool for this database management system?
+Look at the 2nd question image we have found the ans :
 
+  
 
 
 
