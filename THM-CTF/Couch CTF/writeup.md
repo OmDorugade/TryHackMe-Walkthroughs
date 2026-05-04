@@ -66,8 +66,9 @@ atena:t4qfzcc4qN##
 ```
 
 ## 8. Compromise the machine and locate user.txt
-With the help of credentials we found we used `ssh` for login :
+With the help of credentials we found we used `ssh` for login and found our user flag :
 
-  
+  <img width="592" height="342" alt="image" src="https://github.com/user-attachments/assets/54084b7b-a0c7-4de0-8fff-3ed06e7d6a77" />
+
 
 
