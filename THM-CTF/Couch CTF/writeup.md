@@ -58,7 +58,7 @@ _all_dbs
 ## 7. What are the credentials found in the web administration tool?
 Looking at all files on the database server we found this page :
 
-  
+  <img width="1122" height="311" alt="image" src="https://github.com/user-attachments/assets/46af9d2e-f893-464d-a7b7-c3dbbf7ba156" />
 
 
 
