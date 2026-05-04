@@ -72,6 +72,7 @@ With the help of credentials we found we used `ssh` for login and found our user
 </p>
 
 ```
+THM{1ns3cure_couchdb}
 ```
 
 
