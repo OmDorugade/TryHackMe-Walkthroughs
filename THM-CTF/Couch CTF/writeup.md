@@ -26,7 +26,10 @@ Searched online about `COUCHDB` and found this :
 couchdb
 ```
 
+## 3. What port is the database management system running on?
 
+```
+```
 
 
 
