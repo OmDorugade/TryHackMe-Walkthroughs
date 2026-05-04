@@ -66,6 +66,8 @@ atena:t4qfzcc4qN##
 ```
 
 ## 8. Compromise the machine and locate user.txt
+With the help of credentials we found we used `ssh` for login :
 
+  
 
 
