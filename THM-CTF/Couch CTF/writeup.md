@@ -86,9 +86,9 @@ So we looked at the `bash_history` and found some usefull commands :
   <img width="617" height="450" alt="image" src="https://github.com/user-attachments/assets/279f045e-bc43-4bf3-b273-b824d2dd13d0" />
 </p>
 
-
+<p align="center">
   <img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/c6dc6cd8-2f93-494f-a28a-766724fbe544" />
-
+</p>
 
 
 
