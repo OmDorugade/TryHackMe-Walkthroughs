@@ -32,6 +32,9 @@ This subdomain was for testing urls to see if the url is alive or not :
   <img width="997" height="282" alt="image" src="https://github.com/user-attachments/assets/788475fc-fa50-4080-af74-7c06a98279d4" />
 </p>
 
+We checked the machine url i.e `creative.thm` :
+
+  <img width="940" height="736" alt="image" src="https://github.com/user-attachments/assets/29ba4603-0947-45db-9cb2-920051583229" />
 
 
 
