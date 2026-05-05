@@ -91,8 +91,9 @@ Using the key we logged in :
   <img width="767" height="723" alt="image" src="https://github.com/user-attachments/assets/49520afd-bdbc-4a25-b91c-210e31fc0eb5" />
 </p>
 
+To find password for saad we looked at the `bash_history` file :
 
-
+  <img width="940" height="985" alt="image" src="https://github.com/user-attachments/assets/868c2639-6a56-4aff-b41b-5b747e5f54cf" />
 
 
 
