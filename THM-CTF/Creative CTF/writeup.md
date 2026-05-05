@@ -17,6 +17,9 @@ Performed port scanning using `nmap` :
   <img width="552" height="231" alt="image" src="https://github.com/user-attachments/assets/6a19858b-f686-4b79-8203-f751e48f201e" />
 </p>
 
+Could not find anything interesting using `gobuster` :
+<p align="center">
+  <img width="990" height="411" alt="image" src="https://github.com/user-attachments/assets/4b9e1ff5-3e02-4814-b382-7d21de6b3157" />
 
 
 
