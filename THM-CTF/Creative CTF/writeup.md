@@ -38,9 +38,9 @@ We checked the machine url i.e `creative.thm` :
 </p>
 
 Did some research and tried to take our own access and check for any open port :
-
+<p align="center">
   <img width="752" height="417" alt="image" src="https://github.com/user-attachments/assets/d93b38e7-2125-4a6a-9b25-9b14d7f6e47b" />
-
+</p>
 
 
 
