@@ -27,6 +27,9 @@ So used subdomain enumeration using `wfuzz` and found a subdomain :
   <img width="1192" height="445" alt="image" src="https://github.com/user-attachments/assets/f0174b9f-526f-4233-8c5f-27e03e638c94" />
 </p>
 
+This subdomain was for testing urls to see if the url is alive or not :
+
+  <img width="997" height="282" alt="image" src="https://github.com/user-attachments/assets/788475fc-fa50-4080-af74-7c06a98279d4" />
 
 
 
