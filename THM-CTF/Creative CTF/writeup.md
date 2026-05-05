@@ -42,8 +42,10 @@ Did some research and tried to take our own access and check for any open port :
   <img width="752" height="417" alt="image" src="https://github.com/user-attachments/assets/d93b38e7-2125-4a6a-9b25-9b14d7f6e47b" />
 </p>
 
-
-
+Found the port and did this :
+<p align="center">
+  <img width="1187" height="440" alt="image" src="https://github.com/user-attachments/assets/82c51638-35c8-44f9-8290-d8e55d71ee05" />
+</p>
 
 
 
