@@ -22,7 +22,9 @@ Could not find anything interesting using `gobuster` :
   <img width="990" height="411" alt="image" src="https://github.com/user-attachments/assets/4b9e1ff5-3e02-4814-b382-7d21de6b3157" />
 </p>
 
+So used subdomain enumeration using `wfuzz` and found a subdomain :
 
+  <img width="1192" height="445" alt="image" src="https://github.com/user-attachments/assets/f0174b9f-526f-4233-8c5f-27e03e638c94" />
 
 
 
