@@ -52,7 +52,10 @@ And got directory list :
   <img width="930" height="762" alt="image" src="https://github.com/user-attachments/assets/41533947-85de-49c9-b4d8-cc4eb79bf738" />
 </p>
 
-
+Went to the home folder and found `user.txt` :
+<p align="center">
+  <img width="837" height="537" alt="image" src="https://github.com/user-attachments/assets/a9235649-8346-4f4f-b993-33dd6f376629" />
+</p>
 
 
 
