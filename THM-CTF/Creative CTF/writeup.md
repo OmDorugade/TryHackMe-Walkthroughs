@@ -6,6 +6,9 @@
   <img width="200" height="200" alt="bab044b44df50036b61681f0778fced2" src="https://github.com/user-attachments/assets/f1941699-5a87-43e5-b805-3bedc7185048" />
 </div>
 
+## 1. What is user.txt?
+To get access to website creative.thm we need to add this to our `/etc/host` folder :
+
 
 
 
