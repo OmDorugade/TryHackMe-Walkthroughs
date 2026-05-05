@@ -58,8 +58,9 @@ Went to the home folder and found `user.txt` :
 </p>
 
 Then using the url test got our flag :
-
+<p align="center">
   <img width="1161" height="392" alt="image" src="https://github.com/user-attachments/assets/1a40cad7-241f-4e56-8541-3ad63e18ddc3" />
+</p>
 
 
 
