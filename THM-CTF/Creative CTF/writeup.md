@@ -81,6 +81,9 @@ Used Burpsuite to get `id_rsa` but copying normal from browser but there were so
   <img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/32e2b55c-1ed6-4f70-8bcc-625b85f80c61" />
 </p>
 
+Used this private key to login but before that we have to crack it :
+
+  <img width="845" height="638" alt="image" src="https://github.com/user-attachments/assets/b12d4540-c56b-4ebe-96e3-9ba8c349fc3d" />
 
 
 
