@@ -1,5 +1,5 @@
 # <div align="center">[Creative CTF](https://tryhackme.com/room/creative)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Exploit a vulnerable web application and some misconfigurations to gain root privileges.
 </div>
 
 <div align="center">
