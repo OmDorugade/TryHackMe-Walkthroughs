@@ -96,6 +96,9 @@ To find password for saad we looked at the `bash_history` file :
   <img width="940" height="985" alt="image" src="https://github.com/user-attachments/assets/868c2639-6a56-4aff-b41b-5b747e5f54cf" />
 </p>
 
+Found the password and did `sudo -l` :
+
+  <img width="940" height="222" alt="image" src="https://github.com/user-attachments/assets/bc9ddd67-407b-429e-8a92-b3139ef09c6a" />
 
 
 
