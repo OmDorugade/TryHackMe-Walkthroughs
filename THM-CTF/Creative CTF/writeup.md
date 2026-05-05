@@ -106,8 +106,8 @@ Searched online for `sudo -l` for `/usr/bin/ping` and found this code :
   <img width="246" height="325" alt="image" src="https://github.com/user-attachments/assets/b8a5ef5e-9695-46a6-831f-09b79ac90ab5" />
 </p>
 
-We can compile it in tmp/ folder using the below commands :
-Important point be in tmp/ folder to run this 
+We can compile it in `tmp/` folder using the below commands :
+Important point be in `tmp/` folder to run this 
 1. nano shell.c
 
 2. gcc -fPIC -shared -o shell.so shell.c -nostartfiles
