@@ -31,6 +31,13 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 24 | UltraTech | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/UltraTech%20CTF/writeup.md) |
 | 25 | Source | Linux / Web / Metasploit / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Source%20CTF/writeup.md) |
 | 26 | CouchDB | Linux / Web / Database Server / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Couch%20CTF/writeup.md) |
+| 27 | Creative | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Creative%20CTF/writeup.md) |
+
+
+
+
+
+
 
 
 
