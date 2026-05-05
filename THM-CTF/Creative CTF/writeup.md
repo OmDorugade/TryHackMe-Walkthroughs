@@ -13,8 +13,9 @@ To get access to website creative.thm we need to add this to our `/etc/host` fol
 </p>
 
 Performed port scanning using `nmap` :
-
+<p align="center">
   <img width="552" height="231" alt="image" src="https://github.com/user-attachments/assets/6a19858b-f686-4b79-8203-f751e48f201e" />
+</p>
 
 
 
