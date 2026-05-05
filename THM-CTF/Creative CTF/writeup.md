@@ -92,9 +92,9 @@ Using the key we logged in :
 </p>
 
 To find password for saad we looked at the `bash_history` file :
-
+<p align="center">
   <img width="940" height="985" alt="image" src="https://github.com/user-attachments/assets/868c2639-6a56-4aff-b41b-5b747e5f54cf" />
-
+</p>
 
 
 
