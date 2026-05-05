@@ -70,5 +70,5 @@ Then using the url test got our flag :
 9a1ce90a7653d74ab98630b47b8b4a84
 ```
 
-
+## 2. What is root.txt?
 
