@@ -8,8 +8,9 @@
 
 ## 1. What is user.txt?
 To get access to website creative.thm we need to add this to our `/etc/host` folder :
-
-
+<p align="center">
+  <img width="945" height="512" alt="image" src="https://github.com/user-attachments/assets/d7eecb4b-c57b-44de-ab9e-70760058e447" />
+</p>
 
 
 
