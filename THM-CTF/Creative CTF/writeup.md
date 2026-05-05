@@ -115,9 +115,9 @@ Important point be in `tmp/` folder to run this
 3. sudo LD_PRELOAD=/tmp/shell.so /usr/bin/ping
 
 Finally found our root.txt :
-
+<p align="center">
   <img width="938" height="658" alt="image" src="https://github.com/user-attachments/assets/e38f49ad-f9f8-4600-bba4-021550815e2e" />
-
+</p>
 
 ```
 992bfd94b90da48634aed182aae7b99f
