@@ -77,8 +77,9 @@ Enumerate different folders and found `ssh` keys  :
 </p>
 
 Used Burpsuite to get `id_rsa` but copying normal from browser but there were some errors therefore used Burpsuite and save it :
-
+<p align="center">
   <img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/32e2b55c-1ed6-4f70-8bcc-625b85f80c61" />
+</p>
 
 
 
