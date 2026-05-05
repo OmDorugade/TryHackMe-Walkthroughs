@@ -47,6 +47,10 @@ Found the port and did this :
   <img width="1187" height="440" alt="image" src="https://github.com/user-attachments/assets/82c51638-35c8-44f9-8290-d8e55d71ee05" />
 </p>
 
+And got directory list :
+<p align="center">
+  <img width="930" height="762" alt="image" src="https://github.com/user-attachments/assets/41533947-85de-49c9-b4d8-cc4eb79bf738" />
+</p>
 
 
 
