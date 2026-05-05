@@ -72,8 +72,9 @@ Then using the url test got our flag :
 
 ## 2. What is root.txt?
 Enumerate different folders and found `ssh` keys  :
-
+<p align="center">
   <img width="935" height="327" alt="image" src="https://github.com/user-attachments/assets/8f7c98f3-081b-43c5-8feb-43980d96e273" />
+</p>
 
 
 
