@@ -102,7 +102,22 @@ Found the password and did `sudo -l` :
 </p>
 
 Searched online for `sudo -l` for `/usr/bin/ping` and found this code :
-
+<p align="center">
   <img width="246" height="325" alt="image" src="https://github.com/user-attachments/assets/b8a5ef5e-9695-46a6-831f-09b79ac90ab5" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
