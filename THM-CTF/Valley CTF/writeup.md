@@ -57,7 +57,9 @@ THM{k@l1_1n_th3_v@lley}
 ```
 
 ## 2. What is the root flag?
+We were not able to do `sudo -l` :
 
+  <img width="630" height="307" alt="image" src="https://github.com/user-attachments/assets/dfb4026d-2fd3-463f-98d9-68249b12ab11" />
 
 
 
