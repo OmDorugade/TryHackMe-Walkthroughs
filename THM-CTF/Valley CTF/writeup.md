@@ -23,10 +23,9 @@ Now enumerated the new page :
 </p>
 
 Checking the source code found a txt page :
-
+<p align="center">
   <img width="940" height="912" alt="image" src="https://github.com/user-attachments/assets/44f77ab8-b769-4286-a7f7-542300a4e43a" />
-
-
+</p>
 
 
 
