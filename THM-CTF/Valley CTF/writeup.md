@@ -72,7 +72,9 @@ Reading the files we found an MD5 hash :
   <img width="1101" height="540" alt="image" src="https://github.com/user-attachments/assets/ba19b333-e672-4cad-9d99-f086380e2f90" />
 </p>
 
-
+<p align="center">
+  <img width="638" height="735" alt="image" src="https://github.com/user-attachments/assets/09ccb536-fb33-42fb-9b7a-2aa648cfddd8" />
+</p>
 
 
 
