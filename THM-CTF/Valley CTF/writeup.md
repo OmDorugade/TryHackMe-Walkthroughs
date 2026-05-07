@@ -28,9 +28,9 @@ Checking the source code found a txt page :
 </p>
 
 Checking the txt page found this :
-
+<p align="center">
   <img width="802" height="156" alt="image" src="https://github.com/user-attachments/assets/42eb2600-2868-4c60-a6dc-cb81c482b898" />
-
+</p>
 
 
 
