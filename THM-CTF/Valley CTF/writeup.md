@@ -6,6 +6,7 @@
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/273ea781-3992-4540-a88d-fb7e58438097" />
 </div>
 
+## 1. What is the user flag?
 
 
 
