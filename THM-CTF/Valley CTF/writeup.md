@@ -82,8 +82,9 @@ Using crackstation we cracked the hash :
 </p>
 
 Checking the `crontab` we found a script that runs everytime :
-
+<p align="center">
   <img width="940" height="664" alt="image" src="https://github.com/user-attachments/assets/460604cd-c453-4f78-aea4-226665fed19b" />
+</p>
 
 
 
