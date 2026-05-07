@@ -7,12 +7,10 @@
 </div>
 
 ## 1. What is the user flag?
-
-
-
+Enumerate the machine using `nmap` and `gobuster` :
 
 <p align="center">
-  
+  <img width="1067" height="557" alt="image" src="https://github.com/user-attachments/assets/d843a2fb-04d6-45fb-9cf5-4be8c8717787" />
 </p>
 
 
