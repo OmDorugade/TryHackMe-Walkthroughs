@@ -48,7 +48,7 @@ Checking the three wireshark file we found some credentials :
 </p>
 
 Found the user flag :
-
+<p align="center">
   <img width="677" height="535" alt="image" src="https://github.com/user-attachments/assets/c4550aa8-14af-4146-8b43-e705223ed027" />
 
 
