@@ -63,9 +63,9 @@ We were not able to do `sudo -l` :
 </p>
 
 Found some files using scp took them on our machine :
-
+<p align="center">
   <img width="940" height="155" alt="image" src="https://github.com/user-attachments/assets/9f643cc6-2bf2-4a2e-b5aa-6bcf40597f50" />
-
+</p>
 
 
 
