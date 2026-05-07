@@ -13,6 +13,9 @@ Enumerate the machine using `nmap` and `gobuster` :
   <img width="1067" height="557" alt="image" src="https://github.com/user-attachments/assets/d843a2fb-04d6-45fb-9cf5-4be8c8717787" />
 </p>
 
+Found a page and enumerated further :
+
+<p align="center">
 
 
 
