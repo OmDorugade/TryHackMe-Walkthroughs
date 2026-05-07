@@ -67,6 +67,9 @@ Found some files using scp took them on our machine :
   <img width="940" height="155" alt="image" src="https://github.com/user-attachments/assets/9f643cc6-2bf2-4a2e-b5aa-6bcf40597f50" />
 </p>
 
+Reading the files we found an MD5 hash :
+
+  <img width="1101" height="540" alt="image" src="https://github.com/user-attachments/assets/ba19b333-e672-4cad-9d99-f086380e2f90" />
 
 
 
