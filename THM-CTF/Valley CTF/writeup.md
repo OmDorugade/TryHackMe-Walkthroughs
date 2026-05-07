@@ -1,5 +1,5 @@
 # <div align="center">[Valley CTF](https://tryhackme.com/room/valleype)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Can you find your way into the Valley?
 </div>
 <br>
 <div align="center">
