@@ -38,9 +38,9 @@ Scanning all ports with `nmap` and found this :
 </p>
 
 With the help of the notes on the txt page we used ftp login :
-
+<p align="center">
   <img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/2a7740ed-dfe2-4ec7-9995-72caaa613f7b" />
-
+</p>
 
 
 
