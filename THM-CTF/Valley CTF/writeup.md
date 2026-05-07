@@ -76,5 +76,25 @@ Reading the files we found an MD5 hash :
   <img width="638" height="735" alt="image" src="https://github.com/user-attachments/assets/09ccb536-fb33-42fb-9b7a-2aa648cfddd8" />
 </p>
 
+Using crackstation we cracked the hash :
+
+  <img width="892" height="450" alt="image" src="https://github.com/user-attachments/assets/d8e67502-206a-429d-9f10-ad6cd6b93fdf" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
