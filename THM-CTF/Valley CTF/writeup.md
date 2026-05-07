@@ -22,7 +22,8 @@ Found a page and enumerated further and found another page :
 Now enumerated the new page :
 
 <p align="center">
-
+  <img width="1107" height="737" alt="image" src="https://github.com/user-attachments/assets/1ca4d014-e323-4fb4-a9ad-429ff7830199" />
+</p>
 
 
 
