@@ -43,9 +43,9 @@ With the help of the notes on the txt page we used ftp login and found some wire
 </p>
 
 Checking the three wireshark file we found some credentials :
-
+<p align="center">
   <img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/e2b8ef54-6b67-475b-805f-fa6b6e873281" />
-
+</p>
 
 
 
