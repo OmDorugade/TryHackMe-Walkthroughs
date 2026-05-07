@@ -56,6 +56,7 @@ Found the user flag :
 THM{k@l1_1n_th3_v@lley}
 ```
 
+## 2. What is the root flag?
 
 
 
