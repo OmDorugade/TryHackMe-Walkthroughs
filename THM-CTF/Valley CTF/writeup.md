@@ -37,11 +37,14 @@ Scanning all ports with `nmap` and found this :
   <img width="861" height="431" alt="image" src="https://github.com/user-attachments/assets/8c9371d8-8e3d-4811-8d8e-6716736c3e50" />
 </p>
 
-With the help of the notes on the txt page we used ftp login :
+With the help of the notes on the txt page we used ftp login and found some wireshark files :
 <p align="center">
   <img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/2a7740ed-dfe2-4ec7-9995-72caaa613f7b" />
 </p>
 
+Checking the three wireshark file we found some credentials :
+
+  <img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/e2b8ef54-6b67-475b-805f-fa6b6e873281" />
 
 
 
