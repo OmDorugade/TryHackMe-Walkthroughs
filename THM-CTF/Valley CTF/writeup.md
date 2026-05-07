@@ -27,6 +27,9 @@ Checking the source code found a txt page :
   <img width="940" height="912" alt="image" src="https://github.com/user-attachments/assets/44f77ab8-b769-4286-a7f7-542300a4e43a" />
 </p>
 
+Checking the txt page found this :
+
+  <img width="802" height="156" alt="image" src="https://github.com/user-attachments/assets/42eb2600-2868-4c60-a6dc-cb81c482b898" />
 
 
 
