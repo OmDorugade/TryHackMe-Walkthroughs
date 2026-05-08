@@ -38,4 +38,25 @@ Found a gihtub repo and the CVE :
 CVE-2019-7609
 ```
 
+## 4. Compromise the machine and locate user.txt
+Enter the payload and run the command,click on canvas and we should have the RCE :
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
