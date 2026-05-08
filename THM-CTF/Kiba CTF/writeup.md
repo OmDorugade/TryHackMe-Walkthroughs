@@ -72,8 +72,8 @@ After performing `getcap -r /` we found that we can gain `root` by changing id :
 </p>
 
 To get `root` use id command ,we can see `root` is on 0 , we can run python commands so we used :
-
+<p align="center">
   <img width="968" height="311" alt="image" src="https://github.com/user-attachments/assets/3828ad79-9599-4c62-a201-1d8f29a9d4f3" />
-
+</p>
 
 
