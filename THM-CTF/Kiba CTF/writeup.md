@@ -19,7 +19,7 @@ Prototype pollution
 ```
 
 ## 2. What is the version of visualization dashboard installed in the server?
-T
+To check the version goto the kibana management page 
 
   <img width="808" height="593" alt="image" src="https://github.com/user-attachments/assets/68c7176c-5997-419b-906e-068f503c3845" />
 
