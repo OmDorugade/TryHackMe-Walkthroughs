@@ -15,6 +15,7 @@ Enumerate the machine using `nmap` :
 Search online about the `kibana` and found it is vulnerable to Prototype Pollution 
 
 ```
+Prototype pollution
 ```
 
 
