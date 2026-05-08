@@ -8,9 +8,9 @@
 
 ## 1. What is the vulnerability that is specific to programming languages with prototype-based inheritance?
 Enumerate the machine using `nmap` :
-
+<p align="center">
   <img width="940" height="888" alt="image" src="https://github.com/user-attachments/assets/fdccf98a-5783-426f-9751-0e5774b7bd70" />
-
+</p>
 
 
 
