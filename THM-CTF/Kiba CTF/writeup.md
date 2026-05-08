@@ -59,9 +59,11 @@ THM{1s_easy_pwn3d_k1bana_w1th_rce}
 No answer needed
 ```
 
+## 6. How would you recursively list all of these capabilities?
 
-
-
+```
+getcap -r /
+```
 
 
 
