@@ -19,7 +19,7 @@ Prototype pollution
 ```
 
 ## 2. What is the version of visualization dashboard installed in the server?
-To check the version goto the kibana management page 
+To check the version goto the kibana management page :
 <p align="center">
   <img width="808" height="593" alt="image" src="https://github.com/user-attachments/assets/68c7176c-5997-419b-906e-068f503c3845" />
 </p>
@@ -28,6 +28,10 @@ To check the version goto the kibana management page
 6.5.4
 ```
 
+## 3. What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000
+Found a gihtub repo and the CVE :
+
+  <img width="940" height="832" alt="image" src="https://github.com/user-attachments/assets/faae2c35-f9e0-495a-bead-6f765aa9ab44" />
 
 
 
