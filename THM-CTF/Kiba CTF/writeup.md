@@ -44,6 +44,9 @@ Enter the payload and run the command,click on canvas and we should have the RCE
   <img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/39d14857-91df-4be6-a9d5-feae4d69dcf6" />
 </p>
 
+Set up a listner on our machine :
+
+  <img width="635" height="492" alt="image" src="https://github.com/user-attachments/assets/986e3837-e52a-4160-8d4a-7f8afd6e477e" />
 
 
 
