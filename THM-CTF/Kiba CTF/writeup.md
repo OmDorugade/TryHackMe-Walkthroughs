@@ -1,5 +1,5 @@
 # <div align="center">[Kiba CTF](https://tryhackme.com/room/kiba)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Identify the critical security flaw in the data visualization dashboard, that allows execute remote code execution.
 </div>
 
 <div align="center">
