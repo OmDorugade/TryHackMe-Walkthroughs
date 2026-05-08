@@ -40,8 +40,9 @@ CVE-2019-7609
 
 ## 4. Compromise the machine and locate user.txt
 Enter the payload and run the command,click on canvas and we should have the RCE :
-
+<p align="center">
   <img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/39d14857-91df-4be6-a9d5-feae4d69dcf6" />
+</p>
 
 
 
