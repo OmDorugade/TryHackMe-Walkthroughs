@@ -30,9 +30,9 @@ To check the version goto the kibana management page :
 
 ## 3. What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000
 Found a gihtub repo and the CVE :
-
+<p align="center">
   <img width="940" height="832" alt="image" src="https://github.com/user-attachments/assets/faae2c35-f9e0-495a-bead-6f765aa9ab44" />
-
+</p>
 
 
 
