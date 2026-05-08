@@ -56,7 +56,7 @@ THM{1s_easy_pwn3d_k1bana_w1th_rce}
 ## 5. Capabilities is a concept that provides a security system that allows "divide" root privileges into different values
 
 ```
-
+No answer needed
 ```
 
 
