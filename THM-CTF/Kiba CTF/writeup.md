@@ -25,7 +25,7 @@ To check the version goto the kibana management page
 </p>
 
 ```
-
+6.5.4
 ```
 
 
