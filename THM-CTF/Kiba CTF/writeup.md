@@ -77,7 +77,7 @@ To get `root` use id command ,we can see `root` is on 0 , we can run python comm
 </p>
 
 ```
-
+THM{pr1v1lege_escalat1on_us1ng_capab1l1t1es}
 ```
 
 
