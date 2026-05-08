@@ -65,9 +65,10 @@ No answer needed
 getcap -r /
 ```
 
+## 7. Escalate privileges and obtain root.txt
+After performing `getcap -r /` we found that we can gain `root` by changing id :
 
-
-
+  <img width="552" height="122" alt="image" src="https://github.com/user-attachments/assets/8eea2efd-98fe-4898-ba77-af044a54568f" />
 
 
 
