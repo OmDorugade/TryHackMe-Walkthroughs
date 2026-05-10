@@ -38,9 +38,9 @@ this_is_not_real
 
 ## 2. What is the content of user.txt?
 Enumerated further on `/api` page using `gobuster` and also try to check that can we use any parameter :
-
+<p align="center">
   <img width="922" height="733" alt="image" src="https://github.com/user-attachments/assets/cffc97f5-541b-41b7-a9ed-7bbe55c31c8d" />
-
+</p>
 
 
 
