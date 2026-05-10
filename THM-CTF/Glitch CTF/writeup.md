@@ -67,7 +67,9 @@ We were not able to do `sudo -l` and looking at some directories we found `.fire
   <img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/adbbd8a4-6a9e-46a3-b9ea-02fd7c25cb9b" />
 </p>
 
+Using tar got that folder in our local machine :
 
+  
 
 
 
