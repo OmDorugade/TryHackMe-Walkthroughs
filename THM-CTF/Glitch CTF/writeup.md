@@ -87,7 +87,7 @@ We got the credentials of `v0id` and logged in and got our root.txt :
 </p>
 
 ```
-
+THM{diamonds_break_our_aching_minds}
 ```
 
 
