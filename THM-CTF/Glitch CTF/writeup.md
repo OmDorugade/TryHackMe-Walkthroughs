@@ -61,6 +61,7 @@ Set up a listener on our machine and using `curl` we POST our payload and found 
 THM{i_don't_know_why}
 ```
 
+## 3.What is the content of root.txt?
 
 
 
