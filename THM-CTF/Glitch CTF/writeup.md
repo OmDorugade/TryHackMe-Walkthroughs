@@ -42,7 +42,9 @@ Enumerated further on `/api` page using `gobuster` and also try to check that ca
   <img width="922" height="733" alt="image" src="https://github.com/user-attachments/assets/cffc97f5-541b-41b7-a9ed-7bbe55c31c8d" />
 </p>
 
+Checking the `/api/items` :
 
+  
 
 
 
