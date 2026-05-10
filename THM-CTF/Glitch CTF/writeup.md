@@ -14,7 +14,9 @@ Enumerate the machine using `nmap` for port scanning :
 
 Using `gobuster` we did directory brute forcing and found a page :
 
-  
+ <img width="962" height="633" alt="image" src="https://github.com/user-attachments/assets/474d68a8-7920-47b8-8529-f23aa9a344a8" />
+
+
 
 
 
