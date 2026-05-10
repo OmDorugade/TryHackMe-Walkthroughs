@@ -22,7 +22,9 @@ We took a look at the source code and found that we can access `/api` page :
   <img width="943" height="765" alt="image" src="https://github.com/user-attachments/assets/60b7f1a9-1058-4e91-b604-d3a8ca5963a6" />
 </p>
 
+We looked at the page and got a token :
 
+  
 
 
 
