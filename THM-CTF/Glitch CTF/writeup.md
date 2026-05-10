@@ -36,6 +36,7 @@ Using base64 we decoded it :
 this_is_not_real
 ```
 
+## 2. What is the content of user.txt?
 
 
 
