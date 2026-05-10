@@ -73,9 +73,9 @@ Using tar got that folder in our local machine :
 </p>
 
 Found a github directory to decrypt firefox file :
-
+<p align="center">
   <img width="1097" height="887" alt="image" src="https://github.com/user-attachments/assets/6b2b7a61-fff8-4dfc-bfe6-c16f09831578" />
-
+</p>
 
 
 
