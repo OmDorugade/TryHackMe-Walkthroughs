@@ -63,9 +63,9 @@ THM{i_don't_know_why}
 
 ## 3.What is the content of root.txt?
 We were not able to do `sudo -l` and looking at some directories we found `.firefox` directory :
-
+<p align="center">
   <img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/adbbd8a4-6a9e-46a3-b9ea-02fd7c25cb9b" />
-
+</p>
 
 
 
