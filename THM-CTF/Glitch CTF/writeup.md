@@ -29,7 +29,8 @@ We looked at the page and got a token in base64 encoded :
 
 Using base64 we decoded it :
 
-  
+  <img width="910" height="733" alt="image" src="https://github.com/user-attachments/assets/e47b3e64-b762-4fb9-bcd9-bd6413f51b68" />
+
 
 
 
