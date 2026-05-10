@@ -53,8 +53,9 @@ Using revshells.com we try to make a payload for reverse shell :
 </p>
 
 Set up a listener on our machine and using `curl` we POST our payload :
-
+<p align="center">
   <img width="940" height="608" alt="image" src="https://github.com/user-attachments/assets/d1dd3008-d795-445a-983e-e9bb830a9b6a" />
+</p>
 
 
 
