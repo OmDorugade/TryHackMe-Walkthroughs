@@ -7,7 +7,9 @@
 </div>
 
 ## 1.What is your access token?
+Enumerate the machine using `nmap` for port scanning :
 
+  
 
 
 
