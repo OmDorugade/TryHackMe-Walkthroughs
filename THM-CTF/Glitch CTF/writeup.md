@@ -81,4 +81,7 @@ Found a github directory to decrypt firefox file :
   <img width="602" height="130" alt="image" src="https://github.com/user-attachments/assets/474dd369-3f57-4d14-ae2c-42906a0b0ed3" />
 </p>
 
+We got the credentials of `v0id` and logged in and got our root.txt :
+
+  <img width="458" height="606" alt="image" src="https://github.com/user-attachments/assets/bd189f2b-9567-4e10-b194-66de20f9ba49" />
 
