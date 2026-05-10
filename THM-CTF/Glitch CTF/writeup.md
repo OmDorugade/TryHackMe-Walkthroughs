@@ -68,9 +68,9 @@ We were not able to do `sudo -l` and looking at some directories we found `.fire
 </p>
 
 Using tar got that folder in our local machine :
-
+<p align="center">
   <img width="869" height="380" alt="image" src="https://github.com/user-attachments/assets/623ce52f-a87c-4e10-b9a9-a0fb69cce9ee" />
-
+</p>
 
 
 
