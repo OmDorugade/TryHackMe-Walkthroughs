@@ -24,7 +24,8 @@ We took a look at the source code and found that we can access `/api` page :
 
 We looked at the page and got a token :
 
-  
+  <img width="800" height="509" alt="image" src="https://github.com/user-attachments/assets/32f0b957-a794-40a4-8593-16920a11ffa1" />
+
 
 
 
