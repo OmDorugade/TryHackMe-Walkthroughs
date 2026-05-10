@@ -47,7 +47,9 @@ Checking the `/api/items` and using `cmd` parameter :
   <img width="940" height="936" alt="image" src="https://github.com/user-attachments/assets/781eda75-d13e-4810-872d-a0a15948ace1" />
 </p>
 
+Using revshells.com we try to make a payload for reverse shell :
 
+  
 
 
 
