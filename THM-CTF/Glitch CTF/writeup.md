@@ -12,7 +12,9 @@ Enumerate the machine using `nmap` for port scanning :
   <img width="822" height="632" alt="image" src="https://github.com/user-attachments/assets/ca51f328-8da3-485b-80df-04fad3b5f57c" />
 </p>
 
+Using `gobuster` we did directory brute forcing and found a page :
 
+  
 
 
 
