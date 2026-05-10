@@ -85,3 +85,22 @@ We got the credentials of `v0id` and logged in and got our root.txt :
 <p align="center">
   <img width="458" height="606" alt="image" src="https://github.com/user-attachments/assets/bd189f2b-9567-4e10-b194-66de20f9ba49" />
 </p>
+
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
