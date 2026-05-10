@@ -43,9 +43,9 @@ Enumerated further on `/api` page using `gobuster` and also try to check that ca
 </p>
 
 Checking the `/api/items` :
-
+<p align="center">
   <img width="940" height="912" alt="image" src="https://github.com/user-attachments/assets/e6128349-fa2e-4bf7-b850-2d7b2550051c" />
-
+</p>
 
 
 
