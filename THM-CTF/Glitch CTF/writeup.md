@@ -42,9 +42,9 @@ Enumerated further on `/api` page using `gobuster` and also try to check that ca
   <img width="922" height="733" alt="image" src="https://github.com/user-attachments/assets/cffc97f5-541b-41b7-a9ed-7bbe55c31c8d" />
 </p>
 
-Checking the `/api/items` :
+Checking the `/api/items` and using `cmd` parameter :
 <p align="center">
-  <img width="940" height="912" alt="image" src="https://github.com/user-attachments/assets/e6128349-fa2e-4bf7-b850-2d7b2550051c" />
+  <img width="940" height="936" alt="image" src="https://github.com/user-attachments/assets/781eda75-d13e-4810-872d-a0a15948ace1" />
 </p>
 
 
