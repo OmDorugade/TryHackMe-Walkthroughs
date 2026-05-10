@@ -22,12 +22,14 @@ We took a look at the source code and found that we can access `/api` page :
   <img width="943" height="765" alt="image" src="https://github.com/user-attachments/assets/60b7f1a9-1058-4e91-b604-d3a8ca5963a6" />
 </p>
 
-We looked at the page and got a token :
+We looked at the page and got a token in base64 encoded :
 <p align="center">
   <img width="800" height="509" alt="image" src="https://github.com/user-attachments/assets/32f0b957-a794-40a4-8593-16920a11ffa1" />
 </p>
 
+Using base64 we decoded it :
 
+  
 
 
 
