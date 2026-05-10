@@ -78,5 +78,7 @@ Found a github directory to decrypt firefox file :
 </p>
 
 
+  <img width="602" height="130" alt="image" src="https://github.com/user-attachments/assets/474dd369-3f57-4d14-ae2c-42906a0b0ed3" />
+
 
 
