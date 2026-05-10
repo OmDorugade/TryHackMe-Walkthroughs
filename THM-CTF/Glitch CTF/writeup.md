@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c47dae46-3f30-4c9b-8989-13cf995d7e45" />
+  <img width="736" height="1054" alt="image" src="https://github.com/user-attachments/assets/ef4c0262-5ae4-425d-891a-0a86c40a64ce" />
 </div>
