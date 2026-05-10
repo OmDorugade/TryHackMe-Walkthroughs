@@ -1,5 +1,5 @@
 # <div align="center">[Glitch CTF](https://tryhackme.com/room/glitch)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation
+<div align="center">Challenge showcasing a web app and simple privilege escalation. Can you find the glitch?
 </div>
 
 <div align="center">
