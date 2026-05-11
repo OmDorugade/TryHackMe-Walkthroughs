@@ -12,7 +12,7 @@ Enumerate the machine using `nmap` and `gobuster` :
 
 
 
-<p align="center">
+
 
 
 
