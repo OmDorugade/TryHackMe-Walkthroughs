@@ -15,7 +15,7 @@ Enumerate the machine using `nmap` and `gobuster` :
 We found a page `/mail` checked it and got a wireshark file :
 <p align="center">
   <img width="1011" height="636" alt="image" src="https://github.com/user-attachments/assets/9a584b6b-93bb-4a18-8b8c-6582c194e5ca" />
-
+</p>
 
 
 
