@@ -9,7 +9,8 @@
 ## 1. What is the user flag?
 Enumerate the machine using `nmap` and `gobuster` :
 <p align="center">
-  
+  <img width="787" height="706" alt="image" src="https://github.com/user-attachments/assets/97e5a152-11ac-4887-a1e1-3c58b2384382" />
+
 
 
 
