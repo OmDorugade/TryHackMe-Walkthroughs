@@ -20,5 +20,5 @@ We found a page `/mail` checked it and got a wireshark file :
 Download the wireshark file using `wget` :
 <p align="center">
   <img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/ac370cd7-06ce-4615-9126-a9b298665ad3" />
-
+</p>
 
