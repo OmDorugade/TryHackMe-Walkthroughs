@@ -69,7 +69,7 @@ Then use private key for login from our local machine and got access :
 
 Did `sudo -l` to gain root access :
 
-  
+  <img width="940" height="127" alt="image" src="https://github.com/user-attachments/assets/9ecbb9c8-b66f-48e5-a80d-5181956021fd" />
 
 
 
