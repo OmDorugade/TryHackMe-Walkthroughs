@@ -88,7 +88,7 @@ Finally got root access and final flag :
 </p>
 
 ```
-
+uJr6zRgetaniyHVRqqL58uRasybBKz2T
 ```
 
 
