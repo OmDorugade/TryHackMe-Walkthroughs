@@ -47,5 +47,5 @@ After this we did `cat /etc/passwd` and we found `jake` has some permission grea
   <img width="726" height="497" alt="image" src="https://github.com/user-attachments/assets/809125e7-db1f-449a-8007-1a68189026da" />
 </p>
 
-
+And also used `cat /etc/crontab` to look what was running and found that we can read and write this file :
 
