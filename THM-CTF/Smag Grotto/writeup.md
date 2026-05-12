@@ -49,3 +49,24 @@ After this we did `cat /etc/passwd` and we found `jake` has some permission grea
 
 And also used `cat /etc/crontab` to look what was running and found that we can read and write this file :
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
