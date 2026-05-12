@@ -73,7 +73,7 @@ Did `sudo -l` to gain root access :
 </p>
 
 Found this github repo to gain root access :
-
+<p align="center">
   <img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/cd3ff299-c13f-4c5d-aad4-3658b69d47f8" />
 
 
