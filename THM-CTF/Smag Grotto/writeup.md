@@ -29,7 +29,8 @@ Open it using wireshark and go through the packets found an HTTP POST login requ
 
 Add development.smag.thm to `/etc/hosts` file :
 
-  
+  <img width="708" height="415" alt="image" src="https://github.com/user-attachments/assets/17146f7a-ae9b-4880-93c0-9fc4a73b74fd" />
+
 
 
 
