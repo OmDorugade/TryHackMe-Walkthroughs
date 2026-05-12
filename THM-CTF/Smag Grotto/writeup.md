@@ -25,6 +25,18 @@ Download the wireshark file using `wget` :
 Open it using wireshark and go through the packets found an HTTP POST login request :
 <p align="center">
   <img width="940" height="612" alt="image" src="https://github.com/user-attachments/assets/9ee3f3bc-a01b-47f1-8192-4b5838df9951" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
