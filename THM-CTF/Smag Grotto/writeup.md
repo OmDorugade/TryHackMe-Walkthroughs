@@ -39,6 +39,7 @@ Logged in and found we can execute some commands so now we can get a reverse she
 
 We Set up a listener on our machine and got access but we were not able to read user.txt :
 
+  <img width="940" height="868" alt="image" src="https://github.com/user-attachments/assets/c50801eb-ec77-486b-bec3-549fc5878e7a" />
 
 
 
