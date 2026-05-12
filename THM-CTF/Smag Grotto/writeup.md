@@ -85,6 +85,6 @@ Found this github repo to gain root access :
 Finally got root access and final flag :
 <p align="center">
   <img width="940" height="314" alt="image" src="https://github.com/user-attachments/assets/87f5aed2-ee96-478b-92b8-5dff8bf1cdbc" />
-
+</p>
 
 
