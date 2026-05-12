@@ -60,7 +60,7 @@ We created ssh private and public key we used `ssh keygen` :
 Copy public key and paste in that `/opt/.backup/jake_id_rsa.pub.backup` file :
 <p align="center">
   <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/39402f73-4cff-4125-8912-20af1badf2cc" />
-
+</p>
 
 
 
