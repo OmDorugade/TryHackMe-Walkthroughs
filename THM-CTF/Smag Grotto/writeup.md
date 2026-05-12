@@ -71,7 +71,7 @@ Then use private key for login from our local machine and got access :
 iusGorV7EbmxM5AuIe2w499msaSuqU3j
 ```
 
-
+## 2. What is the root flag?
 Did `sudo -l` to gain root access :
 <p align="center">
   <img width="940" height="127" alt="image" src="https://github.com/user-attachments/assets/9ecbb9c8-b66f-48e5-a80d-5181956021fd" />
