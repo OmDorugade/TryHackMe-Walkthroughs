@@ -57,7 +57,7 @@ We created ssh private and public key we used `ssh keygen` :
   <img width="940" height="860" alt="image" src="https://github.com/user-attachments/assets/2c4a32be-d316-4670-bade-c599ec292972" />
 </p>
 
-
+Copy public key and paste in that `/opt/.backup/jake_id_rsa.pub.backup` file :
 
 
 
