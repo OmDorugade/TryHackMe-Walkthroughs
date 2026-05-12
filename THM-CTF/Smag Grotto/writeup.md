@@ -64,7 +64,8 @@ Copy public key and paste in that `/opt/.backup/jake_id_rsa.pub.backup` file :
 
 Then use private key for login from our local machine :
 
-  
+  <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/af4c3f94-c88b-4534-a43f-8ef4c84bb661" />
+
 
 
 
