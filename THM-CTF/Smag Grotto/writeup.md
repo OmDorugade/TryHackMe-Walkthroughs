@@ -32,7 +32,9 @@ Add development.smag.thm to `/etc/hosts` file :
   <img width="708" height="415" alt="image" src="https://github.com/user-attachments/assets/17146f7a-ae9b-4880-93c0-9fc4a73b74fd" />
 </p>
 
+Logged in and found we can execute some commands so now we can get a reverse shell :
 
+  
 
 
 
