@@ -77,7 +77,7 @@ Found this github repo to gain root access :
   <img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/cd3ff299-c13f-4c5d-aad4-3658b69d47f8" />
 </p>
 
-Finally got
+Finally got root
 
 
 
