@@ -43,9 +43,9 @@ We Set up a listener on our machine and got access but we were not able to read 
 </p>
 
 After this we did `cat /etc/passwd` and we found `jake` has some permission greater than `www-data` :
-
+<p align="center">
   <img width="726" height="497" alt="image" src="https://github.com/user-attachments/assets/809125e7-db1f-449a-8007-1a68189026da" />
-
+</p>
 
 
 
