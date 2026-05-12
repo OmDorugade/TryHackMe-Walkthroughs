@@ -42,7 +42,7 @@ We Set up a listener on our machine and got access but we were not able to read 
   <img width="940" height="868" alt="image" src="https://github.com/user-attachments/assets/c50801eb-ec77-486b-bec3-549fc5878e7a" />
 </p>
 
-
+After this we did `cat /etc/passwd` and we found `jake` has some permission greater than `www-data` :
 
 
 
