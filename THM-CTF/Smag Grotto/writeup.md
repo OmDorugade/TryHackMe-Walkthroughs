@@ -62,11 +62,14 @@ Copy public key and paste in that `/opt/.backup/jake_id_rsa.pub.backup` file :
   <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/39402f73-4cff-4125-8912-20af1badf2cc" />
 </p>
 
-Then use private key for login from our local machine :
+Then use private key for login from our local machine and got access :
 <p align="center">
   <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/af4c3f94-c88b-4534-a43f-8ef4c84bb661" />
 </p>
 
+Did `sudo -l` to gain root access :
+
+  
 
 
 
