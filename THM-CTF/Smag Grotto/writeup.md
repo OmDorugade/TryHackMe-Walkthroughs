@@ -54,6 +54,7 @@ And also used `cat /etc/crontab` to look what was running and found that we can 
 
 We created ssh private and public key we used `ssh keygen` :
 
+  <img width="940" height="860" alt="image" src="https://github.com/user-attachments/assets/2c4a32be-d316-4670-bade-c599ec292972" />
 
 
 
