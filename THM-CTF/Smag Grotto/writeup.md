@@ -62,7 +62,9 @@ Copy public key and paste in that `/opt/.backup/jake_id_rsa.pub.backup` file :
   <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/39402f73-4cff-4125-8912-20af1badf2cc" />
 </p>
 
+Then use private key for login from our local machine :
 
+  
 
 
 
