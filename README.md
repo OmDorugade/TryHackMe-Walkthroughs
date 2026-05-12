@@ -35,9 +35,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 28 | Valley | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Valley%20CTF/writeup.md) |
 | 29 | Kiba | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Kiba%20CTF/writeup.md) |
 | 30 | Glitch | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Glitch%20CTF/writeup.md) |
-
-
-
+| 31 | Smag Grotto | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Smag%20Grotto/writeup.md) |
 
 
 
