@@ -1,6 +1,6 @@
 # <div align="center">[OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)</div>
 <div align="center">Exploit a 2021 Kernel vulnerability in Ubuntu to become root almost instantly!</div>
-<br>
+
 <div align="center">
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0aeb5575-4a80-4392-bb29-23b5aee23d39" />
 </div>
@@ -67,4 +67,4 @@ thm{27aaa5865a52dcd4cb04c0e0a2d39404}
 
 ---
 
-**Completed Room**
+Room Completed !
