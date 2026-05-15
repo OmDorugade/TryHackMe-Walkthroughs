@@ -409,4 +409,4 @@ subprocess.call("deluser --remove-all-files ruvik", shell=True)
 ```
 Now, just wait for some time and check the /home directory from where ruvik's directory would get deleted indicating that the user has been deleted.
 
-Completed Room
+Room Completed !
