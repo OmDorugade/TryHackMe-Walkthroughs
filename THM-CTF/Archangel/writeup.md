@@ -13,7 +13,7 @@ On the home page we can see mail of `mafialive.thm` :
 </p>
 
 To get access of different domain add this domain to our `/etc/hosts` :
-
+<p align="center">
 
 
 
