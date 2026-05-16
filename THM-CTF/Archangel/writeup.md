@@ -8,11 +8,11 @@
 
 ## 1. Find a different hostname
 On the home page we can see mail of `mafialive.thm` :
-
+<p align="center">
   
 
 
-<p align="center">
+
 
 
 
