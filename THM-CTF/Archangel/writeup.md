@@ -10,7 +10,7 @@
 On the home page we can see mail of `mafialive.thm` :
 <p align="center">
   <img width="817" height="470" alt="image" src="https://github.com/user-attachments/assets/efdb4622-24d6-4b43-8399-91a1cdaf1dc5" />
-
+</p>
 
 
 
