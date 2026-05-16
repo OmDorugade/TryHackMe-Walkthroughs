@@ -25,7 +25,7 @@ mafialive.thm
 Visit the new domain we just identified and discovered our first flag :
 <p align="center">
   <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/dd08c683-734c-4674-8a65-60363fa13e28" />
-
+</p>
 
 
 
