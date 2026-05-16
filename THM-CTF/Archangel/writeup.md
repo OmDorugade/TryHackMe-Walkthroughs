@@ -17,7 +17,9 @@ To get access of different domain add this domain to our `/etc/hosts` :
   <img width="681" height="317" alt="image" src="https://github.com/user-attachments/assets/7bef69e2-e52c-4f1e-855d-30bd6bacdbc9" />
 </p>
 
+```
 
+```
 
 
 
