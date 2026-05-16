@@ -24,3 +24,20 @@ mafialive.thm
 ## 2. Find flag 1
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
