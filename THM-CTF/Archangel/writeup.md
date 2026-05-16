@@ -22,7 +22,9 @@ mafialive.thm
 ```
 
 ## 2. Find flag 1
+Visit the new domain we just identified and found our first flag :
 
+  
 
 
 
