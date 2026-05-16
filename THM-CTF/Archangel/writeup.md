@@ -28,7 +28,7 @@ Visit the new domain we just identified and discovered our first flag :
 </p>
 
 ```
-
+thm{f0und_th3_r1ght_h0st_n4m3}
 ```
 
 
