@@ -14,7 +14,8 @@ On the home page we can see mail of `mafialive.thm` :
 
 To get access of different domain add this domain to our `/etc/hosts` :
 <p align="center">
-  <img width="940" height="518" alt="image" src="https://github.com/user-attachments/assets/a06cf340-7e7f-461e-8532-142109622aa5" />
+  <img width="681" height="317" alt="image" src="https://github.com/user-attachments/assets/7bef69e2-e52c-4f1e-855d-30bd6bacdbc9" />
+
 
 
 
