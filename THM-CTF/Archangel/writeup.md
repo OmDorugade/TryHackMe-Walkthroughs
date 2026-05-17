@@ -57,6 +57,9 @@ To find the below base64 code we need to use php filter code :
   <img width="940" height="187" alt="image" src="https://github.com/user-attachments/assets/5dfe787f-fb2e-4e2c-ab33-973621bf7f0d" />
 </p>
 
+Decode it using base64 decode and found our flag:
+
+  <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/6d0345e4-f12d-4bb3-8911-ac29623c333e" />
 
 
 
