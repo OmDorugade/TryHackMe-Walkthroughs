@@ -62,6 +62,8 @@ Decode it using base64 decode and found our flag:
   <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/6d0345e4-f12d-4bb3-8911-ac29623c333e" />
 </p>
 
+```
+
 
 
 
