@@ -38,7 +38,7 @@ Enumerate the machine using `gobuster` to find more hidden pages :
 </p>
 
 Found `robots.txt` visit the page and found the `test.php` page :
-
+<p align="center">
   
 
 
