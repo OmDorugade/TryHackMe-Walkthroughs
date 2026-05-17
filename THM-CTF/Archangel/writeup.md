@@ -72,6 +72,9 @@ If we look at the code we can use directory traversal :
   <img width="419" height="78" alt="image" src="https://github.com/user-attachments/assets/0f4157fa-81d1-4c17-9d4d-043e176eca8f" />
 </p>
 
+Using the above information we did Path traversal :
+
+  <img width="940" height="299" alt="image" src="https://github.com/user-attachments/assets/b7a0e963-a315-45d6-9976-013bc6ce0e73" />
 
 
 
