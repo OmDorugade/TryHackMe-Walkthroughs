@@ -43,9 +43,10 @@ Found `robots.txt` visit the page and found the `test.php` page :
 </p>
 
 ```
-
+test.php
 ```
 
+## 4. Find flag 2
 
 
 
