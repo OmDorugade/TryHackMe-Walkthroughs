@@ -67,7 +67,9 @@ thm{explo1t1ng_lf1}
 ```
 
 ## 5. Get a shell and find the user flag
+If we look at the code we can use directory traversal :
 
+  
 
 
 
