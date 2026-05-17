@@ -47,7 +47,9 @@ test.php
 ```
 
 ## 4. Find flag 2
+Visit the `test.php` page and we can use `view` parameter to get usefull information :
 
+  
 
 
 
