@@ -83,7 +83,7 @@ We started a python server on our local machine to upload reverse shell on targe
 </p>
 
 Successfully uploaded reverse shell on the target machine :
-
+<p align="center">
   <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/4fdcaeea-c1a4-47c9-bf24-4c740d12f51a" />
 
 
