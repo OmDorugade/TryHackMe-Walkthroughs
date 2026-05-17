@@ -39,7 +39,8 @@ Enumerate the machine using `gobuster` to find more hidden pages :
 
 Found `robots.txt` visit the page and found the `test.php` page :
 <p align="center">
-  
+  <img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/8443c83c-e09b-4c47-84db-b1d09617c925" />
+
 
 
 
