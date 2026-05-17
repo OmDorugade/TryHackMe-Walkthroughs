@@ -31,6 +31,7 @@ Visit the new domain we just identified and discovered our first flag :
 thm{f0und_th3_r1ght_h0st_n4m3}
 ```
 
+## 3. Look for a page under development
 
 
 
