@@ -33,7 +33,7 @@ thm{f0und_th3_r1ght_h0st_n4m3}
 
 ## 3. Look for a page under development
 Enumerate the machine using `gobuster` to find more hidden pages :
-
+<p align="center">
 
 
 
