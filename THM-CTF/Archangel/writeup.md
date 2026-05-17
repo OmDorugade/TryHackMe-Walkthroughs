@@ -63,7 +63,7 @@ Decode it using base64 decode and found our flag:
 </p>
 
 ```
-
+thm{explo1t1ng_lf1}
 ```
 
 
