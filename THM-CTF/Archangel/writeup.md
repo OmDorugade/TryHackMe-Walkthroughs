@@ -69,7 +69,8 @@ thm{explo1t1ng_lf1}
 ## 5. Get a shell and find the user flag
 If we look at the code we can use directory traversal :
 
-  
+  <img width="419" height="78" alt="image" src="https://github.com/user-attachments/assets/0f4157fa-81d1-4c17-9d4d-043e176eca8f" />
+
 
 
 
