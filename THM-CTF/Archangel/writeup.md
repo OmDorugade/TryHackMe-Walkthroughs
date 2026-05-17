@@ -34,6 +34,7 @@ thm{f0und_th3_r1ght_h0st_n4m3}
 ## 3. Look for a page under development
 Enumerate the machine using `gobuster` to find more hidden pages :
 <p align="center">
+  <img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/4a6290c1-4caa-4b72-ae99-52f63e0e3bd3" />
 
 
 
