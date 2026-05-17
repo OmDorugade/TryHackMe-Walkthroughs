@@ -77,7 +77,9 @@ Using the above information we did Path traversal :
   <img width="940" height="299" alt="image" src="https://github.com/user-attachments/assets/b7a0e963-a315-45d6-9976-013bc6ce0e73" />
 </p>
 
+We started a python server on our local machine to upload reverse shell on target machine :
 
+  
 
 
 
