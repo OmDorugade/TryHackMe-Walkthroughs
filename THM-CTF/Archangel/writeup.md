@@ -66,7 +66,7 @@ Decode it using base64 decode and found our flag:
 thm{explo1t1ng_lf1}
 ```
 
-
+## 5. Get a shell and find the user flag
 
 
 
