@@ -52,7 +52,9 @@ Visit the `test.php` page and we can use `view` parameter to get usefull informa
   <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/cac5c4ef-272e-4992-8bdd-6e249386759c" />
 </p>
 
+To find the below base64 code we need to use php filter code :
 
+  
 
 
 
