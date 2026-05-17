@@ -42,7 +42,9 @@ Found `robots.txt` visit the page and found the `test.php` page :
   <img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/8443c83c-e09b-4c47-84db-b1d09617c925" />
 </p>
 
+```
 
+```
 
 
 
