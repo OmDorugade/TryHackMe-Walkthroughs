@@ -53,9 +53,9 @@ Visit the `test.php` page and we can use `view` parameter to get usefull informa
 </p>
 
 To find the below base64 code we need to use php filter code :
-
+<p align="center">
   <img width="940" height="187" alt="image" src="https://github.com/user-attachments/assets/5dfe787f-fb2e-4e2c-ab33-973621bf7f0d" />
-
+</p>
 
 
 
