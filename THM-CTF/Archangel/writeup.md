@@ -50,8 +50,7 @@ test.php
 Visit the `test.php` page and we can use `view` parameter to get usefull information :
 <p align="center">
   <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/cac5c4ef-272e-4992-8bdd-6e249386759c" />
-
-
+</p>
 
 
 
