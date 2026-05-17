@@ -58,8 +58,9 @@ To find the below base64 code we need to use php filter code :
 </p>
 
 Decode it using base64 decode and found our flag:
-
+<p align="center">
   <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/6d0345e4-f12d-4bb3-8911-ac29623c333e" />
+</p>
 
 
 
