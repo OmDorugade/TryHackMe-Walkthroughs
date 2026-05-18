@@ -109,6 +109,8 @@ Found a folder named `secret` but we were not able to open it , check the `/etc/
   <img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/b615aef8-cc7e-4140-997a-eb7d694f7a32" />
 </p>
 
+If we cat myfiles/passwordbackup we get a youtube link :
+
 
 
 
