@@ -133,8 +133,10 @@ Then found out that we can get root access by performning like the below :
 thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n}
 ```
 
-## 7. 
+## 7. Root the machine and find the root flag
+Set up the listner on our machine and got root access :
 
+  
 
 
 
