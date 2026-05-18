@@ -103,7 +103,7 @@ Using `netcat` got our target machine CLI and got our flag :
 thm{lf1_t0_rc3_1s_tr1cky}
 ```
 
-
+## 6. 
 
 
 
