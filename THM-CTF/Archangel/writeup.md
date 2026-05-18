@@ -130,7 +130,7 @@ Then found out that we can get root access by performning like the below :
 </p>
 
 ```
-
+thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n}
 ```
 
 
