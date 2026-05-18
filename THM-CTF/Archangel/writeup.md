@@ -89,7 +89,9 @@ Successfully uploaded reverse shell on the target machine :
 
 But we were not able to get the reverse shell about calling it out.
 
+So now we approached the target with a new method i.e using the User-Agent field we got our reverse shell :
 
+  
 
 
 
