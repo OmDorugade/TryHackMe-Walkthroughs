@@ -105,7 +105,7 @@ thm{lf1_t0_rc3_1s_tr1cky}
 
 ## 6. Get User 2 flag 
 Found a folder named `secret` but we were not able to open it , check the `/etc/crontab` and found a script running :
-
+<p align="center">
   <img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/b615aef8-cc7e-4140-997a-eb7d694f7a32" />
 
 
