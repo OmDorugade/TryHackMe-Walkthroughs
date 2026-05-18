@@ -119,6 +119,9 @@ If we cat myfiles/passwordbackup we get a youtube link :
    <img width="940" height="890" alt="image" src="https://github.com/user-attachments/assets/05d6b862-837c-4346-b693-71cee78fa3e2" />
 </p>
 
+Checking the output for anything interesting we found out this :
+
+  
 
 
 
