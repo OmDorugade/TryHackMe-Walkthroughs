@@ -116,7 +116,8 @@ If we cat myfiles/passwordbackup we get a youtube link :
 
  We used `linpeas.sh` to find something interesting and see what we can find :
 
-   
+   <img width="940" height="890" alt="image" src="https://github.com/user-attachments/assets/05d6b862-837c-4346-b693-71cee78fa3e2" />
+
 
 
 
