@@ -97,7 +97,7 @@ So now we approached the target with a new method i.e using the User-Agent field
 Using `netcat` got our target machine CLI and got our flag :
 <p align="center">
   <img width="940" height="517" alt="image" src="https://github.com/user-attachments/assets/2e37fcfb-6fe2-4b1b-a611-61e6e4a2362d" />
-
+</p>
 
 
 
