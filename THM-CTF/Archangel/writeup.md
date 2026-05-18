@@ -136,7 +136,8 @@ thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n}
 ## 7. Root the machine and find the root flag
 Set up the listner on our machine and got root access :
 
-  
+  <img width="940" height="699" alt="image" src="https://github.com/user-attachments/assets/954b7744-e8e3-44a3-8ebc-0ad639204b6b" />
+
 
 
 
