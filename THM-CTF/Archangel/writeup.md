@@ -92,7 +92,7 @@ But we were not able to get the reverse shell about calling it out.
 So now we approached the target with a new method i.e using the User-Agent field we got our reverse shell :
 <p align="center">
   <img width="940" height="815" alt="image" src="https://github.com/user-attachments/assets/b3601905-68c1-4511-b4eb-faf44bfebb34" />
-
+</p>
 
 
 
