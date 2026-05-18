@@ -126,7 +126,8 @@ Checking the output for anything interesting we found out this :
 
 Then found out that we can get root access by performning like the below :
 
-  
+  <img width="940" height="334" alt="image" src="https://github.com/user-attachments/assets/f41ca33c-cda3-465e-86fe-763cccdaee14" />
+
 
 
 
