@@ -104,7 +104,9 @@ thm{lf1_t0_rc3_1s_tr1cky}
 ```
 
 ## 6. Get User 2 flag 
+Found a folder named `secret` but we were not able to open it , check the `/etc/crontab` and found a script running :
 
+  
 
 
 
