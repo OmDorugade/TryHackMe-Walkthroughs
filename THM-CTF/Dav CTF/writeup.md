@@ -57,18 +57,3 @@ Using gftobins we used the command :
 ```
 
 Room Completed !
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
