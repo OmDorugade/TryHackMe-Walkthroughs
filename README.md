@@ -39,7 +39,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 
 
 
-
+https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Archangel/writeup.md
 
 
 
