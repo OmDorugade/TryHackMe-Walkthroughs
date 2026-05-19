@@ -62,6 +62,3 @@ THM{UPDATE_YOUR_INSTALL}
 ```
 
 Room Completed !
-
-
-
