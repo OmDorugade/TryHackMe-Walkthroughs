@@ -12,6 +12,9 @@ Use `nmap` for Port Scanning and `gobuster` to find hidden directories :
   <img width="1252" height="760" alt="image" src="https://github.com/user-attachments/assets/80e9dea3-1c09-4474-a1be-1bed812ed8b8" />
 </p>
 
+
+
+
 ## 2. What service is running on port 22?
 
 
