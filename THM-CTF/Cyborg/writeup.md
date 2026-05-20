@@ -16,7 +16,6 @@ Use `nmap` for Port Scanning and `gobuster` to find hidden directories :
 2
 ```
 
-
 ## 2. What service is running on port 22?
 
 
