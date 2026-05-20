@@ -32,7 +32,9 @@ Using the information we found above we got a new page `/admin` :
   <img width="967" height="747" alt="image" src="https://github.com/user-attachments/assets/329375e5-3b22-43af-9065-c4bf75209df7" />
 </p>
 
+We also found that we can download some file from the website :
 
+  
 
 
 
