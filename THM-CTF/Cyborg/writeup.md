@@ -34,7 +34,8 @@ Using the information we found above we got a new page `/admin` :
 
 We also found that we can download some file from the website :
 
-  
+  <img width="863" height="125" alt="image" src="https://github.com/user-attachments/assets/b029eded-a730-4ad7-8bcf-63157d512da6" />
+
 
 
 
