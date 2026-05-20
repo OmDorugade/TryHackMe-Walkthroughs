@@ -1,5 +1,5 @@
 # <div align="center">[Cyborg](https://tryhackme.com/room/basicpentestingjt)</div>
-<div align="center">This is a machine that allows you to practise web app hacking and privilege escalation.
+<div align="center">A box involving encrypted archives, source code analysis and more.
 </div>
 
 <div align="center">
