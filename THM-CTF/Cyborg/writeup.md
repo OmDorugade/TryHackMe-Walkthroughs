@@ -1,4 +1,4 @@
-# <div align="center">[Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)</div>
+# <div align="center">[Cyborg](https://tryhackme.com/room/basicpentestingjt)</div>
 <div align="center">This is a machine that allows you to practise web app hacking and privilege escalation.
 </div>
 
