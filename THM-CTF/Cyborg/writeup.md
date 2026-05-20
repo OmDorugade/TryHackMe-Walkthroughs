@@ -7,7 +7,7 @@
 </div>
 
 ## 1.Scan the machine, how many ports are open?
-Use `nmap`
+Use `nmap` for Port Scanning
 
 
 
