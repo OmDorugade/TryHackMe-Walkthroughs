@@ -28,7 +28,7 @@ http
 
 ## 4. What is the user.txt flag?
 Using the information we found above we got a new page `/admin` :
-
+<p align="center">
   
 
 
