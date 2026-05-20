@@ -1,4 +1,4 @@
-# <div align="center">[Cyborg](https://tryhackme.com/room/basicpentestingjt)</div>
+# <div align="center">[Cyborg](https://tryhackme.com/room/cyborgt8)</div>
 <div align="center">A box involving encrypted archives, source code analysis and more.
 </div>
 
