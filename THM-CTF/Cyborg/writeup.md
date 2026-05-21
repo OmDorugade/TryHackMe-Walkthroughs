@@ -43,7 +43,7 @@ Extracting the file we found out a new subdomain and some information :
 </p>
 
 Did some research about the borg and found this :
-
+<p align="center">
   
 
 
