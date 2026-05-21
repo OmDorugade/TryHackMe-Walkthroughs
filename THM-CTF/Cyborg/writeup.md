@@ -59,6 +59,7 @@ In that folder we found two files :
 
 Checking the `passwd` file we have a hash :
 
+  
 
 
 
