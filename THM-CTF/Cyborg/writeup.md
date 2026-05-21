@@ -59,7 +59,8 @@ In that folder we found two files :
 
 Checking the `passwd` file we have a hash :
 <p align="center">
-  
+  <img width="940" height="331" alt="image" src="https://github.com/user-attachments/assets/ee6c19f9-1992-4199-820a-611b4eefcb32" />
+
 
 
 
