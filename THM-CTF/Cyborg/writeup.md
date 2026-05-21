@@ -47,7 +47,9 @@ Did some research about the borg and found this :
   <img width="940" height="745" alt="image" src="https://github.com/user-attachments/assets/a1fd935e-bbd2-4c5c-a59c-ac43392a0861" />
 </p>
 
-Looking 
+Looking at `/etc` directory we found this :
+
+  
 
 
 
