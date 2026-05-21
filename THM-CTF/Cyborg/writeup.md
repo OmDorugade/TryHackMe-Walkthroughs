@@ -46,5 +46,3 @@ Extracting the file we found out a new subdomain and some information :
 
 
 
-
-
