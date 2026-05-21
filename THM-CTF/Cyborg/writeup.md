@@ -37,7 +37,7 @@ We also found that we can download some file from the website :
   <img width="863" height="125" alt="image" src="https://github.com/user-attachments/assets/b029eded-a730-4ad7-8bcf-63157d512da6" />
 </p>
 
-Extracting the file we
+Extracting the file we found out a new subdomain 
 
 
 
