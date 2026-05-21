@@ -48,7 +48,7 @@ Did some research about the borg and found this :
 </p>
 
 Looking at `/etc` directory we found this :
-
+<p align="center">
   
 
 
