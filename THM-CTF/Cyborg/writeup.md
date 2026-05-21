@@ -52,7 +52,7 @@ Looking at `/etc` directory we found a folder :
   <img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/a0f799a2-f5aa-4f7e-b6ef-ce2e4f10ae5b" />
 </p>
 
-In that 
+In that folder we found 
 
 
 
