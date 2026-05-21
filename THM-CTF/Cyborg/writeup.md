@@ -58,7 +58,7 @@ In that folder we found two files :
 </p>
 
 Checking the `passwd` file we have a hash :
-
+<p align="center">
   
 
 
