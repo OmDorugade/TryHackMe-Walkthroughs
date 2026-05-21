@@ -53,7 +53,7 @@ Looking at `/etc` directory we found a folder :
 </p>
 
 In that folder we found two files :
-
+<p align="center">
   
 
 
