@@ -38,6 +38,7 @@ We also found that we can download some file from the website :
 </p>
 
 Extracting the file we found out a new subdomain and some information :
+<p align="center">
 
   
 
