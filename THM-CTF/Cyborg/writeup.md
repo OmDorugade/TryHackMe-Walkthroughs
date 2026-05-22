@@ -77,7 +77,9 @@ Using `borg` we extracted some information and used the password we cracked abov
   <img width="940" height="641" alt="image" src="https://github.com/user-attachments/assets/5574a647-2e9a-459a-8d12-d853fb71ab6c" />
 </p>
 
-Found our user.txt 
+Found our user.txt flag :
+
+  
 
 
 
