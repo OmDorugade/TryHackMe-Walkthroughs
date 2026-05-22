@@ -74,5 +74,6 @@ Crack the hash using `john` :
 
 Using `borg` we extracted some information and used the password we cracked above :
 
+  
 
 
