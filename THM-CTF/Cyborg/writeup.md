@@ -64,7 +64,8 @@ Checking the `passwd` file we have a hash :
 
 Also check the other file `squid conf` :
 
-  
+  <img width="934" height="423" alt="image" src="https://github.com/user-attachments/assets/494b0f1f-c8a0-46e5-a73a-9ef580f80f92" />
+
 
 
 
