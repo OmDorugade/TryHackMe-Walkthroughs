@@ -72,7 +72,7 @@ Crack the hash using `john` :
   <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/f8d5bff8-7c80-4e3d-84ea-2783b6581429" />
 </p>
 
-Using `borg` we extracted some information and used the password we cracked above 
+Using `borg` we extracted some information and used the password we cracked above :
 
 
 
