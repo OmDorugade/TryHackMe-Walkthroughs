@@ -67,7 +67,7 @@ Also check the other file `squid conf` :
   <img width="934" height="423" alt="image" src="https://github.com/user-attachments/assets/494b0f1f-c8a0-46e5-a73a-9ef580f80f92" />
 </p>
 
-Crack the hash using john
+Crack the hash using `john`
 
   <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/f8d5bff8-7c80-4e3d-84ea-2783b6581429" />
 
