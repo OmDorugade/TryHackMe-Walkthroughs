@@ -68,8 +68,6 @@ Also check the other file `squid conf` :
 </p>
 
 
-
-
   <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/f8d5bff8-7c80-4e3d-84ea-2783b6581429" />
 
 
