@@ -74,5 +74,3 @@ Checking the `passwd` file we have a hash :
 
 
 
-
-
