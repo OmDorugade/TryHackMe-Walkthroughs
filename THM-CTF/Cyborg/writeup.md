@@ -62,7 +62,7 @@ Checking the `passwd` file we have a hash :
   <img width="940" height="331" alt="image" src="https://github.com/user-attachments/assets/ee6c19f9-1992-4199-820a-611b4eefcb32" />
 </p>
 
-Also check the other file `squid conf
+Also check the other file `squid conf`
 
 
 
