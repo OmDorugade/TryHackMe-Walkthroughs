@@ -72,7 +72,7 @@ Crack the hash using `john` :
   <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/f8d5bff8-7c80-4e3d-84ea-2783b6581429" />
 </p>
 
-Using `borg` we extracted some information and used the password we cracked above and established ssh session :
+Using `borg` we extracted some information and used the password we cracked above and established `ssh` session :
 
   <img width="940" height="641" alt="image" src="https://github.com/user-attachments/assets/5574a647-2e9a-459a-8d12-d853fb71ab6c" />
 
