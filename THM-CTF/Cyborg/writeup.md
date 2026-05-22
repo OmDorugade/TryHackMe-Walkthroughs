@@ -97,5 +97,3 @@ Found our user.txt flag :
 
 
 
-
-
