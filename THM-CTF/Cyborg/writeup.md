@@ -90,7 +90,7 @@ flag{1_hop3_y0u_ke3p_th3_arch1v3s_saf3}
 We did `sudo -l` to check for suid permissions :
 <p align="center">
   <img width="940" height="112" alt="image" src="https://github.com/user-attachments/assets/af52ed0f-c4c9-4301-aec0-e4e338d2443a" />
-
+</p>
 
 
 
