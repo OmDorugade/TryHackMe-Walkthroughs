@@ -102,7 +102,8 @@ Reading the `/etc/mp3backups` file we found we can get flag using `-c` parameter
   <img width="940" height="657" alt="image" src="https://github.com/user-attachments/assets/6631c06a-4b39-4981-a535-4d85c1dddbe6" />
 </p>
 
-
+```
+```
 
 
 
