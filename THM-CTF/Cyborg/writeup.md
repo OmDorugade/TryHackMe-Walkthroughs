@@ -97,7 +97,7 @@ Check the `/etc/mp3backups` using `cat` :
   <img width="940" height="751" alt="image" src="https://github.com/user-attachments/assets/d47c3795-7fd7-4917-88f4-07ed1284e9a0" />
 </p>
 
-Reading the `/etc/mp3backups` file we found we can run 
+Reading the `/etc/mp3backups` file we found we can run ``
 
 
 
