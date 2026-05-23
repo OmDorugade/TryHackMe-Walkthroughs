@@ -98,7 +98,7 @@ Check the `/etc/mp3backups` using `cat` :
 </p>
 
 Reading the `/etc/mp3backups` file we found we can get flag using `-c` parameter and using `"cat /root/root.txt"` : 
-
+<p align="center">
   <img width="940" height="657" alt="image" src="https://github.com/user-attachments/assets/6631c06a-4b39-4981-a535-4d85c1dddbe6" />
 
 
