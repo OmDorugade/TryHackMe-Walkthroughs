@@ -103,7 +103,7 @@ Reading the `/etc/mp3backups` file we found we can get flag using `-c` parameter
 </p>
 
 ```
-
+flag{Than5s_f0r_play1ng_H0p£_y0u_enJ053d}
 ```
 
 
