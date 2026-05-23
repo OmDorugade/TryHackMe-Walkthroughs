@@ -87,7 +87,9 @@ flag{1_hop3_y0u_ke3p_th3_arch1v3s_saf3}
 ```
 
 ## 5. What is the root.txt flag?
-We did `sudo -l` for suid
+We did `sudo -l` for suid permissions :
+
+  
 
 
 
