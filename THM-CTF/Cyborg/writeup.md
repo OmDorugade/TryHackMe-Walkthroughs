@@ -92,7 +92,7 @@ We did `sudo -l` to check for suid permissions :
   <img width="940" height="112" alt="image" src="https://github.com/user-attachments/assets/af52ed0f-c4c9-4301-aec0-e4e338d2443a" />
 </p>
 
-Check the `/etc/mp3backups` using `cat`
+Check the `/etc/mp3backups` using `cat` :
 
 
 
