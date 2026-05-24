@@ -9,7 +9,6 @@
 
 Deploy the machine and follow the steps.
 
----
 
 ### SSH into the machine with the credentials provided in the task text.
 
