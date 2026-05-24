@@ -16,7 +16,6 @@ No answer needed
 
 * ```ssh overlayfs@<TARGET_IP>```
 
----
 
 ### Grab the source code for the exploit from SSD-Disclosure and save it as exploit.c on the target machine.
 
