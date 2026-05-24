@@ -55,7 +55,6 @@ thm{27aaa5865a52dcd4cb04c0e0a2d39404}
 </p>
 
 
-
 ## Summary
 - Connected to the machine via SSH  
 - Downloaded OverlayFS exploit (CVE-2021-3493)  
