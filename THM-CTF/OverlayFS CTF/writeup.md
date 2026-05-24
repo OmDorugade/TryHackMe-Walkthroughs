@@ -62,6 +62,6 @@ thm{27aaa5865a52dcd4cb04c0e0a2d39404}
 - Executed exploit to gain root privileges  
 - Retrieved flag from `/root/flag.txt`  
 
----
+
 
 Room Completed !
