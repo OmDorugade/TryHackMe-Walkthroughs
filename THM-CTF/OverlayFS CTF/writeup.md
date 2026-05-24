@@ -24,7 +24,7 @@ No answer needed
 
 * ```wget https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/```
 
----
+
 
 ### Compile the exploit with gcc.
 
