@@ -54,14 +54,4 @@ thm{27aaa5865a52dcd4cb04c0e0a2d39404}
   <img width="939" height="428" alt="image" src="https://github.com/user-attachments/assets/0900fafc-c60b-4cc0-a19d-fafdb3b13024" />
 </p>
 
-
-## Summary
-- Connected to the machine via SSH  
-- Downloaded OverlayFS exploit (CVE-2021-3493)  
-- Compiled the exploit using gcc  
-- Executed exploit to gain root privileges  
-- Retrieved flag from `/root/flag.txt`  
-
-
-
 Room Completed !
