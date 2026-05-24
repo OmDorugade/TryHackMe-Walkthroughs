@@ -59,6 +59,6 @@ Further we escalate this to gain root we used `sudo -l` and found we can gain ro
 
 ```
 wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
-```
+``` 
 
 Room Completed !
