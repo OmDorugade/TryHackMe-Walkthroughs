@@ -33,7 +33,7 @@ No answer needed
 
 * ```gcc -o overlayexploit exploit.c```
 
----
+
 
 ### Run your compiled exploit, and get root!
 
@@ -42,7 +42,7 @@ No answer needed
 * ```./overlayexploit```
 * ```whoami```
 
----
+
 
 ### What's the flag in /root/?
 
