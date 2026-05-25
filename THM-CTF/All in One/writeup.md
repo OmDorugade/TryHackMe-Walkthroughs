@@ -35,4 +35,3 @@ Cheking the `/hackathons` page :
 
 
 
-
