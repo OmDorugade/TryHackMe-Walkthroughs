@@ -18,7 +18,7 @@ Looking at the `nmap` result `ftp` is on and we can login as anonymous :
 </p>
 
 Nothing found on `ftp` , Now used `gobuster` for directory brute forcing :
-
+<p align="center">
   
 
 
