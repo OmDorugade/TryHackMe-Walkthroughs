@@ -13,7 +13,7 @@ Enumerate the machine using `nmap` :
 </p>
 
 Looking at the `nmap` result `ftp` is on and we can login as anonymous :
-
+<p align="center">
   
 
 
