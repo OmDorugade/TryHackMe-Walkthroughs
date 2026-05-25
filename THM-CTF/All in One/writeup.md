@@ -20,7 +20,7 @@ Looking at the `nmap` result `ftp` is on and we can login as anonymous :
 Nothing found on `ftp` , Now used `gobuster` for directory brute forcing :
 <p align="center">
   <img width="940" height="717" alt="image" src="https://github.com/user-attachments/assets/19042c86-1df0-40a8-a920-7f168ebe0a92" />
-
+</p>
 
 
 
