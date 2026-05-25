@@ -10,5 +10,5 @@
 Enumerate the machine using `nmap` :
 <p align="center">
   <img width="940" height="672" alt="image" src="https://github.com/user-attachments/assets/9cee1d0b-c92a-4d9c-8729-b32492b0a806" />
-
+</p>
 
