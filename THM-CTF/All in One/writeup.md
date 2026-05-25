@@ -23,7 +23,7 @@ Nothing found on `ftp` , Now used `gobuster` for directory brute forcing :
 </p>
 
 Cheking the `/hackathons` page :
-
+<p align="center">
   
 
 
