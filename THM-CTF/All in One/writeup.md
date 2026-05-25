@@ -14,7 +14,8 @@ Enumerate the machine using `nmap` :
 
 Looking at the `nmap` result `ftp` is on and we can login as anonymous :
 <p align="center">
-  
+  <img width="866" height="821" alt="image" src="https://github.com/user-attachments/assets/7d1f7f7f-7714-432a-b345-1e9b81c7e060" />
+
 
 
 
