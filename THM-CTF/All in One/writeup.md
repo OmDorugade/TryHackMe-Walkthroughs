@@ -48,7 +48,7 @@ Read the exploit carefully and found we can do `/etc/passwd` with the full link 
 
 Found this php://filter/convert.base64-encode/resource=../../../../../wp-config.php :
 
-
+  
 
 
 
