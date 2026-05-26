@@ -36,9 +36,9 @@ Then we visited the machine ip and we get to know it is a wordpress website so w
   <img width="940" height="603" alt="image" src="https://github.com/user-attachments/assets/f9967682-5b4b-42ab-b690-f6aaf21030a1" />
 </p>
 
-We found an exploit on expoit.db :
+We found an exploit on exploit.db :
 <p align="center">
   <img width="940" height="838" alt="image" src="https://github.com/user-attachments/assets/cdd729f2-13cc-4861-bfbd-652821eca80e" />
 </p>
 
-
+Read the expo
