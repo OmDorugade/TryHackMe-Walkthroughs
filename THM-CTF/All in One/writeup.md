@@ -28,7 +28,7 @@ Cheking the `/hackathons` page but found nothing usefull :
 </p>
 
 Then we visited the machine ip and we get to know it is a wordpress website so we can do wordpress scan :
-
+<p align="center">
   <img width="801" height="600" alt="image" src="https://github.com/user-attachments/assets/6318b0ad-b5b9-4de3-949a-6737988d1a75" />
 
 
