@@ -43,7 +43,7 @@ We found an exploit on exploit.db :
 
 Read the exploit carefully and found we can do `/etc/passwd` with the full link :
 
-
+  
 
 
 
