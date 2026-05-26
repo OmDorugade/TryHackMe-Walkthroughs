@@ -27,7 +27,7 @@ Cheking the `/hackathons` page but found nothing usefull :
   <img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/7aa9f605-776b-4af3-88a3-6d7665a25108" />
 </p>
 
-
+Then we visited the 
 
 
 
