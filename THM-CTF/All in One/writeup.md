@@ -38,5 +38,5 @@ Then we visited the machine ip and we get to know it is a wordpress website so w
 
 We found an exploit on expoit.db :
 
-
+  
 
