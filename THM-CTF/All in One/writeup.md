@@ -41,4 +41,4 @@ We found an exploit on exploit.db :
   <img width="940" height="838" alt="image" src="https://github.com/user-attachments/assets/cdd729f2-13cc-4861-bfbd-652821eca80e" />
 </p>
 
-Read the exploit carefully and 
+Read the exploit carefully and found we can do `/etc/passwd` 
