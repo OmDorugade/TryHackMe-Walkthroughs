@@ -46,6 +46,8 @@ Read the exploit carefully and found we can do `/etc/passwd` with the full link 
   <img width="940" height="201" alt="image" src="https://github.com/user-attachments/assets/bc7e26e4-b4ea-4117-a2aa-673859b5cd27" />
 </p>
 
+Found this php://filter/convert.base64-encode/resource=../../../../../wp-config.php :
+
 
 
 
