@@ -34,7 +34,7 @@ Then we visited the machine ip and we get to know it is a wordpress website so w
 
 <p align="center">
   <img width="940" height="603" alt="image" src="https://github.com/user-attachments/assets/f9967682-5b4b-42ab-b690-f6aaf21030a1" />
-<>
+</p>
 
 
 
