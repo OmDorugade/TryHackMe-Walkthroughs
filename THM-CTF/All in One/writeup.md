@@ -42,3 +42,24 @@ We found an exploit on exploit.db :
 </p>
 
 Read the exploit carefully and found we can do `/etc/passwd` with the full link :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
