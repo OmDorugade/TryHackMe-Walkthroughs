@@ -22,7 +22,7 @@ Nothing found on `ftp` , Now used `gobuster` for directory brute forcing :
   <img width="940" height="717" alt="image" src="https://github.com/user-attachments/assets/19042c86-1df0-40a8-a920-7f168ebe0a92" />
 </p>
 
-Cheking the `/hackathons` page :
+Cheking the `/hackathons` page but :
 <p align="center">
   <img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/7aa9f605-776b-4af3-88a3-6d7665a25108" />
 </p>
