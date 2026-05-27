@@ -54,7 +54,7 @@ Found this `php://filter/convert.base64-encode/resource=../../../../../wp-config
 Copy and Paste the `base64` code on CyberChef :
 <p align="center">
   <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/554300e1-8ca2-420a-a2db-d2868d784756" />
-<>
+</p>
 
 
 
