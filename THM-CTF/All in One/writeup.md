@@ -51,7 +51,9 @@ Found this `php://filter/convert.base64-encode/resource=../../../../../wp-config
   <img width="940" height="142" alt="image" src="https://github.com/user-attachments/assets/2b9fda8f-5fba-43e2-b200-dc8804412e1b" />
 </p>
 
-Copy and Paste the `base64` code on CyberChef
+Copy and Paste the `base64` code on CyberChef :
+
+  
 
 
 
