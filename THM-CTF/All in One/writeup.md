@@ -64,7 +64,7 @@ We found a username and password in the output and logged in using credentials :
 We can upload our reverse shell code on Appearance page :
 <p align="center">
   <img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/4504ee0a-450f-4fa0-ae4e-55eafd21c476" />
-</p>
+<>
 
 
 
