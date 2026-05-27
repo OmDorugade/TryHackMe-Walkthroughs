@@ -61,7 +61,7 @@ We found a username and password in the output and logged in using credentials :
   <img width="877" height="980" alt="image" src="https://github.com/user-attachments/assets/1e9c8b17-45ee-4a42-998b-5a3a5740f973" />
 </p>
 
-
+We can up
 
 
 
