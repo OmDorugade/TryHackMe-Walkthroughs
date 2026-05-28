@@ -73,4 +73,3 @@ We can upload our reverse shell code on Appearance page :
 
 
 
-
