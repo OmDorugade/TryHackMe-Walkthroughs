@@ -78,6 +78,7 @@ Got access but was not able to read userflag :
 
 Checking the home files again we found `hint.txt` and it revealed some usefull information :
 
-  
+  <img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/167c56f7-59cf-43cf-b8a6-796122ed789f" />
+
 
 
