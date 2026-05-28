@@ -71,7 +71,7 @@ After uploading access it to get a reverse shell access :
   <img width="940" height="137" alt="image" src="https://github.com/user-attachments/assets/93400555-2ca5-497e-b8fd-49f9a47c587f" />
 </p>
 
-Got access but was not able to get 
+Got access but was not able to read user
 
 
 
