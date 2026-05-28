@@ -73,7 +73,8 @@ After uploading access it to get a reverse shell access :
 
 Got access but was not able to read userflag :
 
-  
+  <img width="940" height="827" alt="image" src="https://github.com/user-attachments/assets/0de8e326-c09a-4143-a223-1962e5315536" />
+
 
 
 
