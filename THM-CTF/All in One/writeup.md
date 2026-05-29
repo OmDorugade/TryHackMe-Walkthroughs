@@ -84,7 +84,7 @@ Checking the home files again we found `hint.txt` and it revealed some usefull i
 We got username and password using that we logged in with `ssh` and got our userflag:
 <p align="center">
   <img width="940" height="914" alt="image" src="https://github.com/user-attachments/assets/e38d41b0-59bc-4a7d-bc3c-d7b8792377f3" />
-<>
+</p>
 
 
 
