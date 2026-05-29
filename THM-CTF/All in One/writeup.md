@@ -86,7 +86,7 @@ We got username and password using that we logged in with `ssh` and got our user
   <img width="940" height="914" alt="image" src="https://github.com/user-attachments/assets/e38d41b0-59bc-4a7d-bc3c-d7b8792377f3" />
 </p>
 
-We got a hash used `CyberChef` to crack it , we can identify the hash on 
+We got a hash used `CyberChef` to crack it , we can identify the hash on hashidentifier`
 
 
 
