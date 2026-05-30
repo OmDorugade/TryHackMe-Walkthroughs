@@ -97,7 +97,7 @@ THM{49jg666alb5e76shrusn49jg666alb5e76shrusn}
 
 ## 2. root.txt
 We did `sudo -l` for suid permissions :
-
+<p align="center">
   <img width="940" height="132" alt="image" src="https://github.com/user-attachments/assets/b52c91d7-a9e1-462c-9fce-35e39a5ded28" />
 
 
