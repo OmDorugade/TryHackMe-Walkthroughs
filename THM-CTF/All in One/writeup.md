@@ -96,7 +96,8 @@ THM{49jg666alb5e76shrusn49jg666alb5e76shrusn}
 ```
 
 ## 2. root.txt
-We did `sudo -l` for suid 
+We did `sudo -l` for suid permissions :
+
 
 
 
