@@ -91,7 +91,7 @@ We got a hash used `CyberChef` to crack it , we can identify the hash on `hashid
   <img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/bce9f3db-6dd7-47fb-ac5b-9012f68a52a9" />
 </p>
 
-``
+```
 
 
 
