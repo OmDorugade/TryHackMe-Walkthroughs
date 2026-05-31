@@ -113,5 +113,5 @@ We got root access by running the command shown above :
 
 Got the rootflag but is base64 encoded used `CyberChef` to decode it :
 
-
+  
 
