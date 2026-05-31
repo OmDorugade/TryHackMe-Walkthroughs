@@ -109,7 +109,7 @@ Using `gtfobins` we did privilege escalation :
 We got root access by running the command shown above :
 <p align="center">
   <img width="940" height="249" alt="image" src="https://github.com/user-attachments/assets/e71af92c-afcd-4a7e-a0e2-6a7767d8f68b" />
-<>
+</p>
 
 
 
