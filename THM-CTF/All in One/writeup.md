@@ -101,7 +101,7 @@ We did `sudo -l` for suid permissions :
   <img width="940" height="132" alt="image" src="https://github.com/user-attachments/assets/b52c91d7-a9e1-462c-9fce-35e39a5ded28" />
 </p>
 
-Using `gtfobins`
+Using `gtfobins` we 
 
 
 
