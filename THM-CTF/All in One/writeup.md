@@ -103,6 +103,7 @@ We did `sudo -l` for suid permissions :
 
 Using `gtfobins` we did privilege escalation :
 
+  
 
 
 
