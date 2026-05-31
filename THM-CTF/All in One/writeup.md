@@ -108,7 +108,7 @@ Using `gtfobins` we did privilege escalation :
 
 We got root access by running the command shown above :
 
-
+  
 
 
 
