@@ -102,8 +102,9 @@ We did `sudo -l` for suid permissions :
 </p>
 
 Using `gtfobins` we did privilege escalation :
+<p align="center">
+  <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/4e1d8ea9-7b8c-45e9-a6af-34abc9f45964" />
 
-  
 
 
 
