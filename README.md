@@ -38,7 +38,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 31 | Smag Grotto | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Smag%20Grotto/writeup.md) |
 | 32 | Archangel | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Archangel/writeup.md) |
 | 33 | Cyborg | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Cyborg/writeup.md) |
-
+| 33 | Cyborg | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Cyborg/writeup.md) |
 
 
 
