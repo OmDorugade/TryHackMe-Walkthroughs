@@ -118,7 +118,7 @@ Got the rootflag but is base64 encoded used `CyberChef` to decode it :
 
 ```
 
-``
+```
 
 
 
