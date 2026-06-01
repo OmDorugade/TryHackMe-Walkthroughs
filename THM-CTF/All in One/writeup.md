@@ -116,7 +116,7 @@ Got the rootflag but is base64 encoded used `CyberChef` to decode it :
   <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/dcadc60e-c403-4b27-a871-2774c662eff2" />
 </p>
 
-``
+```
 
 
 
