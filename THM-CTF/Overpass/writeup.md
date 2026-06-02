@@ -1,4 +1,4 @@
-# <div align="center">[LazyAdmin](https://tryhackme.com/room/lazyadmin)</div>
+# <div align="center">[Overpass](https://tryhackme.com/room/lazyadmin)</div>
 <div align="center">Easy linux machine to practice your skills</div>
 
 <div align="center">
