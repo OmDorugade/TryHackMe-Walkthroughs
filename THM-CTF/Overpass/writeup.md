@@ -6,7 +6,7 @@
 </div>
 
 ## 1. Hack the machine and get the flag in user.txt
-
+Enumerate t
 <p align="center">
 
 
