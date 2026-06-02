@@ -26,4 +26,3 @@ Enumerate the machine using `namp` :
 
 
 
-
