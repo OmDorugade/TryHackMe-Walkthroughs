@@ -2,5 +2,5 @@
 <div align="center">Easy linux machine to practice your skills</div>
 
 <div align="center">
-   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f6ac0f26-e067-4963-b4b2-07c07791ce53"/>
+   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/abcb5567-7caa-44df-ac3d-de4b2bb3c1fe" />
 </div>
