@@ -8,7 +8,7 @@
 ## 1. Hack the machine and get the flag in user.txt
 Enumerate the machine using `namp` :
 <p align="center">
-
+   
 
 
 
