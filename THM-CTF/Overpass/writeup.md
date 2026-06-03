@@ -18,7 +18,8 @@ Using `gobuster` we did directory brute force and found some pages :
 
 Checking the `/aboutus` page :
 
-   
+   <img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/857880aa-26f1-48ad-9dd0-583195dcb162" />
+
 
 
 
