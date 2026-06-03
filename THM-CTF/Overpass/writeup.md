@@ -23,7 +23,8 @@ Checking the `/aboutus` page :
 
 It took some time and research we have to set session cookie and myCookie value , we got this by reading the `login.js` script :
 
-   
+   <img width="396" height="71" alt="image" src="https://github.com/user-attachments/assets/f3b0e9df-1ad0-4166-9db0-d24f4e219bf8" />
+
 
 
 
