@@ -13,7 +13,7 @@ Enumerate the machine using `namp` :
 
 Using `gobuster` we did directory brute force and found some pages :
 
-
+   
 
 
 
