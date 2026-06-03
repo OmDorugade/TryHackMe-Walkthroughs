@@ -27,3 +27,4 @@ Using `gobuster` we did directory brute force and found some pages :
 
 
 
+
