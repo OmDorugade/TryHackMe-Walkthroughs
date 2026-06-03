@@ -14,7 +14,7 @@ Enumerate the machine using `namp` :
 Using `gobuster` we did directory brute force and found some pages :
 <p align="center">
    <img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/2897095c-24f6-426b-b1ee-0e58eebf9221" />
-
+<>
 
 
 
