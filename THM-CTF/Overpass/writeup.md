@@ -23,7 +23,7 @@ Checking the `/aboutus` page :
 
 It took some time and research we have to set session cookie and myCookie value , we got this by reading the `login.js` script :
 
-
+   
 
 
 
