@@ -21,7 +21,7 @@ Checking the `/aboutus` page :
    <img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/857880aa-26f1-48ad-9dd0-583195dcb162" />
 </p>
 
-It took some time and research we have to set session cookie and myCookie value , we got this by reading the login.js`
+It took some time and research we have to set session cookie and myCookie value , we got this by reading the `login.js`
 
 
 
