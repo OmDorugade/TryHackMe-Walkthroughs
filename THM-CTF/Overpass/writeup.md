@@ -11,7 +11,7 @@ Enumerate the machine using `namp` :
    <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/31183791-d434-45a2-8e7b-090dc7993ca2" />
 </p>
 
-Using `
+Using `gobuster`
 
 
 
