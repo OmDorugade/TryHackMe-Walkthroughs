@@ -28,6 +28,7 @@ It took some time and research we have to set session cookie and myCookie value 
 
 After entering above refresh `/admin` page and we get :
 
+   
 
 
 
