@@ -26,7 +26,7 @@ It took some time and research we have to set session cookie and myCookie value 
    <img width="396" height="71" alt="image" src="https://github.com/user-attachments/assets/f3b0e9df-1ad0-4166-9db0-d24f4e219bf8" />
 </p>
 
-After entering above refresh `/admin`  and we get :
+After entering above refresh `/admin` page and we get :
 
 
 
