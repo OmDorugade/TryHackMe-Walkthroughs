@@ -33,7 +33,8 @@ After entering above refresh `/admin` page and we got a RSA key :
 
 We will use the above RSA key using `ssh2john` :
 
-   
+   <img width="542" height="109" alt="image" src="https://github.com/user-attachments/assets/2437b2d3-f2f6-447c-a29b-9d73e7e3842d" />
+
 
 
 
