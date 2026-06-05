@@ -38,6 +38,7 @@ We will use the above RSA key using `ssh2john` :
 
 Using `john` we crack the password and change some permissions :
 
+   
 
 
 
