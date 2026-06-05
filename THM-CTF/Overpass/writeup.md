@@ -38,7 +38,8 @@ We will use the above RSA key using `ssh2john` :
 
 Using `john` we crack the password and change some permissions :
 
-   
+   <img width="940" height="295" alt="image" src="https://github.com/user-attachments/assets/6e1c47a7-da71-4eca-8d12-a0589d90da91" />
+
 
 
 
