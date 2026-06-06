@@ -46,3 +46,16 @@ Using `john` we crack the password and change some permissions :
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
