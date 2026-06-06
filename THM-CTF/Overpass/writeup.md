@@ -42,7 +42,7 @@ Using `john` we crack the password and change some permissions :
 </p>
 
 Using the password we logged in as james using `ssh` and found user.txt :
-
+<p align="center">
    <img width="940" height="818" alt="image" src="https://github.com/user-attachments/assets/fc5793ea-d0d1-4969-b50b-30215041b217" />
 
 
