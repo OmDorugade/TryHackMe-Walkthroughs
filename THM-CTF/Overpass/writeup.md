@@ -43,6 +43,7 @@ Using `john` we crack the password and change some permissions :
 
 Using the password we logged in as james using `ssh` :
 
+   
 
 
 
