@@ -46,7 +46,7 @@ Using the password we logged in as james using `ssh` and found user.txt :
    <img width="940" height="818" alt="image" src="https://github.com/user-attachments/assets/fc5793ea-d0d1-4969-b50b-30215041b217" />
 </p>
 
-`
+``
 
 
 
