@@ -60,4 +60,3 @@ Using the password we logged in as james using `ssh` and found user.txt :
 
 
 
-
