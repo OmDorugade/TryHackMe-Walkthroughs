@@ -50,7 +50,7 @@ Using the password we logged in as james using `ssh` and found user.txt :
 thm{65c1aaf000506e56996822c6281e6bf7}
 ```
 
-## 2
+## 2.
 
 
 
