@@ -51,7 +51,7 @@ thm{65c1aaf000506e56996822c6281e6bf7}
 ```
 
 ## 2. Escalate your privileges and get the flag in root.txt
-Now to get root access we checked crontab for any running scripts :
+Now to get root access we checked crontab  any running scripts :
 <p align="center">
    <img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/c83a8401-a1ec-4796-97aa-118d78a20acf" />
 </p>
