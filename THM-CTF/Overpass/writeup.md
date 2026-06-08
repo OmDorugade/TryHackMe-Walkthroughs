@@ -56,7 +56,7 @@ Now to get root access we checked crontab for any running scripts :
    <img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/c83a8401-a1ec-4796-97aa-118d78a20acf" />
 </p>
 
-We made script and added reverse shell code :
+We made script and added  shell code :
 <p align="center"> 
    <img width="828" height="206" alt="image" src="https://github.com/user-attachments/assets/725062b5-1071-4bcf-998b-2ec87ef5bf70" />
 </p>
