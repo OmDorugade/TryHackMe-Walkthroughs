@@ -67,4 +67,3 @@ We made script and added reverse shell code :
 
 
 
-
