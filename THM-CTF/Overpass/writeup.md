@@ -58,7 +58,7 @@ Now to get root access we checked crontab for any running scripts :
 
 We made our own same name script and added reverse shell code 
 
-
+   
 
 
 
