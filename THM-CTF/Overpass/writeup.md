@@ -66,7 +66,7 @@ Uploaded it on target machine :
    <img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/fd53bfe1-9c08-4799-8fb1-e1e26478dad9" />
 </p>
 
-Wait for crontab to got reverse shell on our machine
+Wait for crontab to execute got reverse shell on our machine
 
 
 
