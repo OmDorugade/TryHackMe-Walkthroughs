@@ -68,6 +68,6 @@ Uploaded it on target machine :
 
 Wait for crontab to execute the script and we got reverse shell on our machine :
 
-
+   
 
 
