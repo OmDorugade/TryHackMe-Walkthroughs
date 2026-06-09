@@ -66,7 +66,7 @@ Uploaded it on target machine :
    <img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/fd53bfe1-9c08-4799-8fb1-e1e26478dad9" />
 </p>
 
-Got reverse shell on our
+Got reverse shell on our machine
 
 
 
