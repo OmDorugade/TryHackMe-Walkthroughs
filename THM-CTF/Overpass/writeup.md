@@ -61,7 +61,7 @@ We made script and added reverse shell code :
    <img width="828" height="206" alt="image" src="https://github.com/user-attachments/assets/725062b5-1071-4bcf-998b-2ec87ef5bf70" />
 </p>
 
-Uploaded it
+Uploaded it 
 
 
 
