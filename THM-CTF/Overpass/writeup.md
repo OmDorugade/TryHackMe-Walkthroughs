@@ -63,7 +63,7 @@ We made script and added reverse shell code :
 
 Uploaded it on target machine :
 
-
+   
 
 
 
