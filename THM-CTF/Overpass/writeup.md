@@ -75,7 +75,7 @@ Wait for crontab to execute the script and we got reverse shell on our machine a
 thm{7f336f8c359dbac18d54fdd64ea753bb}
 ```
 
-Room Completed 
+Room Completed !
 
 
 
