@@ -69,7 +69,7 @@ Uploaded it on target machine :
 Wait for crontab to execute the script and we got reverse shell on our machine and got root.txt :
 <p align="center">
    <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/a7514bed-754e-4ed6-b4f2-c2c9dded1c65" />
-<>
+</p>
 
 
 
