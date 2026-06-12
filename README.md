@@ -39,6 +39,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 32 | Archangel | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Archangel/writeup.md) |
 | 33 | Cyborg | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Cyborg/writeup.md) |
 | 34 | All in One | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/All%20in%20One/writeup.md) |
+| 34 | All in One | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/All%20in%20One/writeup.md) |
 
 
 
