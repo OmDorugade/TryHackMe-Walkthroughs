@@ -1,4 +1,4 @@
-# <div align="center">[CupidBot](https://tryhackme.com/room/lafb2026e6)</div>
+# <div align="center">[](https://tryhackme.com/room/lafb2026e6)</div>
 <div align="center">This AI bot knows more than just love letters.</div>
 <br>
 <div align="center">
