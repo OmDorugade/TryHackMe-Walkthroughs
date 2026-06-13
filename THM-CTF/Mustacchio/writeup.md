@@ -1,4 +1,4 @@
-# <div align="center">[Mustacchio]()</div>
+# <div align="center">[Mustacchio](https://tryhackme.com/room/mustacchio)</div>
 <div align="center">This AI bot knows more than just love letters.</div>
 <br>
 <div align="center">
