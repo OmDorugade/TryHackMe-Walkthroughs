@@ -6,7 +6,7 @@
 </div>
 
 ## 1. What is the user flag?
-
+Enumerate the machine 
 
 
 
