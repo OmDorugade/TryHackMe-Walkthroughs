@@ -9,7 +9,6 @@
 Enumerate the machine using `nmap` :
 <p align="center">
   <img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/22a232ee-5e73-4919-8812-75b197af85cc" />
-
 </p>
 
 Using `gobuster` we did directory enumeration :
