@@ -11,7 +11,7 @@ Enumerate the machine using `nmap` :
   <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/cc080201-88ea-4085-998d-869b22bd335f" />
 </p>
 
-Using `gobuster` we did directory  :
+Using `gobuster` we did directory enumeration :
 <p align="center">
   <img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/15c94a48-919c-48f0-a084-03db10ff9159" />
 </p>
