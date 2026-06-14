@@ -21,4 +21,3 @@ Using `gobuster` we did directory enumeration :
 
 
 
-
