@@ -13,7 +13,7 @@ Enumerate the machine using `nmap` :
 
 Using `gobuster` we did directory enumeration :
 
-
+  
 
 
 
