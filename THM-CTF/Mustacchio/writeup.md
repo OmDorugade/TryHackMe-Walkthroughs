@@ -12,7 +12,7 @@ Enumerate the machine using `nmap` :
 </p>
 
 Using `gobuster` we did directory enumeration :
-
+<p align="center">
   <img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/15c94a48-919c-48f0-a084-03db10ff9159" />
 
 
