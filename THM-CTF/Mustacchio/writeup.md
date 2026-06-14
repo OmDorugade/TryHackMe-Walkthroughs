@@ -11,7 +11,7 @@ Enumerate the machine using `nmap` :
   <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/cc080201-88ea-4085-998d-869b22bd335f" />
 </p>
 
-Using `gobuster` we 
+Using `gobuster` we enumerated
 
 
 
