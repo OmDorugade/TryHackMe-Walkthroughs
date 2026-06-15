@@ -18,6 +18,7 @@ Using `gobuster` we did directory enumeration :
 
 We have found different paths :
 
+  
 
 
 
