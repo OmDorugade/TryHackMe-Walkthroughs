@@ -16,7 +16,7 @@ Using `gobuster` we did directory enumeration :
   <img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/15c94a48-919c-48f0-a084-03db10ff9159" />
 </p>
 
-We have fo
+We have found d
 
 
 
