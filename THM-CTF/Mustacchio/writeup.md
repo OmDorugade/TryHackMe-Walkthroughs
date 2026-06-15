@@ -24,6 +24,6 @@ We have found different paths checking `/custom` page :
 Checking the `user.bak` file we found MD5 Hash and crack it using CrackStation :
 <p align="center">
   <img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/57b3acd0-857e-4c30-8f9f-b69d86438118" />
-
+<>
 
 
