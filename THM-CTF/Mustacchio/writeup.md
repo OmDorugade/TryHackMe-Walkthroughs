@@ -21,8 +21,9 @@ We have found different paths checking `/custom` page :
   <img width="940" height="696" alt="image" src="https://github.com/user-attachments/assets/0a7c7a62-1ba4-4d30-90c9-d32a354d070f" />
 </p>
 
-Checking the `user.bak` file we found MD5 Hash :
+Checking the `user.bak` file we found MD5 Hash and :
 
-  
+  <img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/57b3acd0-857e-4c30-8f9f-b69d86438118" />
+
 
 
