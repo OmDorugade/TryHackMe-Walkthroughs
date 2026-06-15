@@ -26,4 +26,3 @@ We have found different paths checking `/custom` page :
 
 
 
-
