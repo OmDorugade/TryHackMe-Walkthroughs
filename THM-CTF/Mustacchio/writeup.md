@@ -28,7 +28,7 @@ Checking the `user.bak` file we found MD5 Hash and crack it using CrackStation :
 
 Looking at the nmap result we have ngnix running on 8765 port and found admin panel :
 
-
+  
 
 
 
