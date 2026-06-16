@@ -28,7 +28,8 @@ Checking the `user.bak` file we found MD5 Hash and crack it using CrackStation :
 
 Looking at the nmap result we have ngnix running on 8765 port and found admin panel :
 
-  
+  <img width="940" height="643" alt="image" src="https://github.com/user-attachments/assets/89f4e636-e839-4322-9830-29f3d104575a" />
+
 
 
 
