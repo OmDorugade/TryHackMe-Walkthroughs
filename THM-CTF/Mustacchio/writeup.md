@@ -38,4 +38,4 @@ Checking the source code of admin panel page we got this :
 
 We then found Comment section and used XML External Entity (XXE) injection :
 
-
+  
