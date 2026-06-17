@@ -36,6 +36,6 @@ Checking the source code of admin panel page we got this :
   <img width="940" height="548" alt="image" src="https://github.com/user-attachments/assets/cc4516ff-bb2a-4e4e-b85f-0e7dd1eaad16" />
 </p>
 
-We then 
+We then found
 
 
