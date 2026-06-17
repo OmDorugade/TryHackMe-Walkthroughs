@@ -40,3 +40,21 @@ We then found Comment section and used XML External Entity (XXE) injection :
 
   <img width="940" height="564" alt="image" src="https://github.com/user-attachments/assets/68844581-16c9-4ef5-86d3-4596ec699cb8" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
