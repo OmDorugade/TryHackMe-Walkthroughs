@@ -36,7 +36,7 @@ Checking the source code of admin panel page we got this :
   <img width="940" height="548" alt="image" src="https://github.com/user-attachments/assets/cc4516ff-bb2a-4e4e-b85f-0e7dd1eaad16" />
 </p>
 
-We then found Comment section and used XML External Entity (XXE) injection :
+We then found Comment section and tried different types of attack and XML External Entity (XXE) injection worked :
 <p align="center">
   <img width="940" height="564" alt="image" src="https://github.com/user-attachments/assets/68844581-16c9-4ef5-86d3-4596ec699cb8" />
 </p>
