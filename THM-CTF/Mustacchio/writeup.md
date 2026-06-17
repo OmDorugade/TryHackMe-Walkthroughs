@@ -33,7 +33,6 @@ Looking at the nmap result we have ngnix running on 8765 port and found admin pa
 
 Checking the source code of admin panel page we got this :
 <p align="center">
-
   <img width="940" height="548" alt="image" src="https://github.com/user-attachments/assets/cc4516ff-bb2a-4e4e-b85f-0e7dd1eaad16" />
 
 
