@@ -43,7 +43,7 @@ We then found Comment section and tried different types of attack and XML Extern
 
 Capture the request using Burpsuite and checking the response it worked :
 
-
+  
 
 
 
