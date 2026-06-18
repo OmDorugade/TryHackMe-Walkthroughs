@@ -41,7 +41,7 @@ We then found Comment section and tried different types of attack and XML Extern
   <img width="940" height="564" alt="image" src="https://github.com/user-attachments/assets/68844581-16c9-4ef5-86d3-4596ec699cb8" />
 </p>
 
-Capture the request using Burpsuite and check t
+Capture the request using Burpsuite and check th
 
 
 
