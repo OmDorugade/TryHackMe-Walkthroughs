@@ -44,7 +44,7 @@ We then found Comment section and tried different types of attack and XML Extern
 Capture the request using Burpsuite and checking the response it worked :
 <p align="center">
   <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/09687520-d30f-42ee-82ce-df52a43a65bf" />
-<
+<>
 
 
 
