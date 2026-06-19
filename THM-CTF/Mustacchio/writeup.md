@@ -55,4 +55,3 @@ Capture the request using Burpsuite and checking the response it worked :
 
 
 
-
