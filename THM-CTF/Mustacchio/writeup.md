@@ -48,7 +48,6 @@ Capture the request using Burpsuite and checking the response it worked :
 
 Copy the RSA key and save it crack it with `ssh2john` and `john` :
 <p align="center">
-
   <img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/9ba9d63c-8083-4ed4-8f41-94a7d2a10883" />
 
 
