@@ -46,7 +46,7 @@ Capture the request using Burpsuite and checking the response it worked :
   <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/09687520-d30f-42ee-82ce-df52a43a65bf" />
 </p>
 
-Copy the RSA key 
+Copy the RSA key and
 
 
 
