@@ -52,7 +52,7 @@ Copy the RSA key and save it crack it with `ssh2john` and `john` :
 </p>
 
 Login in using `ssh` and found user flag :
-
+<p align="center">
   <img width="940" height="649" alt="image" src="https://github.com/user-attachments/assets/a915b003-a192-4cf8-be77-e7cfdb4d6a91" />
 
 
