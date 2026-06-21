@@ -60,7 +60,7 @@ Login in using `ssh` and found user flag :
 62d77a4d5f97d47c5aa38b3b2651b831
 ```
 
-## 2. What is 
+## 2. What is the 
 
 
 
