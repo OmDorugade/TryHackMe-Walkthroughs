@@ -63,7 +63,6 @@ Login in using `ssh` and found user flag :
 ## 2. What is the root flag ?
 Checked the crontab but there are not any other scripts running :
 <p align="center">
-
   <img width="940" height="280" alt="image" src="https://github.com/user-attachments/assets/c43119e5-76e9-42cb-8000-a12a2dde4c02" />
 
 
