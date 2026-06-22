@@ -61,7 +61,7 @@ Login in using `ssh` and found user flag :
 ```
 
 ## 2. What is the root flag ?
-Checked the crontab but there are not any
+Checked the crontab but there are not any 
 
 
 
