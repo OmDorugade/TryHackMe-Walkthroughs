@@ -68,7 +68,7 @@ Checked the crontab but there are not any other scripts running :
 
 Using `find` command we searched for files which have permissions with User SUID :
 
-
+  
 
 
 
