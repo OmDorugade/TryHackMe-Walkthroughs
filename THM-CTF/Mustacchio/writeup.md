@@ -66,7 +66,7 @@ Checked the crontab but there are not any other scripts running :
   <img width="940" height="280" alt="image" src="https://github.com/user-attachments/assets/c43119e5-76e9-42cb-8000-a12a2dde4c02" />
 </p>
 
-Using `find` command we searche
+Using `find` command we searched
 
 
 
