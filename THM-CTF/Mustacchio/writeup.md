@@ -77,4 +77,3 @@ Using `find` command we searched for files which have permissions with User SUID
 
 
 
-
