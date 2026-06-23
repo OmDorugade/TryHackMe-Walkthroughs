@@ -68,7 +68,6 @@ Checked the crontab but there are not any other scripts running :
 
 Using `find` command we searched for files which have permissions with User SUID :
 <p align="center">
-
   <img width="808" height="622" alt="image" src="https://github.com/user-attachments/assets/b8fe0f1d-e911-4acb-bc38-06f14b33b443" />
 
 
