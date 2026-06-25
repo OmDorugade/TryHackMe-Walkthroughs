@@ -78,7 +78,7 @@ The binary used the relative command `tail` instead of the absolute path `/usr/b
 
 What we did is :
 
-1. Modified the PATH  variable to prioritize `/tmp`
+1. Modified the PATH environment variable to prioritize `/tmp`
 
 
 
