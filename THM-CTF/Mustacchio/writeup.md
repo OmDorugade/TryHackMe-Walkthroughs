@@ -72,6 +72,7 @@ Using `find` command we searched for files which have permissions with User SUID
 </p>
 
 The binary used the relative command `tail` instead of the absolute path `/usr/bin/tail` , This made it vulnerable to a PATH hijacking attack :
+<p align="center">
 
   <img width="809" height="448" alt="image" src="https://github.com/user-attachments/assets/ce82876c-59b4-45e1-a7c7-1bb072f8ff0c" />
 
