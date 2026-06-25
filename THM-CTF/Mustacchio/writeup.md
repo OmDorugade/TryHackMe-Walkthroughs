@@ -73,7 +73,7 @@ Using `find` command we searched for files which have permissions with User SUID
 
 The binary used the relative command `tail` instead of the absolute path `/usr/bin/tail` , This made it vulnerable to a PATH hijacking attack :
 
-
+  
 
 
 
