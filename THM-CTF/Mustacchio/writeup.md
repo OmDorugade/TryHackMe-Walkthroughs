@@ -80,7 +80,7 @@ What we did is :
 
 1. Modified the PATH environment variable to prioritize `/tmp`
 
-2. I created a simple script that will execute `/bin/bash` and named it `tail`. I also gave it execution permissions
+2. I created a simple script that will  and named it `tail`. I also gave it execution permissions
 
 
 
