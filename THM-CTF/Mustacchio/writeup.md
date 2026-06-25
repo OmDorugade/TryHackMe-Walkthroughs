@@ -76,7 +76,7 @@ The binary used the relative command `tail` instead of the absolute path `/usr/b
   <img width="809" height="448" alt="image" src="https://github.com/user-attachments/assets/ce82876c-59b4-45e1-a7c7-1bb072f8ff0c" />
 </p>
 
-What we did is 
+What we did is :
 
 
 
