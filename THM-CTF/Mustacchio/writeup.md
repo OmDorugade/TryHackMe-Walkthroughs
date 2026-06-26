@@ -82,7 +82,7 @@ What we did is :
 
 2. I created a simple script that will execute `/bin/bash` and named it `tail`. I also gave it execution permissions
 
-I executed the SUID binary live_log
+3. I executed the SUID binary live_log
 
 
 
