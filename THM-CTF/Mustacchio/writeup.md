@@ -93,7 +93,7 @@ We got root access and got root flag :
 3223581420d906c4dd1a5f9b530393a5
 ```
 
-Room Comp
+Room Compl
 
 
 
