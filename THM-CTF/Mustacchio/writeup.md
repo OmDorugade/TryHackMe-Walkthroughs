@@ -89,7 +89,7 @@ We got root access and got root flag :
   <img width="940" height="341" alt="image" src="https://github.com/user-attachments/assets/d758d1fe-7eb1-4119-9bfd-5dd13d975760" />
 </p>
 
-`
+``
 
 
 
