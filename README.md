@@ -40,7 +40,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 33 | Cyborg | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Cyborg/writeup.md) |
 | 34 | All in One | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/All%20in%20One/writeup.md) |
 | 35 | Overpass | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Overpass/writeup.md) |
-| 36 | Mustacchio | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Overpass/writeup.md) |
+| 36 | Mustacchio | Linux / Web / PrivEsc | [View]() |
 
 
 
