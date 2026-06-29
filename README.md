@@ -43,5 +43,5 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 36 | Mustacchio | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Overpass/writeup.md) |
 
 
-https://github.com/OmDorugade/TryHackMe-Walkthroughs/tree/main/THM-CTF/Mustacchio
+
 
