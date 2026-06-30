@@ -7,7 +7,7 @@
 </div>
 
 ## 1. Enter the key you found!
-Visit the machine ip we found a login 
+Visit the machine ip we found a login page
 
 
 
