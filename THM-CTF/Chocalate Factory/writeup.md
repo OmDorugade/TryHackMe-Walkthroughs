@@ -15,7 +15,7 @@ Visit the machine ip we found a login page :
 Using `nmap` scan for open ports :
 <p align="center">
   <img width="940" height="837" alt="image" src="https://github.com/user-attachments/assets/76d6731e-b4ee-4862-a0b7-d2057d57daf3" />
-<>
+</p>
 
 
 
