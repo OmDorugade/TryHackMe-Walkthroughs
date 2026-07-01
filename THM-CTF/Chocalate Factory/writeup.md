@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/7eb8d82c-b4c5-48ea-9ecd-1d21b1095804" />
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7eb8d82c-b4c5-48ea-9ecd-1d21b1095804" />
 </div>
 
 ## 1. Enter the key you found!
