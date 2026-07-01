@@ -9,7 +9,7 @@
 ## 1. Enter the key you found!
 Visit the machine ip we found a login page :
 
-<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/71a9f71b-7c33-49ba-919d-1365716ea967" />
+  <img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/71a9f71b-7c33-49ba-919d-1365716ea967" />
 
 
 
