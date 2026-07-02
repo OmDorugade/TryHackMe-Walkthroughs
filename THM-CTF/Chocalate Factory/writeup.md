@@ -21,7 +21,7 @@ Using `nmap` scan for open ports :
   <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/c0eb2b05-73fa-4244-814e-bcd87abddd36" />
 </p>
 
-Now we know `ftp` service 
+Now we know `ftp` service is
 
 
 
