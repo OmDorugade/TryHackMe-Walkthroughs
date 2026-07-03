@@ -29,7 +29,7 @@ Now we know `ftp` service is running so we use it for our advantage :
 We found a `jpg` file and extracted it using `steghide` to get hidden files :
 <p align="center">
   <img width="463" height="145" alt="image" src="https://github.com/user-attachments/assets/38d15e1c-9dab-4715-90cb-1ef0b2534813" />
-<
+<>
 
 
 
