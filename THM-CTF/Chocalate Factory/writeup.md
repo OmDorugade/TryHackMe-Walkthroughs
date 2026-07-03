@@ -26,7 +26,7 @@ Now we know `ftp` service is running so we use it for our advantage :
   <img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/d7430c64-79ee-4e58-8ce2-98eaa3e93bb5" />
 </p>
 
-We found a `jpg` file and extracted it using `steghide` 
+We found a `jpg` file and extracted it using `steghide` to
 
 
 
