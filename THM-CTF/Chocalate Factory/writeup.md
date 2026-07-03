@@ -24,7 +24,6 @@ Using `nmap` scan for open ports :
 Now we know `ftp` service is running so we use it for our advantage :
 <p align="center">
   <img width="1707" height="497" alt="image" src="https://github.com/user-attachments/assets/3e2343ae-c140-4d3f-9ab0-a3eecf0836a7" />
-
 </p>
 
 We found a `jpg` file and extracted it using `steghide` to get hidden files :
