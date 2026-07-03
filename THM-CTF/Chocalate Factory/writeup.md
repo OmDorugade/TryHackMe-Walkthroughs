@@ -28,7 +28,7 @@ Now we know `ftp` service is running so we use it for our advantage :
 
 We found a `jpg` file and extracted it using `steghide` to get hidden files :
 
-
+  
 
 
 
