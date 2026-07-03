@@ -23,7 +23,7 @@ Using `nmap` scan for open ports :
 
 Now we know `ftp` service is running so we use it for our advantage :
 
-<img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/d7430c64-79ee-4e58-8ce2-98eaa3e93bb5" />
+  <img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/d7430c64-79ee-4e58-8ce2-98eaa3e93bb5" />
 
 
 
