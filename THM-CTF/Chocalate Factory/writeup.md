@@ -33,7 +33,7 @@ We found a `jpg` file and extracted it using `steghide` to get hidden files :
 
 We read the `b64` txt file :
 
-
+  
 
 
 
