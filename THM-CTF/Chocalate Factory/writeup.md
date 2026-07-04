@@ -33,3 +33,12 @@ We found a `jpg` file and extracted it using `steghide` to get hidden files :
 
 
 
+
+
+
+
+
+
+
+
+
