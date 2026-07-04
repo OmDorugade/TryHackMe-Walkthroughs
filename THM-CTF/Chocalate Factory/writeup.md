@@ -31,7 +31,7 @@ We found a `jpg` file and extracted it using `steghide` to get hidden files :
   <img width="463" height="145" alt="image" src="https://github.com/user-attachments/assets/38d15e1c-9dab-4715-90cb-1ef0b2534813" />
 </p>
 
-We read the
+We read the 
 
 
 
