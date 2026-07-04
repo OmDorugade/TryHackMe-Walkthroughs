@@ -32,6 +32,7 @@ We found a `jpg` file and extracted it using `steghide` to get hidden files :
 </p>
 
 We read the `b64` txt file :
+<p align="center">
 
   <img width="940" height="754" alt="image" src="https://github.com/user-attachments/assets/0b93405b-d941-45d3-aecc-18c6294c0d57" />
 
