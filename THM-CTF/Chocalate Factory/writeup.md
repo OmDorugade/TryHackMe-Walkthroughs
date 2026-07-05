@@ -38,7 +38,7 @@ We read the `b64` txt file :
 
 Decode the data using `base64decode.org` and found a username `charlie` and its password hash :
 
-
+  
 
 
 
