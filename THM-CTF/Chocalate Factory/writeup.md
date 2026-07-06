@@ -37,7 +37,7 @@ We read the `b64` txt file :
 </p>
 
 Decode the data using `base64decode.org` and found a username `charlie` and its password hash :
-<p align="center">s
+<p align="center">
   <img width="940" height="671" alt="image" src="https://github.com/user-attachments/assets/721d01a8-68b4-4a96-a8b0-1f618e346757" />
 </p>
 
