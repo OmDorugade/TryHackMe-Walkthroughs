@@ -46,7 +46,7 @@ Using `hashes.com` identify the hash :
   <img width="940" height="305" alt="image" src="https://github.com/user-attachments/assets/442c2edb-5b7c-4b87-8530-fede95d25594" />
 </p>
 
-Now we know that hash is `sha512crypt` we 
+Now we know that hash is `sha512crypt` we used
 
 
 
