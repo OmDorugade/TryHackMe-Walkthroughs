@@ -49,7 +49,7 @@ Using `hashes.com` identify the hash :
 Now we know that hash is `sha512crypt` we used `john` to crack the password :
 <p align="center">
   <img width="940" height="298" alt="image" src="https://github.com/user-attachments/assets/0130fa5d-b116-494a-9855-ac1358b6ad51" />
-<
+<>
 
 
 
