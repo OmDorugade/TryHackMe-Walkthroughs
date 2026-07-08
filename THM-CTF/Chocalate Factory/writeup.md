@@ -48,7 +48,7 @@ Using `hashes.com` identify the hash :
 
 Now we know that hash is `sha512crypt` we used `john` to crack the password :
 
-
+  
 
 
 
