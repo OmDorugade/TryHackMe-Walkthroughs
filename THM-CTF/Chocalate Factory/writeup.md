@@ -53,7 +53,7 @@ Now we know that hash is `sha512crypt` we used `john` to crack the password :
 
 Look at the `nmap` scan we have a file `key_rev_key` download it and read the file :
 
-
+  
 
 
 
