@@ -41,7 +41,7 @@ Decode the data using `base64decode.org` and found a username `charlie` and its 
   <img width="940" height="671" alt="image" src="https://github.com/user-attachments/assets/721d01a8-68b4-4a96-a8b0-1f618e346757" />
 </p>
 
-##
+## 
 
 Using `hashes.com` identify the hash :
 <p align="center">
