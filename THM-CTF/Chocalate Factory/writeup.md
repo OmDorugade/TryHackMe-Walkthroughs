@@ -66,7 +66,7 @@ b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='
 ```
 
 ## 2. Enter the user flag
-Using the password we cracked for user `charlie` we logged in `ssh`
+Using the password we cracked for user `charlie` we logged in `ssh` 
 
 
 
