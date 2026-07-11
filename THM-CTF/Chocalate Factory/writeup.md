@@ -66,7 +66,7 @@ b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='
 ```
 
 ## 2. Enter the user flag
-Using 
+Using the
 
 
 
