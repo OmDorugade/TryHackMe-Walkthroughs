@@ -78,4 +78,3 @@ Using the password we cracked for user `charlie` we logged in `ssh` :
 
 
 
-
