@@ -72,7 +72,7 @@ Using the password we cracked for user `charlie` we logged in `ssh` and got user
 </p>
 
 ```
-
+flag{cd5509042371b34e4826e4838b522d2e}
 ```
 
 
