@@ -69,7 +69,7 @@ b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='
 Using the password we cracked for user `charlie` we logged in `ssh` :
 <p align="center">
   <img width="892" height="458" alt="image" src="https://github.com/user-attachments/assets/ad1372d7-0392-4d23-9e37-49720150bd0f" />
-
+<
 
 
 
