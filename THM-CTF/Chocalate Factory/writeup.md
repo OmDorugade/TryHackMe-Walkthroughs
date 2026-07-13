@@ -75,7 +75,7 @@ Using the password we cracked for user `charlie` we logged in `ssh` and got user
 flag{cd5509042371b34e4826e4838b522d2e}
 ```
 
-## 3.  the root flag
+## 3. Enter the root flag
 
 
 
