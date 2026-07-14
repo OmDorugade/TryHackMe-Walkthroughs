@@ -83,7 +83,7 @@ Using `sudo -l` we check for permissions :
 
 Search on gftobins and found this below command :
 
-
+  
 
 
 
