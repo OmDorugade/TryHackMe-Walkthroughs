@@ -77,7 +77,7 @@ flag{cd5509042371b34e4826e4838b522d2e}
 
 ## 3. Enter the root flag
 Using `sudo -l` we check for permissions :
-
+<p align="center">
   <img width="940" height="95" alt="image" src="https://github.com/user-attachments/assets/0ce89a64-0165-412b-8598-f28bbd88e48d" />
 
 
