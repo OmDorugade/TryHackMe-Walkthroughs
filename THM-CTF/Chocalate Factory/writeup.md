@@ -84,3 +84,11 @@ Using `sudo -l` we check for permissions :
 
 
 
+
+
+
+
+
+
+
+
