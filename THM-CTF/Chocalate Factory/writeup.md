@@ -81,7 +81,7 @@ Using `sudo -l` we check for permissions :
   <img width="940" height="95" alt="image" src="https://github.com/user-attachments/assets/0ce89a64-0165-412b-8598-f28bbd88e48d" />
 </p>
 
-Search on 
+Search on gftobins
 
 
 
