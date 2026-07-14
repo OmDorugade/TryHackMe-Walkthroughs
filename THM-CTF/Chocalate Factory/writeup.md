@@ -78,7 +78,7 @@ flag{cd5509042371b34e4826e4838b522d2e}
 ## 3. Enter the root flag
 Using `sudo -l` we check for permissions :
 
-
+  
 
 
 
