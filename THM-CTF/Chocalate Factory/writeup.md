@@ -88,7 +88,7 @@ Search on gftobins and found this below command :
 
 Using the above command we are root :
 
-
+  
 
 
 
