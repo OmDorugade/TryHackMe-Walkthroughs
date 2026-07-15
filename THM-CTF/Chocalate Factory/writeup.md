@@ -86,7 +86,7 @@ Search on gftobins and found this below command :
   <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/17641920-91ff-404c-94f1-1552cbe918d1" />
 </p>
 
-Using the above command we are root :
+Using the above command we are root and:
 <p align="center">
   <img width="940" height="150" alt="image" src="https://github.com/user-attachments/assets/81094fb6-5587-45bf-ac31-fb185dad30ea" />
 </p>
