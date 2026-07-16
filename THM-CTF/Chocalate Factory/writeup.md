@@ -93,7 +93,7 @@ Using the above command we are root and found a python file :
 
 Using python3 we run the root.py script :
 
-
+  
 
 
 
