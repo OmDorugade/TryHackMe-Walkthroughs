@@ -91,7 +91,7 @@ Using the above command we are root and found a python file :
   <img width="940" height="150" alt="image" src="https://github.com/user-attachments/assets/81094fb6-5587-45bf-ac31-fb185dad30ea" />
 </p>
 
-Using python3 we run
+Using python3 we run 
 
 
 
