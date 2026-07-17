@@ -93,7 +93,8 @@ Using the above command we are root and found a python file :
 
 Using python3 we run the root.py script and it asked for key :
 
-  
+  <img width="940" height="765" alt="image" src="https://github.com/user-attachments/assets/1779cce9-36ee-45e8-8252-a0a2bcd54570" />
+
 
 
 
