@@ -91,7 +91,7 @@ Using the above command we are root and found a python file :
   <img width="940" height="150" alt="image" src="https://github.com/user-attachments/assets/81094fb6-5587-45bf-ac31-fb185dad30ea" />
 </p>
 
-Using python3 we run the root.py script and it asked for key which we found in:
+Using python3 we run the root.py script and it asked for key which we found in :
 
   <img width="940" height="765" alt="image" src="https://github.com/user-attachments/assets/1779cce9-36ee-45e8-8252-a0a2bcd54570" />
 
