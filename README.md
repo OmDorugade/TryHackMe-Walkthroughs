@@ -44,5 +44,5 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 37 | Chocalate Factory | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Chocalate%20Factory/writeup.md) |
 
 
-https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Chocalate%20Factory/writeup.md
+
 
