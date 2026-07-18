@@ -101,7 +101,6 @@ flag{cec59161d338fef787fcb4e296b42124}
 ```
 
 
-Room Completed !
 
 
 
