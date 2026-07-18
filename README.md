@@ -44,5 +44,5 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 36 | Mustacchio | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Mustacchio/writeup.md) |
 
 
-
+https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Chocalate%20Factory/writeup.md
 
