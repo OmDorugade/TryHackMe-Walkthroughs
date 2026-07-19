@@ -10,6 +10,7 @@ This Rick and Morty-themed challenge requires you to exploit a web server and fi
 
 Deploy the virtual machine on this task and explore the web application.
 
+
 ## 1. What is the first ingredient that Rick needs?
 
 Checking the page-source of the website and we found a username
