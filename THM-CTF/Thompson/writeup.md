@@ -1,4 +1,4 @@
-# <div align="center">[Psycho Break](https://tryhackme.com/room/psychobreak)</div>
+# <div align="center">[](https://tryhackme.com/room/psychobreak)</div>
 <div align="center">Help Sebastian and his team of investigators to withstand the dangers that come ahead.
 </div>
 
