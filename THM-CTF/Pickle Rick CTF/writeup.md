@@ -10,7 +10,6 @@ This Rick and Morty-themed challenge requires you to exploit a web server and fi
 </div>
 
 
-
 ## 1. What is the first ingredient that Rick needs?
 
 Checking the page-source of the website and we found a username
