@@ -1,5 +1,5 @@
 # <div align="center">[Thompson](https://tryhackme.com/room/bsidesgtthompson)</div>
-<div align="center">boot2root machine for FIT and bsides guatemala CTF.
+<div align="center">boot2root machine for FIT and bsides guatemala CTF
 </div>
 
 <div align="center">
