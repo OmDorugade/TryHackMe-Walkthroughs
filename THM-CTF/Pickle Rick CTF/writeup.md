@@ -5,6 +5,7 @@
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11680573-eff1-4d0c-ac75-76e89c84b708" />
 </div>
 
+<div align="center">
 This Rick and Morty-themed challenge requires you to exploit a web server and find three ingredients to help Rick make his potion and transform himself back into a human from a pickle.
 
 Deploy the virtual machine on this task and explore the web application.
