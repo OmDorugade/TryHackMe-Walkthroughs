@@ -7,7 +7,7 @@
 </div>
 
 ## 1. user.txt
-Using `nma
+Using `nmap
 
 
 
