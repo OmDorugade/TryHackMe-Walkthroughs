@@ -7,7 +7,7 @@
 </div>
 
 ## 1. user.txt
-Using `nmap` we scanned the machines
+Using `nmap` we scanned the machine
 
 
 
