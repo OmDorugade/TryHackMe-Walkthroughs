@@ -7,7 +7,7 @@
 </div>
 
 ## 1. user.txt
-Using `nmap` we sca
+Using `nmap` we scanned
 
 
 
