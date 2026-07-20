@@ -10,7 +10,7 @@
 Using `nmap` we scanned the machine :
 <p align="center">
   <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/2c952681-6831-4506-9d86-0cffe024476e" />
-<>
+</p>
 
 
 
