@@ -14,7 +14,7 @@ Using `nmap` we scanned the machine :
 
 Putting ip on web browser we found Apache Tomcat :
 
-
+  
 
 
 
