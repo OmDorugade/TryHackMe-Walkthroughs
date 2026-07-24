@@ -20,7 +20,7 @@ Putting ip on web browser we found Apache Tomcat :
 We click the `Manager App button`. It asks for a username and password. When we click cancel, the website gives an error :
 <p align="center">
   <img width="940" height="397" alt="image" src="https://github.com/user-attachments/assets/060e2ff5-2c66-4553-87f4-93e2d3f53e01" />
-<>
+</p>
 
 
 
