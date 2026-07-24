@@ -19,7 +19,7 @@ Putting ip on web browser we found Apache Tomcat :
 
 We click the `Manager App button`. It asks for a username and password. When we click cancel, the website gives an error :
 
-
+  
 
 
 
