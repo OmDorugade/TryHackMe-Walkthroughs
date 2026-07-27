@@ -39,7 +39,7 @@ We uploaded reverse.phtml which has reverse shell code but we can only upload .w
 
 Searching online about reverse shell in war file we found we can create with `msfvenom` :
 
-
+  
 
 
 
