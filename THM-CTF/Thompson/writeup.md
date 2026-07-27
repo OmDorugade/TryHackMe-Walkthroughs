@@ -39,3 +39,19 @@ We uploaded reverse.phtml which has reverse shell code but we can only upload .w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
