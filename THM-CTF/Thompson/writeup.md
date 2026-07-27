@@ -37,7 +37,7 @@ We uploaded reverse.phtml which has reverse shell code but we can only upload .w
   <img width="940" height="126" alt="image" src="https://github.com/user-attachments/assets/2393fed6-e1e7-421a-a4d0-38e0de3b3819" />
 </p>
 
-Searching online about reverse shell in
+Searching online about reverse shell in 
 
 
 
