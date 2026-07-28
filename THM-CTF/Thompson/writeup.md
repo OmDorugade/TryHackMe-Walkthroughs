@@ -44,7 +44,8 @@ Searching online about reverse shell in war file we found we can create with `ms
 
 We created payload on our machine :
 
-  
+  <img width="940" height="93" alt="image" src="https://github.com/user-attachments/assets/95bbd896-f58e-45d4-a4da-39cbe42854ea" />
+
 
 
 
