@@ -42,7 +42,7 @@ Searching online about reverse shell in war file we found we can create with `ms
   <img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/916d85a7-abb1-412f-93f3-39bf67e8147c" />
 </p>
 
-We created payload on our machine
+We created payload on our machine 
 
 
 
