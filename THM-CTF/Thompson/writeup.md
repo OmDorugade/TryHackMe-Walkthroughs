@@ -39,7 +39,8 @@ We uploaded reverse.phtml which has reverse shell code but we can only upload .w
 
 Searching online about reverse shell in war file we found we can create with `msfvenom` :
 
-  
+  <img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/916d85a7-abb1-412f-93f3-39bf67e8147c" />
+
 
 
 
