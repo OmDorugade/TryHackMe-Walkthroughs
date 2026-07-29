@@ -47,7 +47,7 @@ We created payload on our machine :
   <img width="940" height="93" alt="image" src="https://github.com/user-attachments/assets/95bbd896-f58e-45d4-a4da-39cbe42854ea" />
 </p>
 
-Upload created shell.war on the target website
+Upload created shell.war on the target website 
 
 
 
