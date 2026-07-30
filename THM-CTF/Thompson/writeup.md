@@ -53,7 +53,7 @@ Upload created shell.war on the target website :
 </p>
 
 We can view our file on manager page under Application section :
-
+<p align="center">
   <img width="940" height="369" alt="image" src="https://github.com/user-attachments/assets/3da9e5d9-6835-43ca-937a-9ed61a1388b3" />
 </p>
 
