@@ -54,4 +54,3 @@ Upload created shell.war on the target website :
 
 We can view our file on manager page under
 
-
