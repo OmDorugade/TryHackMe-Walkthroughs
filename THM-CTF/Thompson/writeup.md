@@ -67,3 +67,5 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
 
 
 
+
+
