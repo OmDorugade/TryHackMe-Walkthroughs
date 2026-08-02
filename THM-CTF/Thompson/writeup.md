@@ -75,4 +75,3 @@ We got reverse shell access on our machine and got user.txt :
 
 
 
-
