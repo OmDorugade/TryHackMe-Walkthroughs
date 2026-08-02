@@ -60,7 +60,7 @@ We can view our file on manager page under Application section :
 Set up a netcat listener and click on the shell file we uploaded to get reverse shell on our machine :
 
  
-We got reverse shell access on our machine and got user.txt :
+We got reverse shell access on our and got user.txt :
 
 
 
