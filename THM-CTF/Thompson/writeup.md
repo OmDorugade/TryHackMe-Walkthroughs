@@ -63,7 +63,6 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
 </p>
  
 We did `sudo -l` but got nothing so we check `crontab` to check any file running other
-
   
 
 
