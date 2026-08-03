@@ -58,7 +58,7 @@ We can view our file on manager page under Application section :
 </p>
 
 Set up a netcat listener and click on the shell file we uploaded to get reverse shell on our machine :
-<p align="center">
+<p align="">
   <img width="927" height="572" alt="image" src="https://github.com/user-attachments/assets/90851019-f982-471f-b95d-9021110d715a" />
 
  
