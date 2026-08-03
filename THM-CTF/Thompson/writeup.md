@@ -64,7 +64,7 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
  
 We got reverse shell access on our machine and got user.txt :
 
-
+  
 
 
 
