@@ -66,7 +66,9 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
 39400c90bc683a41a8935e4719f181bf
 ```
 
-## 2.
+## 2. root.txt
+
+
 
 We did `sudo -l` but got nothing so we check `crontab` to check any unusual file running and found `id.sh` running :
 <p align="center">
