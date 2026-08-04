@@ -61,7 +61,9 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
 <p align="center">
   <img width="927" height="572" alt="image" src="https://github.com/user-attachments/assets/90851019-f982-471f-b95d-9021110d715a" />
 </p>
- 
+
+
+
 We did `sudo -l` but got nothing so we check `crontab` to check any unusual file running and found `id.sh` running :
 <p align="center">
   <img width="940" height="294" alt="image" src="https://github.com/user-attachments/assets/00fb02a0-ddee-4cb6-b805-1e7e17088a96" />
