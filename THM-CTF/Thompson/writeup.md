@@ -67,7 +67,8 @@ We did `sudo -l` but got nothing so we check `crontab` to check any unusual file
   <img width="940" height="294" alt="image" src="https://github.com/user-attachments/assets/00fb02a0-ddee-4cb6-b805-1e7e17088a96" />
 </p>
 
-Using `cat` we read the file 
+Using `cat` we read the file :
+
 
 
 
