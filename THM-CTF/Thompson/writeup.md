@@ -67,9 +67,6 @@ Set up a netcat listener and click on the shell file we uploaded to get reverse 
 ```
 
 ## 2. root.txt
-
-
-
 We did `sudo -l` but got nothing so we check `crontab` to check any unusual file running and found `id.sh` running :
 <p align="center">
   <img width="940" height="294" alt="image" src="https://github.com/user-attachments/assets/00fb02a0-ddee-4cb6-b805-1e7e17088a96" />
