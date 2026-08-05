@@ -79,7 +79,7 @@ Using `cat` we read the file :
 
 Search online how to use or change SUID permissions and found this :
 
-
+  
 
 
 
