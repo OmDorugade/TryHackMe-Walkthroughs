@@ -77,7 +77,7 @@ Using `cat` we read the file :
   <img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/530b1e16-dd48-4783-a371-e4f4513a8f9a" />
 </p>
 
-Search online how to use
+Search online how to use SUID
 
 
 
