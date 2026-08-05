@@ -84,5 +84,5 @@ Search online how to use or change SUID permissions and found this :
 
 Did the changes in `id.sh` and got the root.txt :
 
-
+  
 
