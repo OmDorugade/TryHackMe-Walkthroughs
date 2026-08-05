@@ -96,9 +96,3 @@ Did the changes in `id.sh` and got the root.txt :
 
 
 
-
-
-
-
-
-
