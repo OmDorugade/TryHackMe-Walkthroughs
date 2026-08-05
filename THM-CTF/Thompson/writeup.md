@@ -84,5 +84,6 @@ Search online how to use or change SUID permissions and found this :
 
 Did the changes in `id.sh` and got the root.txt :
 
-  
+  <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/fb7e241f-25c7-4c5b-a2d3-3cf5540502ee" />
+
 
