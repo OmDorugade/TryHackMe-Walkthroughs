@@ -42,7 +42,7 @@ TryHackMe walkthroughs and CTF writeups created for self-practice and to help ot
 | 35 | Overpass | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Overpass/writeup.md) |
 | 36 | Mustacchio | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Mustacchio/writeup.md) |
 | 37 | Chocalate Factory | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Chocalate%20Factory/writeup.md) |
-| 38 | Chocalate Factory | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Thompson/writeup.md) |
+| 38 |  | Linux / Web / PrivEsc | [View](https://github.com/OmDorugade/TryHackMe-Walkthroughs/blob/main/THM-CTF/Thompson/writeup.md) |
 
 
 
