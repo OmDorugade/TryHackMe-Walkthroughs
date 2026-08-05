@@ -80,7 +80,7 @@ Using `cat` we read the file :
 Search online how to use or change SUID permissions and found this :
 <p align="center">
   <img width="940" height="756" alt="image" src="https://github.com/user-attachments/assets/4ffaf562-6701-4b1b-9a01-114a715bfb74" />
-
+</p>
 
 
 
