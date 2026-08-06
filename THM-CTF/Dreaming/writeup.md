@@ -1,5 +1,5 @@
 # <div align="center">[Dreaming](https://tryhackme.com/room/dreaming)</div>
-<div align="center">boot2root machine for FIT and bsides guatemala CTF
+<div align="center">
 </div>
 
 <div align="center">
