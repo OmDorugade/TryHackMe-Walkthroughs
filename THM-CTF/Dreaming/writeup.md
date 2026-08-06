@@ -9,7 +9,8 @@
 ## 1. What is the Lucien Flag?
 Using `nmap` we scan the machine for open ports and service detection with `nmap` default scripts :
 
-  
+  <img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/bb2043f9-12f6-4ce0-a085-4524e88e2fa1" />
+
 
 
 
