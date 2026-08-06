@@ -7,7 +7,7 @@
 </div>
 
 ## 1. What is the Lucien Flag?
-Using `nmap` we scan the machine
+Using `nmap` we scan the machine for
 
 
 
