@@ -24,4 +24,3 @@ Using `nmap` we scan the machine for open ports and service detection with `nmap
 
 
 
-
