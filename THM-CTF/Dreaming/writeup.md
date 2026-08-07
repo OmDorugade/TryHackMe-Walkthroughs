@@ -14,7 +14,7 @@ Using `nmap` we scan the machine for open ports and service detection with `nmap
 
 Found Apache2 Default Page Running :
 
-
+  
 
 
 
