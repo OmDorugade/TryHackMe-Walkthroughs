@@ -17,7 +17,7 @@ Found Apache2 Default Page Running :
   <img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/804a4092-2214-4457-9167-be35f7bfd4e7" />
 </p>
 
-Using `gobuster` we did directory brute force and 
+Using `gobuster` we did directory brute force and found
 
 
 
