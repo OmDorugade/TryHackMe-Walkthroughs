@@ -15,7 +15,7 @@ Using `nmap` we scan the machine for open ports and service detection with `nmap
 Found Apache2 Default Page Running :
 <p align="center">
   <img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/804a4092-2214-4457-9167-be35f7bfd4e7" />
-<
+<>
 
 
 
