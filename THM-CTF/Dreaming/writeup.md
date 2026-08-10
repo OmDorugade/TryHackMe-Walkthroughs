@@ -27,3 +27,11 @@ Using `gobuster` we did directory brute force and found a path :
 
 
 
+
+
+
+
+
+
+
+
