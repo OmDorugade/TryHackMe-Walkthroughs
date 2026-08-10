@@ -19,7 +19,7 @@ Found Apache2 Default Page Running :
 
 Using `gobuster` we did directory brute force and found a path :
 
-
+  
 
 
 
