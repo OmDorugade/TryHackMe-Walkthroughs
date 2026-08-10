@@ -20,7 +20,7 @@ Found Apache2 Default Page Running :
 Using `gobuster` we did directory brute force and found a path :
 <p align="center">
   <img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/c3c3b3be-084b-4382-bc68-1cbd458fbb77" />
-
+<
 
 
 
