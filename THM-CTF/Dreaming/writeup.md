@@ -24,7 +24,7 @@ Using `gobuster` we did directory brute force and found a path :
 
 Visit the path we found :
 
-
+  
 
 
 
