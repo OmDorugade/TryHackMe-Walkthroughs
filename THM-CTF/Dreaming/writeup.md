@@ -32,4 +32,3 @@ Visit the path and we found a folder named pluck:
 
 
 
-
