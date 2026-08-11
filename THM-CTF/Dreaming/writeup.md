@@ -23,7 +23,7 @@ Using `gobuster` we did directory brute force and found a path :
 </p>
 
 Visit the path we found :
-
+<p align="center">
   <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/7764a5b7-3f5b-48cc-b15f-a728905cc2ed" />
 
 
