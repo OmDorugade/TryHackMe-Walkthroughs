@@ -27,7 +27,7 @@ Visit the path and we found a folder named pluck:
   <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/7764a5b7-3f5b-48cc-b15f-a728905cc2ed" />
 </p>
 
-Opening 
+Opening the fodler
 
 
 
