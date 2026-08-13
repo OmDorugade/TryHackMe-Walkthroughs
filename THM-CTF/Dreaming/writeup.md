@@ -30,7 +30,7 @@ Visit the path and we found a folder named pluck:
 Opening the folder we got a webpage :
 <p align="center">
   <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/fb6673f5-c900-4f82-9310-466ed9aed3fc" />
-
+<
 
 
 
