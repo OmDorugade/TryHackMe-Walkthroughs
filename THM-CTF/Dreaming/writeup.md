@@ -32,7 +32,7 @@ Opening the folder we got a webpage :
   <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/fb6673f5-c900-4f82-9310-466ed9aed3fc" />
 </p>
 
-Click on admin word we will get a login page which:
+Click on admin word we will get a login page which will:
 
   <img width="940" height="400" alt="image" src="https://github.com/user-attachments/assets/d9a57bec-dea8-4bbc-a2c7-00e968ba8f3c" />
 
