@@ -34,7 +34,7 @@ Opening the folder we got a webpage :
 
 Click on admin word we will get a login page :
 
-
+  
 
 
 
