@@ -44,4 +44,3 @@ Click on admin word we will get a login page which will ask for a password :
 
 
 
-
