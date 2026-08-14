@@ -37,7 +37,7 @@ Click on admin word we will get a login page which will ask for a password :
   <img width="940" height="400" alt="image" src="https://github.com/user-attachments/assets/d9a57bec-dea8-4bbc-a2c7-00e968ba8f3c" />
 </p>
 
-Trying Common passwords we found the
+Trying Common passwords we found the 
 
 
 
