@@ -38,6 +38,7 @@ Click on admin word we will get a login page which will ask for a password :
 </p>
 
 Trying Common passwords we found the password is `password` :
+<p align="center">
 
   <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/fb70d1e8-9631-4b37-b1b9-f0bdaaaa614d" />
 
