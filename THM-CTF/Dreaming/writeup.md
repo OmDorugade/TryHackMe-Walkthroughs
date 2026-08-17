@@ -42,7 +42,7 @@ Trying Common passwords we found the password is `password` :
   <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/fb70d1e8-9631-4b37-b1b9-f0bdaaaa614d" />
 </p>
 
-We found it using `pluck` as CMS and the version
+We found it using `pluck` as CMS and the version 
 
 
 
