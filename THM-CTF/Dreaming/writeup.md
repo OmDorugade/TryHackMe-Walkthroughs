@@ -52,4 +52,3 @@ We found it using `pluck` as CMS and the version is `4.7.13` which is vulnerable
 
 
 
-
