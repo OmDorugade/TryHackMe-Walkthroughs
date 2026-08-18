@@ -44,7 +44,7 @@ Trying Common passwords we found the password is `password` :
 
 We found it using `pluck` as CMS and the version is `4.7.13` which is vulnerable we found this on `ExploitDB` :
 
-
+  
 
 
 
