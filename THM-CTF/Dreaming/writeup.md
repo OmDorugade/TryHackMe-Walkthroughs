@@ -43,6 +43,7 @@ Trying Common passwords we found the password is `password` :
 </p>
 
 We found it using `pluck` as CMS and the version is `4.7.13` which is vulnerable we found this on `ExploitDB` :
+<p align="center">
 
   <img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/7256dddf-ce82-4efe-b4d1-80fd3ba2bce0" />
 
