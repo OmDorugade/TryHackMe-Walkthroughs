@@ -49,7 +49,7 @@ We found it using `pluck` as CMS and the version is `4.7.13` which is vulnerable
 
 Download the exploit and look if we have to make any changes :
 
-
+  
 
 
 
