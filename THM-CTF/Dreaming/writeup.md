@@ -50,7 +50,7 @@ We found it using `pluck` as CMS and the version is `4.7.13` which is vulnerable
 Download the exploit and look if we have to make any changes :
 <p align="center">
   <img width="940" height="744" alt="image" src="https://github.com/user-attachments/assets/1b3a6f80-5d68-40cd-ac24-9d4bb26d377d" />
-
+<
 
 
 
