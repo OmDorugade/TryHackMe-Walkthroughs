@@ -59,7 +59,6 @@ Upload it on target machine :
 
 We have uploaded `p0wnyshell` script on target machine and to get better terminal used `revshells.com` command :
 <p align="center">
-
   <img width="940" height="649" alt="image" src="https://github.com/user-attachments/assets/c8d7dc9e-4c65-4e53-9d33-4d55810b05ec" />
 
 
