@@ -57,7 +57,7 @@ Upload it on target machine :
   <img width="940" height="158" alt="image" src="https://github.com/user-attachments/assets/cd2e1728-59e8-42f3-9875-1fa88328821b" />
 </p>
 
-We have uploaded `p0wnyshell` script on target machine and to get better terminal used ``:
+We have uploaded `p0wnyshell` script on target machine and to get better terminal used `revshells.com`:
 
   <img width="940" height="649" alt="image" src="https://github.com/user-attachments/assets/c8d7dc9e-4c65-4e53-9d33-4d55810b05ec" />
 
