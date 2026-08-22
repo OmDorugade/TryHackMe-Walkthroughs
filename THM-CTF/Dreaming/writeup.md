@@ -62,7 +62,7 @@ We have uploaded `p0wnyshell` script on target machine and to get better termina
   <img width="940" height="649" alt="image" src="https://github.com/user-attachments/assets/c8d7dc9e-4c65-4e53-9d33-4d55810b05ec" />
 </p>
 
-Started `netcat` 
+Started `netcat` listner
 
 
 
