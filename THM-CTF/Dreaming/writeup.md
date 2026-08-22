@@ -64,7 +64,7 @@ We have uploaded `p0wnyshell` script on target machine and to get better termina
 
 Started `netcat` listner on our machine and got reverse shell :
 
-
+  
 
 
 
