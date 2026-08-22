@@ -64,7 +64,6 @@ We have uploaded `p0wnyshell` script on target machine and to get better termina
 
 Started `netcat` listner on our machine and got reverse shell :
 <p align="center">
-
   <img width="938" height="766" alt="image" src="https://github.com/user-attachments/assets/92745c6b-8c54-4e44-8f99-50b851fd2ea8" />
 
 
