@@ -74,4 +74,3 @@ Started `netcat` listner on our machine and got reverse shell :
 
 
 
-
