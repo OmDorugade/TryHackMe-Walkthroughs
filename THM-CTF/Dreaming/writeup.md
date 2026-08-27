@@ -69,6 +69,6 @@ Started `netcat` listner on our machine and got reverse shell :
 
 There were two scripts in python in `opt` folder :
 
-
+  
 
 
