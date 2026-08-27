@@ -67,7 +67,7 @@ Started `netcat` listner on our machine and got reverse shell :
   <img width="938" height="766" alt="image" src="https://github.com/user-attachments/assets/92745c6b-8c54-4e44-8f99-50b851fd2ea8" />
 </p>
 
-There were two scripts in
+There were two scripts in 
 
 
 
