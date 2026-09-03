@@ -74,7 +74,7 @@ There were two scripts in python in `opt` folder :
 
 We read the `test.py` file and found a password :
 
-
+  
 
 
 
