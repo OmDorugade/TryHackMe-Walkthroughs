@@ -72,7 +72,7 @@ There were two scripts in python in `opt` folder :
   <img width="940" height="276" alt="image" src="https://github.com/user-attachments/assets/26ca32ae-2ca5-4b60-bb18-516dc09f1d47" />
 </p>
 
-We read the `test.py` file
+We read the `test.py` file 
 
 
 
