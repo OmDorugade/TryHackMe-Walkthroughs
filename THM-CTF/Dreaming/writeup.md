@@ -73,7 +73,7 @@ There were two scripts in python in `opt` folder :
 </p>
 
 We read the `test.py` file and found a password :
-
+<p align="center">
   <img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/ed99129a-aca1-4647-9f9f-f431990e9296" />
 
 
