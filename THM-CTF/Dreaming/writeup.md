@@ -79,7 +79,8 @@ We read the `test.py` file and found a password :
 
 Using `ssh` we gain access :
 <p align="center">
-  
+  <img width="731" height="188" alt="image" src="https://github.com/user-attachments/assets/a88b8878-7cae-4bed-ae31-d5480c1981f0" />
+</p>
 
 
 
