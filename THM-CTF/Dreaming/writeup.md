@@ -74,7 +74,8 @@ There were two scripts in python in `opt` folder :
 
 We read the `test.py` file and found a password :
 <p align="center">
-  
+  <img width="1108" height="661" alt="image" src="https://github.com/user-attachments/assets/4ad18c62-2184-4d16-8e7e-4945a43594f2" />
+
 </p>
 
 Using `ssh` we gain access : 
