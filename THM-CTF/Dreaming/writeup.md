@@ -83,7 +83,7 @@ Using `ssh` we gain access :
 </p>
 
 ```
-THM{TH3_*********}
+THM{TH*_*********}
 ```
 
 
