@@ -87,7 +87,7 @@ THM{TH*_*********}
 ```
 
 ## 2. What is the Death Flag?
-We did `sudo -l` and 
+We did `sudo -l` and found
 
 
 
