@@ -90,7 +90,7 @@ THM{TH*_*********}
 We did `sudo -l` and found a script is running :
 <p align="center">
   <img width="940" height="182" alt="image" src="https://github.com/user-attachments/assets/8e5eece5-cd80-440a-9dab-3710822e13d5" />
-<>
+</p>
 
 
 
