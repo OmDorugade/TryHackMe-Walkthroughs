@@ -89,7 +89,6 @@ THM{TH*_*********}
 ## 2. What is the Death Flag?
 We looked at the `bash_history` and found this credentials :
 <p align="center">
-
   <img width="1052" height="713" alt="image" src="https://github.com/user-attachments/assets/1c537f38-4752-41d6-8c8d-2f4744058a1d" />
 
 
