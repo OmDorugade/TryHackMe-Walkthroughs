@@ -106,9 +106,3 @@ We did `sudo -l` and found a script is running :
 
 
 
-
-
-
-
-
-
