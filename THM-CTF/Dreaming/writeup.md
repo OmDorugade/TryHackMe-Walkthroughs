@@ -87,7 +87,7 @@ THM{TH*_*********}
 ```
 
 ## 2. What is the Death Flag?
-We looked at the ``
+We looked at the `bash_history`
 
 
 
