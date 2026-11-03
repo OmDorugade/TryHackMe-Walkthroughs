@@ -94,6 +94,7 @@ We looked at the `bash_history` and found this credentials :
 
 
 
+<img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/6a4a7bfc-ef5e-4a79-8f06-9deff4e9276e" />
 
 
 
