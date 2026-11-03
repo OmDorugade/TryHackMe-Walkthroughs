@@ -99,8 +99,8 @@ Using the credentials and using mysql we injected reverse shell command :
 </p>
 
 Start a `netcat` listener on our machine :
-
-
+<p align="center">
+  
 
 
 
