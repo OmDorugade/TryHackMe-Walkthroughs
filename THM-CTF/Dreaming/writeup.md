@@ -100,7 +100,8 @@ Using the credentials and using mysql we injected reverse shell command :
 
 Start a `netcat` listener on our machine and wait for connection :
 <p align="center">
-  
+  <img width="936" height="597" alt="image" src="https://github.com/user-attachments/assets/bdbe3bcb-9c74-46ed-b567-510364b6f068" />
+
 
 
 
