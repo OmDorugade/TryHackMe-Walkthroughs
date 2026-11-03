@@ -103,4 +103,3 @@ Using the credentials and using mysql we injected reverse shell command :
 
 
 
-
