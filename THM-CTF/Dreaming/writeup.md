@@ -98,7 +98,7 @@ Using the credentials and using mysql we injected reverse shell command :
   <img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/6a4a7bfc-ef5e-4a79-8f06-9deff4e9276e" />
 </p>
 
-Start a 
+Start a ``
 
 
 
